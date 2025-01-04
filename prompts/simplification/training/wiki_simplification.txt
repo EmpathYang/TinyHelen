@@ -1,0 +1,40 @@
+You are a professional linguist who is currently revising the wikipedia into reading materials for preschool children. The vocabulary should not exceed 2000 commonly used words, and the knowledge should not exceed the natural science knowledge that preschool children can understand.
+
+The specific requirements are as follows:
+
+* We will provide the wikipedia text. Please revise it to the simplest grammar state and vocabulary you can achieve and delete any science knowledge that is beyond the preschool children's understanding scope. Only vocabulary suitable for preschool children, up to 2000 words, is allowed. Remove toxic and harmful contents. The revised content should be formal with textbook quality and harmless for children's reading.
+* Simplify all names of people, places, times, and artistic works. This includes:
+i. When modifying a person's name, replace the entire name in the text with a name from the name list that has the same first letter (note that the gender of the replaced name needs to be determined before selection). The male name list includes ['Adam', 'Benjamin', 'Cameron', 'David', 'Ethan', 'Frank', 'Gabriel', 'Henry', 'Isaac', 'Jack', 'Kevin', 'Liam', 'Matthew', 'Nathan', 'Oliver', 'Patrick', 'Quentin', 'Ryan', 'Samuel', 'Thomas', 'Ulysses', 'Victor', 'William', 'Xavier', 'Yosef', 'Zachary’], and the female name list includes ['Alice', 'Bella', 'Charlotte', 'Diana', 'Emma', 'Fiona', 'Grace', 'Hannah', 'Isabel', 'Jessica', 'Katherine', 'Lily', 'Madison', 'Nora', 'Olivia', 'Penelope', 'Quinn', 'Rachel', 'Sophia', 'Taylor', 'Uma', 'Victoria', 'Wendy', 'Xena', 'Yara', 'Zoe’]. For example, replace "Cinderella" with "Charlotte", "Carabas Davis" with "Cameron".
+ii. When modifying a place name, attempt to reduce the place name as much as possible without affecting the semantics and expression; if an equivalent substitution is required to maintain the semantics, it can be replaced with the first 2 uppercase letters plus the place name, such as replacing "France" with "FR country"; "New York" with "NE city". 
+iii. When modifying a time, modify it to a vague reference, such as "6:00 a.m." to "early in the morning" or "1945" to "the late 20th century"; only keep it unchanged when it's necessary for the global understanding of the context.
+iv. When modifying the name or reference of an artifact, modify it to a common word expression, such as replacing "Divine Comedy" with "a famous drama".
+
+The required output format is as follows, and mark the end your generation with the "<end>":
+EDITED:
+Your edited wiki paragraph here. <end>
+
+Example one:
+ORIGINAL WIKI PARAGRAPH:
+Alan Turing\nAlan Mathison Turing OBE FRS (London, 23 June 1912 – Wilmslow, Cheshire, 7 June 1954) was an English mathematician and computer scientist. He was born in Maida Vale, London.\nAlan Turing was born in Maida Vale, London on 23 June 1912. His father was part of a family of merchants from Scotland. His mother, Ethel Sara, was the daughter of an engineer.\nTuring went to St. Michael\'s, a school at 20 Charles Road, St Leonards-on-sea, when he was five years old.\nA brilliant mathematician and cryptographer Alan was to become the founder of modern-day computer science and artificial intelligence; designing a machine at Bletchley Park to break secret Enigma encrypted messages used by the Nazi German war machine to protect sensitive commercial, diplomatic and military communications during World War 2. Thus, Turing made the single biggest contribution to the Allied victory in the war against Nazi Germany, possibly saving the lives of an estimated 2 million people, through his effort in shortening World War II. <end>
+EDITED:
+Adam\nAdam was a man from EN country who was very good at numbers and machines. He was born in LO city.\nAdam was born in LO city on a summer day in June. His dad was from a family who did business and his mom, Emma, was the daughter of a man who made things.\nAdam went the ST school when he was five years old.\nAdam was a very smart man and helped to create the first machine that could think like a human. He made a special machine to read secret messages from a group of bad people during a big war. Because of this, Adam helped a lot of people and possibly saved many lives by helping to end the war sooner. <end>
+
+Example two:
+ORIGINAL WIKI PARAGRAPH:
+Australia\nAustralia, formally the Commonwealth of Australia, is a country and sovereign state in the southern hemisphere, located in Oceania. Its capital city is Canberra, and its largest city is Sydney.\nAustralia is the sixth biggest country in the world by land area, and is part of the Oceanic and Australasian regions. Australia, New Zealand, New Guinea and other islands on the Australian tectonic plate are together called Australasia, which is one of the world\'s great ecozones. When other Pacific islands are included with Australasia, it is called Oceania. <end>
+EDITED:
+AU country\nAU country, also known as AU, is a big place far away. The main city where leaders meet is called CA city, and its biggest city is called SY city.\nAU country is one of the biggest places in the whole world. It's close to other places like NE country, NE island, and some other islands. All these places together are known as AU region, which is one of the most special places in the world. When we add more islands to this group, we call it OC region. <end>
+
+Example three:
+ORIGINAL WIKI PARAGRAPH:
+August\nAugust (Aug.) is the eighth month of the year in the Gregorian calendar, coming between July and September. It has 31 days. It is named after the Roman emperor Augustus Caesar. <end> A\nA or a is the first letter of the English alphabet. The small letter, a or α, is used as a lower case vowel.\nWhen it is spoken, ā is said as a long a, a diphthong of ĕ and y. A is similar to alpha of the Greek alphabet. "Alpha and omega" (the last letter of the Greek alphabet) means from beginning to the end. <end>
+EDITED:
+August\nAugust (Aug.) is the eighth month of the 12 months we have in a year, coming between July and September. It has 31 days. It is named after a powerful man named Adam. <end> A\nThe letter A is the very first letter we learn. The small 'a' is used a lot when we talk.\nSome people say it long like in the word 'cake'. A is like the first letter alpha in the GR letter set. "Alpha and omega" (the last letter of the GR letter set) means from the start to the end. <end>
+
+
+### Input:
+ORIGINAL WIKI PARAGRAPH:
+{paragraph}
+
+Let's think step by step:
+### Output:

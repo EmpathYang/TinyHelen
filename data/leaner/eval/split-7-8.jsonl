@@ -1,0 +1,604 @@
+{"question": "What happens when you mix red and blue paint?", "source": "gpt-4-0125", "hash": "be1dfd07eb418e712e669bb8fe48ff3243f5fb98b8ce1bb4e3f788d6c79c1af1"}
+{"question": "Explain the process of how a letter gets from you to your friend.", "source": "gpt-4-0125", "hash": "787689aace6f93a0a60d2ac86cc13572853cc97835b25179af0e6af8d2584b1a"}
+{"question": "Why do we have rules at school?", "source": "gpt-4-0125", "hash": "73279c067b34574609a4b1e2e9bb854dfb1ca813d60ab2bb8cd408cfdb7893ea"}
+{"question": "Explain why we have different time zones.", "source": "gpt-4-0125", "hash": "d04e5c6df240b47054e422d23e4003ffbf64dad70a49c6b58a7972ff7ceda08e"}
+{"question": "Describe what happens in a story where a character loses something important.", "source": "gpt-4-0125", "hash": "13386d2bc3f911adb122194b8cae97ad1f43b14f1577bfe85250fcf2825d047a"}
+{"question": "How do bees make honey?", "source": "gpt-4-0125", "hash": "493847668f96821ed12dd5b6e604edcc11475426cd8f88e01fbbf5f53178365e"}
+{"question": "How do you stay safe when you're swimming?", "source": "gpt-4-0125", "hash": "18b4f5a81b1fa080ae8ade2b046ee80b19a135d097fd9020b00a909477147112"}
+{"question": "Why do people celebrate birthdays?", "source": "gpt-4-0125", "hash": "cd4d009d54c2be19c6834c4518159d866732ed8ce2c6336d288dc579345acc3a"}
+{"question": "What are the different ways to travel from one place to another?", "source": "gpt-4-0125", "hash": "2544b235254e9f8101f2392fdd87381706faf669bc0016503d56e2b557c29ba1"}
+{"question": "Why is it important to listen to your parents or guardians?", "source": "gpt-4-0125", "hash": "a6b03c411f6975cee95310d90eb902dabd4e200b2abfc83614c7a3b35479148d"}
+{"question": "Create a new superhero: what powers do they have?", "source": "gpt-4-0125", "hash": "99db16f1c4d4ba6dd9267d078c793465003806573c01e0545102973c31dd0128"}
+{"question": "Invent a new holiday; what do we celebrate and how?", "source": "gpt-4-0125", "hash": "d273f5867ae7f694266fcf292ebacc9e680245fa8bc98ccfd0cdd72834662c41"}
+{"question": "Describe the taste of your favorite fruit without naming it.", "source": "gpt-4-0125", "hash": "f5c651e6b2128160df6e188bf5f3ad60b9b4a76c28d721599f79cbf6137422b0"}
+{"question": "If you could talk to animals, which animal would you talk to first and what would you say?", "source": "gpt-4-0125", "hash": "d6508f56c8cb5623e3832a485b16ebcf977bb9c61fa5629d5726bc8abd36f7a2"}
+{"question": "Imagine you're a chef; describe your signature dish.", "source": "gpt-4-0125", "hash": "ada896b3033c048cbe699ecd5e83c582b3d5fb9966d599e4c94efe25ca594de6"}
+{"question": "If you could invent a new toy, what would it do?", "source": "gpt-4-0125", "hash": "f695b61102086ba096b8211db2f896dafb7e2f02d696174629bf4131233c6580"}
+{"question": "What is something you're grateful for and why?", "source": "gpt-4-0125", "hash": "4534016249581e1a0070d4aea005a153c79b0db5da83ba4a79e8ce04798cfc0c"}
+{"question": "If you found a magic lamp, what would your three wishes be?", "source": "gpt-4-0125", "hash": "7bb0edfc24e5a2bcee84dde66281b3f5771364d7b39c75cdd4ca7eee6b56dde6"}
+{"question": "What is the most interesting fact you know?", "source": "gpt-4-0125", "hash": "89d6021d580e997cdcf3437c44a7b88d46e6700614a01fcf4e8fcba23e486cbb"}
+{"question": "What is something that makes you laugh every time?", "source": "gpt-4-0125", "hash": "19e9334d0901e5c164d304a72d907b717c2759f2844230e1e9ab29e5da1af7f2"}
+{"question": "How do you feel when you try something new?", "source": "chatgpt", "hash": "9ed7173e71f29836adf5a654d58d103a42b006a441ac4230b75e96aaca6d671e"}
+{"question": "Describe a hobby you enjoy and why it's fun for you.", "source": "gpt-4-0125", "hash": "a0dcbd6a9a01b2851b5087199a2688a0fad4a4d58183b4f0c083f3ed47cd1932"}
+{"question": "If you could build anything in your backyard, what would it be?", "source": "gpt-4-0125", "hash": "a05dcd23775e254086969f5b87f9790c6b1b1aacf92ea075757b3674c12419c4"}
+{"question": "If you could change one rule at home, what would it be and why?", "source": "gpt-4-0125", "hash": "a40d13b7d124b3b2e301e5d6a78bc5e44dc6fae2710be07fc8806de549314891"}
+{"question": "If you could visit any planet, which one would it be and why?", "source": "gpt-4-0125", "hash": "eb2b3cdc7b448c82341c54d6059de59ed85d175aa3ed94efa7262a7fcd776e06"}
+{"question": "What is something you wish everyone knew about you?", "source": "gpt-4-0125", "hash": "d84ffa100c250a0df62f9d8ef057919691028a0f25da9bf57d85d089e5dcc4e7"}
+{"question": "If you could have any animal as a pet, which one would you choose and why?", "source": "gpt-4-0125", "hash": "4cd06529860a4d6f70dcd4f68cda209d8e8716d13067c0ea47b51b106e501dc5"}
+{"question": "How can we show kindness to others?", "source": "gpt-4-0125", "hash": "2de86bac3dfa43cf9a7b454a802cd7c53f90b316edf3bddbe49080aed0c89a69"}
+{"question": "If you were an inventor, what problem would you want to solve?", "source": "gpt-4-0125", "hash": "96a368d79c2ca9b96a76b0dd40582330fc0b15c1bb0cf23b2fb5446e675b04fb"}
+{"question": "What colors do you mix to make purple?", "source": "gpt-4-0125", "hash": "7a171196b33da259ddacc866a6978e72b71c2678a0c813909a3a9604f441de57"}
+{"question": "What do bees do for plants?", "source": "gpt-4-0125", "hash": "171bea58710c7bbd99d96c30b91d2a42fe122a2cf33627f8db6aa88294bfda74"}
+{"question": "What is the freezing point of water?", "source": "gpt-4-0125", "hash": "7d481280b00382b0b1a826319c4800dcfa8ff002ff0d43571231a0562359958b"}
+{"question": "Describe what a veterinarian does.", "source": "gpt-4-0125", "hash": "b2243f51bcd87bedcb098b4b37838308277c3a0a60948d6ce471e897e04069c9"}
+{"question": "Why do seasons change?", "source": "gpt-4-0125", "hash": "69545484ac56a0c81e980000c3b957765f1e2a2664be657638e1885aa2dd21f6"}
+{"question": "How do we use money?", "source": "gpt-4-0125", "hash": "13f6ba8fcd115dfabdd8c9a0e3e6886afe7b4876e110f7bc4ac5e03397f291f6"}
+{"question": "What is the function of the roots of a plant?", "source": "gpt-4-0125", "hash": "a220f99e8f8ba5df2e5bcfb6e8e4b90b7c61cfeda93ea054cef8647d626bb66e"}
+{"question": "What do you do when you get lost?", "source": "gpt-4-0125", "hash": "7ae63dae7c92523cbe9791dd281bb8f646dac3076369fcd9062b6d6a961dc2aa"}
+{"question": "How is bread made?", "source": "gpt-4-0125", "hash": "03a60d08d15bd7f691038592ddfec0210c3ff11cc0435e728ec15afd00d66bb1"}
+{"question": "How do fish breathe underwater?", "source": "gpt-4-0125", "hash": "e6bf000b4bf3ed0a94ab5d586b3a173d9ea2c336d14fb525ae7c647403e7c0de"}
+{"question": "How does a boat float?", "source": "gpt-4-0125", "hash": "1cd439a82228f623b91db0f9285362f2c3f83addb1893514ea97b283c8079446"}
+{"question": "What is a shadow?", "source": "gpt-4-0125", "hash": "965b8dc8d0fd751f3ccbf6dc62c8c4a92ec3fab8a3024b205237bd958eb57a4f"}
+{"question": "Describe what you like to do on a sunny day.", "source": "gpt-4-0125", "hash": "4aaaa6a721f623e7cf20fd77c09f98106443c3e9439d76add2455fb91c030bdb"}
+{"question": "Create a short rhyme about a cat that likes to nap.", "source": "gpt-4-0125", "hash": "a8872bcbfa9c03afb864cdb520a79387f824ad7682e1bd8e226e9f9a91dab390"}
+{"question": "How would you describe your favorite meal?", "source": "gpt-4-0125", "hash": "506084979f52d6d16b6e8d111aad0988024a8ad21dbb07e116dd5d655c428c8a"}
+{"question": "What would you pack in a backpack for a trip to the mountains?", "source": "gpt-4-0125", "hash": "92765e8763233f5c6469edbd5c1366914d7b2eec8004a0ff748ec88d284fa7d0"}
+{"question": "Create a name for a magical city.", "source": "gpt-4-0125", "hash": "8ec2970f8ae4d6658dac455546e79b90ce46f9875b15c7c72af0daf422627499"}
+{"question": "What would you do if you found a treasure map?", "source": "gpt-4-0125", "hash": "a174c771d6e3d904fd4b1dd365978d6d330bf0c1b1d94a7724c9863db667a320"}
+{"question": "Explain the purpose of a map.", "source": "gpt-4-0125", "hash": "3eb6726ce74e9e4c94d90306dd172f5f7709936a300a87efc64707f64d40966d"}
+{"question": "Create a new holiday and explain how people would celebrate it.", "source": "gpt-4-0125", "hash": "ee7f8aafa5e1adcb9647e38a02756feb7e589aa67b97ebe8616ac244e35656a1"}
+{"question": "Invent a story about a flying dog.", "source": "gpt-4-0125", "hash": "abb3606c18204ab76841e8d5dcd9fbafb7851f362df8d0b49638a17e73c5baaa"}
+{"question": "How would you explain the internet to someone from 100 years ago?", "source": "gpt-4-0125", "hash": "05ff187d9844cd5b5bd6c9b5f714f1d174c2ab4ffe3a760448461fc37ceff258"}
+{"question": "What are two things that make you really happy?", "source": "gpt-4-0125", "hash": "b1de39c7b4f6e5572b507c10832588be58bfdae8b875e04a9382452baa542e9d"}
+{"question": "How do you help out at home?", "source": "gpt-4-0125", "hash": "208bb1e4ffc91597c75803fd22026af2fd471e07ad0e50aeca54c060aad627e4"}
+{"question": "Why is it important to share with others?", "source": "gpt-4-0125", "hash": "fa7370b7a07da0b1317006d4f46464f9afa94e43afe57a6bde083030b496c598"}
+{"question": "How would you make a sandwich for a giant?", "source": "gpt-4-0125", "hash": "6c930e3d393e06249146a8e55a809ff72b70cd687ea914c61b39a204e05b5d6c"}
+{"question": "Why do people have different jobs?", "source": "gpt-4-0125", "hash": "7916103b70d876d1eadeb085596641f1f5f7f223fdb320dc3a847360eb0cbcd4"}
+{"question": "What are three things that need water to live?", "source": "gpt-4-0125", "hash": "bf08605ccd4ddb143599e4613baa1a9cf3424048dcf2b65e49e12ba1ad15c5cc"}
+{"question": "What is something new you learned this week?", "source": "gpt-4-0125", "hash": "6944ce4d65334e5adf185e412b5d43e719aaab67f54a04a86945e4b80388af27"}
+{"question": "Why do people wear clothes?", "source": "gpt-4-0125", "hash": "06326c5f4b467262f85ff4c13c9a42ad00501d7d93af988655a3f1586a559c57"}
+{"question": "Can you think of a story where the hero loses?", "source": "gpt-4-0125", "hash": "c1f1b427c222e5e3b32aea62d78350655d0eb1f1bb68f063221d0235d45e1943"}
+{"question": "What would you do if you were the teacher for a day?", "source": "gpt-4-0125", "hash": "7317987610493ffdbd871c2e3c98f7f1e549a48b678b518cd319175242dd3675"}
+{"question": "What is the most interesting thing about space?", "source": "gpt-4-0125", "hash": "f67edcdb60e51ef81ade20f2f6a91183c9a763709aa07f88b6c46d6fb57c134e"}
+{"question": "What do you think is the most important invention and why?", "source": "gpt-4-0125", "hash": "04596c92f9411e462c8fe0b93a514e17d247628ae5fe37b2004198741df9ce9e"}
+{"question": "What would you do if you found a magic wand?", "source": "gpt-4-0125", "hash": "a09cd80e7f54a5fa1e7c0cb5c716aaf553f944e275c9b8343e6683c7928b78fd"}
+{"question": "Tell a story about a lost puppy finding its way home.", "source": "gpt-4-0125", "hash": "ce4b950849b4a41da8cbc0f4d52d6ee41ad868fb9bb9c942022e0e69aca7d74e"}
+{"question": "Create a fairy tale about a dragon who loves to read.", "source": "gpt-4-0125", "hash": "0da57aa43922c518bd173dff4ae60152dcda77c1be4f0b90fdf0a1ccdbda93b6"}
+{"question": "Describe your ideal day at the park.", "source": "gpt-4-0125", "hash": "bb0f9db6cf7bf903a09eb469283e92251245d8966c22983af667a494db05e7e3"}
+{"question": "Describe the best gift you've ever received.", "source": "gpt-4-0125", "hash": "f4932cf8a3fc6e818aa7da9ae4a0828a0be936aca76e1f875b4a2ccf6ef8f372"}
+{"question": "What would you pack in a suitcase for an adventure?", "source": "gpt-4-0125", "hash": "2da6bab76b1d490087a1acfdf0ad188b9ca416db57160b70c61b4219de0939eb"}
+{"question": "Tell a story about a fish that can fly.", "source": "gpt-4-0125", "hash": "5a20f0dd96b37e056c3940c4443b8c203c2bcd99ae28aef0b17fc08fc9bb0b49"}
+{"question": "What's the best way to stay warm in winter?", "source": "gpt-4-0125", "hash": "df4d318ddb5bc112bd143b74d3f0b506d252f257be367b9539989993e7171e81"}
+{"question": "Create a new animal and describe its habits.", "source": "gpt-4-0125", "hash": "b5e02022f92506c3ce525e446c65ba2e6cbf2df3c5995696fffb5a25ef0ffaa9"}
+{"question": "Describe what you would do during a power outage.", "source": "gpt-4-0125", "hash": "043e5915fa9704c04c5f36126913849cb05c8b41f599942a7497260b90bb7e17"}
+{"question": "Describe the perfect ice cream sundae.", "source": "gpt-4-0125", "hash": "e21f89f3abea80bb405165c756d65073d74e50f2b2bd0662e10b5a1b0e1509ec"}
+{"question": "Describe a day at the zoo; what animals do you see?", "source": "gpt-4-0125", "hash": "2cabd4a5e98dde56623d1461fa73bc89b1825cfd34ddc61b9cd0f0bd177b0426"}
+{"question": "Tell me about a place you'd like to visit in the future.", "source": "gpt-4-0125", "hash": "34e5cf43ccfbcab107569e4ec8829c53cfb8f6e2a29e15adc358b32edc3592cf"}
+{"question": "Imagine a world where cars can talk. What would they say?", "source": "gpt-4-0125", "hash": "e21b49dde2ce8881bd5a0fc12452402d827b7e061d7de39b525788d59a42b993"}
+{"question": "Create a story about a magic pencil.", "source": "gpt-4-0125", "hash": "fcb9dd8f0016229d0a8c8b192eeb7147629fbafc4bd866cf1ded8788aa739b55"}
+{"question": "Write a dialogue between a sunflower and a bee.", "source": "gpt-4-0125", "hash": "590008609b44283b28b92dc1791b479d30318ead88c3e684bc3492fe37c24c25"}
+{"question": "Tell if the word is a \"tool\" or \"not a tool\". Hammer", "source": "gpt-4-0125", "hash": "1436aa4c84cd002063b8277ff7241d8875963e4fc2089c518c18c9f2e7604183"}
+{"question": "Tell about a book you read and what lesson it taught you.", "source": "gpt-4-0125", "hash": "2a2090b3858ac3afdb2f94942cd4e26b274955aea6c7d612a0c59b03bea924c1"}
+{"question": "Tell if the word is a \"body part\" or \"not a body part\". Eye", "source": "gpt-4-0125", "hash": "d06718148549e03256eb3a6a88bf2e3841a4b716e68deef91b755172ed03ac72"}
+{"question": "Explain why it's important to listen to teachers and parents.", "source": "gpt-4-0125", "hash": "741765eea86046f39fbc27714f25276c29c72ccbec66f2f10d19a24e3a58c108"}
+{"question": "Write a story about a lost kitten finding its way home.", "source": "gpt-4-0125", "hash": "36cf27f8329e6b6d609e2fcfbd8102102c963f5728684c4cf1174a238dcca0ff"}
+{"question": "Tell if the word is a \"musical instrument\" or \"not a musical instrument\". Violin", "source": "gpt-4-0125", "hash": "63c949dccbb8e4294c0fa2c2a53866df9404e482e29ddc7be3f0beb78c710681"}
+{"question": "Describe what you would do if you were the principal of your school for a day.", "source": "gpt-4-0125", "hash": "c17ebf02026389644dc0300796038cfb0868fe19f247476c6f06a13ad1838d26"}
+{"question": "Explain how to tie your shoes.", "source": "gpt-4-0125", "hash": "1107fe8876d346354c85d050929137aa5620f1cf8ca451a2d5030f396cd31fd8"}
+{"question": "Write a simple dialogue between a cloud and the sun.", "source": "gpt-4-0125", "hash": "9b56e8ad1c740acd06b9961d58533b8f774af8e2ea2a1054629c0a2d98c34653"}
+{"question": "Imagine a device that makes homework fun. What does it do?", "source": "gpt-4-0125", "hash": "341e9c3facd0ee3a1666de1c4eb521f7d38718bded634ec6eef6bb4dfe9375bb"}
+{"question": "Tell if the word is a \"vegetable\" or \"not a vegetable\". Carrot", "source": "gpt-4-0125", "hash": "1abe0bc3c798b18f93756e9aa4a161ca74ff93df1a2ff5e7f24df9fa15a08dee"}
+{"question": "Describe your best friend and why they are special to you.", "source": "gpt-4-0125", "hash": "850c4994eab2e18c974a580f5ae5aae1c8ad15dcec5e4c439bc3e0417845d51b"}
+{"question": "Create a story about a superhero who saves books from disappearing.", "source": "gpt-4-0125", "hash": "d4ac3f18e815bb82f3841d3fdf4c9255333b22550b6fb2613e757b4507f41e99"}
+{"question": "Describe a family tradition and why it's important to you.", "source": "gpt-4-0125", "hash": "09a85bcb78d8f4533f91aca23b081a43f85c9c00808bb8414205e89d8eea4856"}
+{"question": "Explain what you think about before falling asleep.", "source": "gpt-4-0125", "hash": "db2e66239f5e99478d9b72e2deeb1570dc076d9be8c96d31c8532c887c6c8fc3"}
+{"question": "Write about a journey to the bottom of the sea. What do you discover?", "source": "gpt-4-0125", "hash": "852f09be8993b6582f651a4131219dc70688c5f4654ada0490c218ae1262a472"}
+{"question": "Describe a day you spent with your family that you really enjoyed.", "source": "gpt-4-0125", "hash": "5e4c610cfb670a30c469a32aa2d546de3b49128c183c78d36073de8a391ee4ee"}
+{"question": "Explain the steps to clean your room efficiently.", "source": "gpt-4-0125", "hash": "cd83d4baafbb04fc0ac37ad4cfd35f0d463e84cf5bcb20a1f7a2ad0c24892b59"}
+{"question": "What are the four seasons, and what makes them different?", "source": "gpt-4-0125", "hash": "32f905261a508a8724d9a07d0cb2d055621c8fdcb30c34ec479912255d92176e"}
+{"question": "Name a job and describe what they do.", "source": "gpt-4-0125", "hash": "3b4fce9a393064b0f07433ad1269556cb64a0f015d1f2e42f0a5a26f9554bab1"}
+{"question": "How do you know if a book is a fiction or non-fiction?", "source": "gpt-4-0125", "hash": "07b9d810b536058c65d09e96120c3ad22f7d4ec98b31ff9daa2927a3ab7ea4fd"}
+{"question": "How can you be a good listener?", "source": "gpt-4-0125", "hash": "c7e985e2358e040b2d7f2639e1ed52020fce52a505447101ba8782e5d4ac24f1"}
+{"question": "Explain the difference between a city and a village.", "source": "gpt-4-0125", "hash": "b98b09a2f59a81617fc63959604520eedc245b8385d1cfa167bc56be423e4491"}
+{"question": "Name two ways to show kindness to others.", "source": "gpt-4-0125", "hash": "0918a134f4fef3fa10685f44a8a7c82085ff68727242781e4dcc4b2fba01aaa7"}
+{"question": "Tell why washing hands is important.", "source": "gpt-4-0125", "hash": "ece29c91ed27e649d96273676534719c27ece5df1f34405274571f15fc4703a1"}
+{"question": "Name three things that are made from wood.", "source": "gpt-4-0125", "hash": "756d1e8250a70baeea4eac34754b82f24d28fea881254735fb99439b2291ae03"}
+{"question": "What should you do if you're feeling very sad?", "source": "gpt-4-0125", "hash": "9675513a19ddfdd51715674ff2f799540834e100e17660297028cc64efc5aba9"}
+{"question": "Why do trees lose their leaves in fall?", "source": "gpt-4-0125", "hash": "388c76eb59f902126ff1d7dc1b53d60c1d07ba56511c27b92240d7d868136039"}
+{"question": "What are the steps to brush your teeth properly?", "source": "gpt-4-0125", "hash": "0e5af0804ec1d68822fffad4cf04eba3b29fd871410e34d2a3b05e1b40ff4e34"}
+{"question": "How can we help animals in danger of extinction?", "source": "gpt-4-0125", "hash": "fc4acd984378be599f7bf333ac2c2098229e3905ce227857a16ebb84da1edc4f"}
+{"question": "How does rain benefit the earth?", "source": "gpt-4-0125", "hash": "a50cc7bba6f03675d05691460a894417dfc426c94cf47851500234bccd9302aa"}
+{"question": "Describe your favorite place without saying its name.", "source": "gpt-4-0125", "hash": "45d332e61aed14829a236133bec8f92f84a0b9ba489edd4ca1118e91d48e4c19"}
+{"question": "How would you convince a friend to read your favorite book?", "source": "gpt-4-0125", "hash": "095c710511798418997797237f9928bb74b42451c1b8a641953237b5c332f84a"}
+{"question": "What does the word \"freedom\" mean to you?", "source": "gpt-4-0125", "hash": "723a738ad657ad639e750e01376484bae77b9e7f6acff5181b539e98992a4e40"}
+{"question": "Imagine a machine that does your homework. How does it work?", "source": "gpt-4-0125", "hash": "802e92863fa308e24a2e6929c1ba0d163f0c73a2bf2e4a3e29f7bd1813d91f8f"}
+{"question": "If you were a teacher, what subject would you teach and why?", "source": "gpt-4-0125", "hash": "c263d2583511daea6867d22b50d601b0d74dd4e36ac35edd24ad1d755b28e9c6"}
+{"question": "Describe the taste of your favorite food without saying its name.", "source": "gpt-4-0125", "hash": "5fa0f4a4d71abd270ce24ae3fdaae90cd81d7e1a5d72343aaa605ee925af4728"}
+{"question": "If you could invent a new holiday, what would it celebrate?", "source": "gpt-4-0125", "hash": "12b2b96d9d92c7d1d531ee1a04963745455681155a9b9a9377e584f195c014d9"}
+{"question": "What makes your best friend special?", "source": "gpt-4-0125", "hash": "a806cb1fcb1d2b5025bd1dbb298f034f0fc3ef944f60e3b3a7aeaf586398a5de"}
+{"question": "Describe your dream birthday party.", "source": "gpt-4-0125", "hash": "9c4c4a600a076ba5e282d95a9ffcc805651aa6bd5300a33f92329038308d33ce"}
+{"question": "What is the most interesting word you know? Explain why.", "source": "gpt-4-0125", "hash": "756939e77d9f477af1b17787c062962983fba8b17d3a6f37d34ea157beb44e15"}
+{"question": "What is the funniest joke you know?", "source": "gpt-4-0125", "hash": "6eed2aaad719b0b708275c14436b0552f1b885dfa200d704592639b16eecdd06"}
+{"question": "How would you describe the ocean to someone who has never seen it?", "source": "gpt-4-0125", "hash": "059fd34a0d084645f44492bed1858cd1e85907604c35d5c8f152934897ad2211"}
+{"question": "How do you know when someone is your friend?", "source": "gpt-4-0125", "hash": "34071ac9f135eab25d707f8a63f74051a2052d62b12e3ad479afe89d4f954adb"}
+{"question": "Describe a place where everything is made of sweets.", "source": "gpt-4-0125", "hash": "a747aef5b1d47a9415a34f55cf2c3978a1afbd001752d6f66c55c469b4c25d6e"}
+{"question": "What would you do with a box of crayons and a blank piece of paper?", "source": "gpt-4-0125", "hash": "7ed359830d9ef427984c54f3b56ebed2ede86de424e1c450896c040127bd104e"}
+{"question": "If every day was a holiday, what would you celebrate today?", "source": "gpt-4-0125", "hash": "092e6f5344bd28f26f9a095be3e2200e90dac40fa6390ce5e19fb929c3b782d6"}
+{"question": "How do you think a robot would do your homework differently?", "source": "gpt-4-0125", "hash": "d257bd4a0a13fe05f56265ea89eaa34a0222d4725b03f2bd41b86c9f44d6d209"}
+{"question": "Why do you think some animals are nocturnal?", "source": "gpt-4-0125", "hash": "77cc8fb0870629822cafe8c571099f5c1e9328238f4c5a6b04a296b388aab5be"}
+{"question": "What would you pack for a trip to the beach?", "source": "gpt-4-0125", "hash": "72955d5b7e7e70eef716a4da74c0f60c7b355323b5932fac3d5ad9787b313261"}
+{"question": "Why is it important to listen to your teacher?", "source": "gpt-4-0125", "hash": "0ff3e72a020a25e19c8243978cf817d175340b15470acf26f88e2e0f31b2c06a"}
+{"question": "What do you think about before you make a decision?", "source": "gpt-4-0125", "hash": "2978eeddd1e8419e31f37d0bfc698b0a014b0abb274e1800a7c878237c28d1e7"}
+{"question": "How do seasons change in your country?", "source": "gpt-4-0125", "hash": "7fdcc2770b1299140e940c6e9502646c6f278236faf98d4031f415f46e3b3fd9"}
+{"question": "How do animals prepare for winter?", "source": "gpt-4-0125", "hash": "7f326ab749386c6453eab6961984930ba596f6ed7d3f63c1c6cb98b2d2edbf5b"}
+{"question": "How does music make you feel?", "source": "gpt-4-0125", "hash": "32da6d91611f56f114b8b9c9097b91ac26dbe64b762efc93bdd4caba672977f3"}
+{"question": "Why should we take care of our books?", "source": "gpt-4-0125", "hash": "3e81bb65e75fb10d2f59610d82f7adecba9afc6374a0f8f50aea5156e6d6f55c"}
+{"question": "Think of a new way to solve a common problem at school.", "source": "gpt-4-0125", "hash": "420c520c77052b82c07ba8b0b532dd2f8f94f4183f94bf70c8c066d05f167192"}
+{"question": "Create a riddle about a common household item.", "source": "gpt-4-0125", "hash": "7c941a053fbecb5a7645021ccc8bf22b6830fec87c305a2f30fb16e30d68b3e7"}
+{"question": "Tell how you would decorate your dream room.", "source": "gpt-4-0125", "hash": "3b21e0b01e60d2dd7973a076dabbb4f5b428e495a8263bfdff28d28111746541"}
+{"question": "Tell a story about a lost toy.", "source": "gpt-4-0125", "hash": "63369a01e0a646328f6ac9bddce8ec40cecf3b44c211b03ad7e5884109aafcf8"}
+{"question": "Describe a festival or celebration in your culture.", "source": "gpt-4-0125", "hash": "fa0d7b4b9a05f34e5523d0001c6c4acf96d50ddfe1987c64cfcb7e660ffbc0e1"}
+{"question": "Tell about a time you were really surprised.", "source": "gpt-4-0125", "hash": "2cba3e2db9d9122e932d750bb3aac391e1a71f9cfa07d6c9253a301911619de1"}
+{"question": "What are the rules of your favorite sport or game?", "source": "gpt-4-0125", "hash": "12f7abc05ef3dd89be1f1162ae13f05410b1d3792bcbb6bfebbc5b2d63691115"}
+{"question": "How do you decide what to draw or paint?", "source": "gpt-4-0125", "hash": "8afa85793a303a28c73727d56a01152c1894852981522bab1fde277c45e1fced"}
+{"question": "Tell me about a festival or holiday you enjoy and why.", "source": "gpt-4-0125", "hash": "2e3e2c0a31d94ca6e9717e69a45bffe05a786d81e00efa825a447081dfba4a1d"}
+{"question": "Describe what you would do on a rainy day indoors.", "source": "gpt-4-0125", "hash": "299f57de93c29b3cc1a07a30044933d98af3482df2e8029b4314e7827b410b7f"}
+{"question": "Explain the rules for being polite at the dinner table.", "source": "gpt-4-0125", "hash": "90e1ad2879fd231c13256fabdfc5370eaad5b8f971e0ab4907d7df7644ae1112"}
+{"question": "Describe how you prepare for the first day of school.", "source": "gpt-4-0125", "hash": "7f9cc050ce9b306685f650efdc5a5a76718f7293a50dada9c1935d75b83c3e0a"}
+{"question": "Explain what you like to do during winter.", "source": "gpt-4-0125", "hash": "aedddfca89c627caa28bd6de17ab7ca895e0f7d1d17a565adcf62af216cd8e1b"}
+{"question": "Tell me about a science experiment you found interesting.", "source": "gpt-4-0125", "hash": "77ea0c3d25770fae8de28093f7e801fd836f53015f589a5d235c80cd7d979844"}
+{"question": "Describe what makes your family special.", "source": "gpt-4-0125", "hash": "a26e7efbc99fcdc4d95b46d768bb25edeea97b3dc0f2d7cff631739b2817799c"}
+{"question": "Tell about a tradition in your culture.", "source": "gpt-4-0125", "hash": "dcb4f7c9c17a80a5cad4c9d6f8c7f3de8fed04ad0396f3eee91aa6f4228c56f5"}
+{"question": "Tell me how you learned to read.", "source": "gpt-4-0125", "hash": "0f0f49082e61433f5b02f48a09d6f926b6c68097e7ea1ba0c8ad03adc3b90be3"}
+{"question": "Tell about an invention you think would change the world.", "source": "gpt-4-0125", "hash": "ad24a804d3a01fb36b2b32b6f830b16ecf13bbd5080853cc265d7f1d28b8f688"}
+{"question": "Describe how to stay safe when you\u2019re swimming.", "source": "gpt-4-0125", "hash": "8d156012a57a8f98774aa2e235558c058cf61d83653e98a57ed7d5cabb9487b3"}
+{"question": "Tell about your favorite outdoor activity and why you like it.", "source": "gpt-4-0125", "hash": "b69c40f4f7f824c27d0630afceb9ec47461f201e15675b7bf575ce7fbf4cfc1f"}
+{"question": "What do you think the story is about when you hear the word \"adventure\"?", "source": "gpt-4-0125", "hash": "97cdbaf903cbc7dbda530208b5c0c7e12259ad3e583d14c2819207f2ffb04e3d"}
+{"question": "Can you explain how to play your favorite game to someone who has never played it before?", "source": "gpt-4-0125", "hash": "cb1c2310122774c9e01911b70fa13d9e69707340e9c1f4d69b0fdbe9a2fbca61"}
+{"question": "Is saying \"You're not invited because I don't like you\" a kind or unkind thing to say?", "source": "gpt-4-0125", "hash": "0b66917156f02f8b5dc928fa18f7d1c2360203fbf78664b696c6e0f316592b1b"}
+{"question": "Describe your best friend using three words.", "source": "gpt-4-0125", "hash": "46dbe7809dd5d16d522625607a7234bdd811c62abfa4c8ea969dd002fe9009e9"}
+{"question": "How would you make a sandwich for lunch?", "source": "gpt-4-0125", "hash": "ac63371bc871c5d0f26cc143f3bc4608b3e8392aa331e7a48badd71c8bc553b8"}
+{"question": "Why do we need to exercise?", "source": "gpt-4-0125", "hash": "123799d34df2d6b677e29471b321b01846c10c8653c6a06d2b7d28d3c6cf58a3"}
+{"question": "How do you show someone you care about them?", "source": "gpt-4-0125", "hash": "6b596b8930fb8cde591f5910c214199404ce8fb1bf349290ab78b3c34b761aa0"}
+{"question": "Can you explain how a plane flies?", "source": "gpt-4-0125", "hash": "0930a3fccdc92855ff146d3e9216b28397acda36f944d8d7868860081b1dfcae"}
+{"question": "What do you do if you don't understand your homework?", "source": "gpt-4-0125", "hash": "98d8f5cf01f8710eee8166c2a8e6784e4eb44419d0bbe586373902ff076427aa"}
+{"question": "Why do we have laws?", "source": "gpt-4-0125", "hash": "d328c4cb612e0b72ba15a7b9db755c935b8bd3c807bdcf4dff1eb50eeba11719"}
+{"question": "Can you name something that makes you really excited?", "source": "gpt-4-0125", "hash": "3ecffc70d9a3fc730299b03d88ee7dda80cc6772982e5ced6e8e29cf506c181a"}
+{"question": "How do you apologize when you've made a mistake?", "source": "gpt-4-0125", "hash": "30509df34d04dde19f81851acbfedef265e69188cc1172ee407133ff5121cd75"}
+{"question": "He does not like to study for tests.", "source": "gpt-4-0125", "hash": "6e0be433f20038baf857c855c6895a89324a8ed7e685608b82d35bf97be7aa7b"}
+{"question": "Happy Birthday! Hope you have a fantastic day!", "source": "gpt-4-0125", "hash": "6e53da68fa831416de105c1f5ad4308f446e322ac1a5fc4404ee7d3a6abc9640"}
+{"question": "What color do you get when you mix red and blue?", "source": "gpt-4-0125", "hash": "58124dea19b1ce3282567835aedaa36b00b2b4f03f262af30d5c18315db25034"}
+{"question": "Tell me a story about a cat that found its way home.", "source": "gpt-4-0125", "hash": "7fc7849841224c0297a524ec75f6fb20962ce02f42625491b2c627a87042d1e8"}
+{"question": "How do you feel when you listen to your favorite song?", "source": "gpt-4-0125", "hash": "f7cfeade1c7a4594df6c6d0ac2ba61b79c74b0ba84e6c38104ce2da93b14372e"}
+{"question": "How can we show kindness to animals?", "source": "gpt-4-0125", "hash": "4ef8c58d9961af976576d61ea65675dedf752b3987429fb06b9a4d6b6140acfd"}
+{"question": "Can you name a job that helps people and explain what they do?", "source": "gpt-4-0125", "hash": "f291ce5f923238c1c9d104df0a49661bb211d663146c4739ac08762b67e8b8fe"}
+{"question": "How do you take care of a plant?", "source": "gpt-4-0125", "hash": "7ee230354699d7bc5cb0a2bcaf3f82bb22eba61f730ed718741e8cd582e76397"}
+{"question": "Can you explain what happens in a movie you like?", "source": "gpt-4-0125", "hash": "479f5e612bd981eba34875d705b32a7e244da4bda12bfe77fc238238057b17f9"}
+{"question": "Create a new ending for your favorite story.", "source": "gpt-4-0125", "hash": "61c34109f700074e64c4807604980bb97815ffe3fc3108a251caf6fa7a334fa0"}
+{"question": "How would you describe the color blue to someone who can't see?", "source": "gpt-4-0125", "hash": "a004e0c58a53c7342311adf83c81daa98e04f0a29bf363db2818170eebc9e300"}
+{"question": "How do you feel when someone interrupts you, and what should you do?", "source": "gpt-4-0125", "hash": "2efa94a1a7825b01bb447adbbdef4826944bdfc005af792a8f06a6939b4ec1ed"}
+{"question": "What is the main idea of a story you recently read?", "source": "gpt-4-0125", "hash": "5a3f922f250b8181a14741d431f0ef043dc8e301c612d381db679709c6e4dafe"}
+{"question": "How can you tell if someone is feeling happy?", "source": "gpt-4-0125", "hash": "003b36c699bfdd91ea997251d3c59f5ef44ed3dbe8399bd23d699d6b4ff3c7fb"}
+{"question": "Explain what it means to apologize.", "source": "gpt-4-0125", "hash": "522939f9b7703dd6759d66467a5454dad3213dd6e5473d6ea36737a317601a30"}
+{"question": "Describe a time when you felt really proud of yourself.", "source": "gpt-4-0125", "hash": "9cbb72b0dd4cb02be54bce3ef238558365cdad80fa5ca864ab9b30bc4ea0043c"}
+{"question": "Explain the importance of having hobbies.", "source": "gpt-4-0125", "hash": "6d24a27dda6d63f4a48c4931b098b90e176ccbc56a5fb30624a82336d0b61de3"}
+{"question": "How can you tell if a story is fiction or non-fiction?", "source": "gpt-4-0125", "hash": "bf42106449e1cf77744265a811657da8f64f4e33502c688f4e9e0c687cadf5f7"}
+{"question": "Why do people need friends?", "source": "gpt-4-0125", "hash": "9271a6168b00b7d6293b61a88ffc1e059ec6db3db4696f624028898097a44cf4"}
+{"question": "What does it mean when someone is called a \"good listener\"?", "source": "gpt-4-0125", "hash": "fec49e63a120102ebfcbb9c1c0cb1a944e19232bee11f8eb50380de216dc6906"}
+{"question": "What are some reasons people write stories?", "source": "gpt-4-0125", "hash": "193ef871df229ca42004c35e9b49a9859f3f647841405d87d90bd3bcb500bb75"}
+{"question": "How do you feel when you finish a good book, and why?", "source": "gpt-4-0125", "hash": "3e590d2504715f29d391fdbc12b696dfd85929bde21542af63129c779d8c7943"}
+{"question": "Explain what it means to be honest.", "source": "gpt-4-0125", "hash": "6af237cd2f2933ae1b31bfdf5b5f7ed6644ab600b8e191a8b451ed781a5e0d25"}
+{"question": "What are three things you can do to be a good friend?", "source": "gpt-4-0125", "hash": "d61d24233350793304d03630b715b5a734c75c2984813eb54946a9c127a62ce8"}
+{"question": "Explain what you do before going to bed.", "source": "gpt-4-0125", "hash": "b19d87740eafcf523ec116639cfd8e7666a2a5222a78af52b04f6dea0a907289"}
+{"question": "How does the weather affect our clothes?", "source": "gpt-4-0125", "hash": "169e2e58bc9cc2f138dabd077f3a5b8466888a4a09fc86c910b8ec2e1202b468"}
+{"question": "What do you like to do on a rainy day?", "source": "gpt-4-0125", "hash": "cf48ab6c1fd681f10d23a612f04fb6a45acacf52dc8d669142caa607e1dee276"}
+{"question": "Explain the process of getting ready for school.", "source": "gpt-4-0125", "hash": "28926839b741446163f50a516b449c67e0d49c6863e1e833e997574d0c2e547e"}
+{"question": "What is something you're good at?", "source": "gpt-4-0125", "hash": "83c0490ce2b924dcc37d68f366ca37249cac73555587c7fcd73e5e136614c5a2"}
+{"question": "Tell me about a hero in a story you like.", "source": "gpt-4-0125", "hash": "b4cca1f46ab52c4d42013166d13c928e8840b49f6bad9e82fcd38d7207a168e8"}
+{"question": "Describe what you do on the weekend.", "source": "gpt-4-0125", "hash": "d87448a157656f0005be8dc265b610e012287ddfc176f356c62b38d5da01a8c6"}
+{"question": "Describe what you would do on a snow day.", "source": "gpt-4-0125", "hash": "8469d51c2325849256ea0e8c74dcc00fd0102c7ea3303dffd5935efcbc40bca0"}
+{"question": "Tell me about your favorite subject in school and why.", "source": "gpt-4-0125", "hash": "8f32784ddccdc3f259515ea9d26f220b444b9f002d76916080322a3a60c6a385"}
+{"question": "What do you think makes a happy family?", "source": "gpt-4-0125", "hash": "b52c0f5145840264396b3f9137e20736bc5e90ac583dfa46f589e737f48ab00e"}
+{"question": "Tell me about a time you made a new friend.", "source": "gpt-4-0125", "hash": "78a220facf3392bf02d7b6abe612bde607a80155ea1c4700771f576b142b2779"}
+{"question": "What is something you've learned recently?", "source": "gpt-4-0125", "hash": "945d78042f25476637718d19342776567a6c8c055d646bf5facdcad09963e229"}
+{"question": "Describe what happens in a day.", "source": "gpt-4-0125", "hash": "7378816ff58ee409f3090d015f6347a5cf5c6579a41ecfa7c9976b087085bad8"}
+{"question": "Tell what you like to do on the weekend.", "source": "gpt-4-0125", "hash": "c0d91c17ab1fd4a05f927031209d9bcd5f8895abcaf7bc03d1920326ae84b1f0"}
+{"question": "Explain what you should do if you see someone fall down.", "source": "gpt-4-0125", "hash": "d920728c592eea25e42976dda63cdf840f316bb47d9ada95703f3e83c996eb84"}
+{"question": "Explain what you like about school.", "source": "gpt-4-0125", "hash": "2a138bee31bb70330d3c97bf222988768fc617c9bd3e482d52a7fb93e777397f"}
+{"question": "Describe how to make a simple craft.", "source": "gpt-4-0125", "hash": "1496a050469162b25534b16e1e62796688a0982f93d1c59730058c9302590f59"}
+{"question": "Explain what you do when you are sick.", "source": "gpt-4-0125", "hash": "b51a5aa2505085a9b076bbdab5d201747f1be6a219595465e16cd4b59f1b1660"}
+{"question": "Explain how to make a birthday card.", "source": "gpt-4-0125", "hash": "fb6570651947d3e4944ce158b8645370098e3a99beeb1c816a7dfab039f18bb7"}
+{"question": "Imagine a new planet. What is it like?", "source": "gpt-4-0125", "hash": "9721431df63141350a0c49058cfbaafc8f9b6806b74103b61e36fca55d454db7"}
+{"question": "How would you decorate a room for a party?", "source": "gpt-4-0125", "hash": "33e46bebf5eea4cb020aac40676545cd3dd5f01dea37ed6165bcb55987992d7b"}
+{"question": "If you could invent something, what would it be?", "source": "gpt-4-0125", "hash": "5517f86e20baab3db96afa93c5aa9480d64d6398864eaeac457b5d85dae81caf"}
+{"question": "What do you think the world will be like in 100 years?", "source": "gpt-4-0125", "hash": "12005afa8cd90453653a3d799f204e6ef0058a65f19a3b230c69c92834ee1740"}
+{"question": "What are the rules for being polite?", "source": "gpt-4-0125", "hash": "abec40e17c6113448e74ed19bc02742d5dd6dd48c42a3b2701711c42f6e25231"}
+{"question": "What are some things you can recycle?", "source": "gpt-4-0125", "hash": "b090684ab9beb6591999a359fad0cbcc8e07c909e50ab3694d77374fe1e91e2b"}
+{"question": "How do you take care of a pet?", "source": "gpt-4-0125", "hash": "37937406fe39148048e83760863745625b2e556c0d1602f1d54403d77cbb063e"}
+{"question": "What's important to remember when you're on the internet?", "source": "gpt-4-0125", "hash": "9cfb6d6845a65a5f55cd242813d14f84bb88128b9e86ea62e803fa8e3042c837"}
+{"question": "Describe a game you can play in the water.", "source": "gpt-4-0125", "hash": "4571d89b27d270a81fdaafb28f452ad5ec96166746c465c222ae382ae1a76c39"}
+{"question": "What are some ways to be kind to others?", "source": "gpt-4-0125", "hash": "fd2d98c6a5a1b84269260524e1ca1683e31e53e6315b5608be52fdc1afdfce6e"}
+{"question": "How would you design a space station?", "source": "gpt-4-0125", "hash": "2ba7063e8f3e68b14daa394327569897831f71fa1a60a81a949506e339ea357b"}
+{"question": "How can we help people who don't have homes?", "source": "gpt-4-0125", "hash": "8379a904db4600570388f75c78c746f62a4ea4ce149e8eb286f96f31f6a35b1a"}
+{"question": "How do you decide if something is right or wrong?", "source": "gpt-4-0125", "hash": "a23aff9ec805aae0ea3b3b71fb7c82ea7c83b899b010a8f6fe0c91146a0915e2"}
+{"question": "Explain what you would do if you found a lost pet.", "source": "gpt-4-0125", "hash": "40ed1f3add44aff0176998b5351d47ef1b440bf40ba654fc4774d56068400607"}
+{"question": "Discuss what you want to be when you grow up.", "source": "gpt-4-0125", "hash": "21722339945d8de2ec8d1c3f70f9424b4a9e8239e8f212515cfe8ec744cb357e"}
+{"question": "Talk about the different seasons and what you like about each one.", "source": "gpt-4-0125", "hash": "9cd91ad68160c4775e6f1a145c20fbd022186c5fa04575e22d468238d146927f"}
+{"question": "Describe an invention that changed the world and why.", "source": "gpt-4-0125", "hash": "564860e60cc6e3d058f5327f81f2c1dfb6f71344295736fd963e3906a852da6a"}
+{"question": "Talk about what you do to relax and unwind.", "source": "gpt-4-0125", "hash": "619024dcc3c0f05957c913d67002156969efb734ff418157f6856743e8de70a3"}
+{"question": "Talk about the significance of national holidays.", "source": "gpt-4-0125", "hash": "f22e3fb09b9607ac8128d2a2ebc761fd2b0fa17d3b3c334fc80d509306c60d45"}
+{"question": "Describe a character from a book or movie who inspires you.", "source": "gpt-4-0125", "hash": "ce398c62cc97673b6d2d5226118d770286e126727e74c26eb8755a61d2b25f7d"}
+{"question": "Talk about the importance of sleep for children.", "source": "gpt-4-0125", "hash": "64ac8c9e6fc221564e3378c33118130fff9e11154908b1b45493aafc53b97e06"}
+{"question": "Invent a new gadget for superheroes. What does it do?", "source": "gpt-4-0125", "hash": "a290c512c3d6312547eedd706c6ceed1f4426eef2a04873f248e4e0b9ce40d40"}
+{"question": "Describe what a shadow is and why we see them.", "source": "gpt-4-0125", "hash": "5aefd5dfd0db4982586a9c1e4ac16ecfdd1789fa362588f3c86d92840fd0ba7c"}
+{"question": "What does it mean when a story has a moral?", "source": "gpt-4-0125", "hash": "2533aaf9a788ea4e694ba05f0c2f5705c2ba8dfcb08a327ecb21d20ca97d13fd"}
+{"question": "How do you think a telephone works?", "source": "gpt-4-0125", "hash": "01baee1e989fa2728e65405529b19e01a9723e8f8dfe2e23c6451b772afd466b"}
+{"question": "Can you name a country you\u2019d like to visit and why?", "source": "gpt-4-0125", "hash": "4bca7d9023bdef6488d5176eda5457030582e9b1939490d85ab2ebbc863de179"}
+{"question": "Why do people need to exercise?", "source": "gpt-4-0125", "hash": "c1ff12f45f459990855ae4adfa76bf4ac9a76b2ec361e089f6d55b01902558e0"}
+{"question": "What is a habit, and can you give an example of a good one?", "source": "gpt-4-0125", "hash": "e1ca52b5e9b84024e9c95dbe719c551400a194f490ac6517f16a23b596cbf98f"}
+{"question": "If you could invent a new flavor of ice cream, what would it be and why?", "source": "gpt-4-0125", "hash": "d760a8b8f3d021b84db48aefb0f5581c3846628afbb27c95e9b3740e95d0f23b"}
+{"question": "Tell me about your favorite book without saying its name.", "source": "gpt-4-0125", "hash": "3191f64a1667e95a32142cb25600ca9f1a3c5f3813e18b6e2f712499d6c3428b"}
+{"question": "How do you know when it's time to wake up in the morning?", "source": "gpt-4-0125", "hash": "46bf200e4a55fce31e0bbf911a5fda1f465f865027fae9622e1608c9f4d2a893"}
+{"question": "How would you design a robot to help clean your room?", "source": "gpt-4-0125", "hash": "2b3535e8324fa2a08d5b2068048dbf96cb3efc7a04ad8d48181971c89e5f669e"}
+{"question": "Describe the feeling of being on a swing.", "source": "gpt-4-0125", "hash": "23ae149650d4b857b4348ef6893cf037eff47ae17cb6fc7a4db62b3628f782c0"}
+{"question": "How do you make a new friend at school?", "source": "gpt-4-0125", "hash": "c3241a4c6f603ae89e5697e807aa599fa2228f0145da71eef4b9c8d9494a6ca2"}
+{"question": "What is your method for remembering something important?", "source": "gpt-4-0125", "hash": "6af797f8492b18d846214564299813167e899e6e41fbb8dc30f7b825a582c651"}
+{"question": "How can you make someone feel welcome in a new place?", "source": "gpt-4-0125", "hash": "004de9166b6dba694ae4f43ad571e65689090fd6d992fb4ddd9e4701734406e1"}
+{"question": "Describe what you think life would be like on another planet.", "source": "gpt-4-0125", "hash": "fd1a337d13cd13f35b05393c3101ce7e2dfc74af89ce01adaf60516bfde081a4"}
+{"question": "What are three rules that everyone in the world should follow?", "source": "gpt-4-0125", "hash": "69ac9cf066f394a488f8669db760e9b76939203ced977cd858dce92025257a5d"}
+{"question": "What's the best way to make someone smile?", "source": "gpt-4-0125", "hash": "e4741b6a66dc03892c765c9bd207e9c4ec91022aa8da8c646d15031685f5a12b"}
+{"question": "If you could visit any place in the world, where would you go and why?", "source": "gpt-4-0125", "hash": "93897e7b5d90b1193721c34b047c796d426e62566b2acfd36bce765f721a8513"}
+{"question": "If you could have any superpower, which one would you choose and why?", "source": "gpt-4-0125", "hash": "65eb0d4e60302deaf6f2a9793b99701584981c5019b665fa95346059f423120a"}
+{"question": "Why do you think it's important to read books?", "source": "gpt-4-0125", "hash": "1cf3fe67900a8f2666b2656e4d607b79bf3a2c7d6cac103ea4cc5e41de480d77"}
+{"question": "If you could make one rule that everyone in the world had to follow, what would it be?", "source": "gpt-4-0125", "hash": "4c4e4327843f9ae3f6adf27bf7cd8a0168aba5489ae32b5a2fc9801a92917637"}
+{"question": "Explain the process of making lemonade.", "source": "gpt-4-0125", "hash": "70f53bd20158c9f2cc397aed473c2d23107be8aaaf57d2d2a255f360f2269af4"}
+{"question": "Describe a fun family tradition.", "source": "gpt-4-0125", "hash": "e6a934203d06d33f3de57ac1b5a16cf22c444eef1a6ad54087b05db0e64c7145"}
+{"question": "Explain the rules of your favorite sport.", "source": "gpt-4-0125", "hash": "caea61440f00cf4c7c071bc1a9ef4cd85e87c69033a3b478290fd1d727f6d8ae"}
+{"question": "Describe a magical place only you know about.", "source": "gpt-4-0125", "hash": "1232fa2918774d6afdad4e280cdd25d3b42747569ab4a124ca3b24f448844e24"}
+{"question": "Describe how to pack for a trip.", "source": "gpt-4-0125", "hash": "1b1daf9a07d8912f54c1f8d5654ba9dd4da85e061104f9afc02947f225b929a9"}
+{"question": "What does the word \"glad\" mean?", "source": "gpt-4-0125", "hash": "9207b4598bcd44c1753413edaf5d472b46fc17ca46c0c66995ca8de6967cb300"}
+{"question": "Can you form a question using the word \"where\"?", "source": "gpt-4-0125", "hash": "70d94de36de98c9513b8708169f859aeab47141a883fcec08a33ff46517823ed"}
+{"question": "What do you like to do when it rains?", "source": "chatgpt", "hash": "6abc42e18310c7591b0e1c2205d71be8daaac98bf62d31dff051e861fec9fb13"}
+{"question": "Name a vegetable that you eat.", "source": "gpt-4-0125", "hash": "378e67df2bc199535391851fe0a5271a52ee61e3d7a4679be068b80d2e28998a"}
+{"question": "What is your favorite color?", "source": "gpt-4-0125", "hash": "dcc535df7b1cd1f8ee25ffb32741b81e069d01ccaeaeb3e6ae0a9830dd09db2e"}
+{"question": "What do you use to write on a blackboard?", "source": "gpt-4-0125", "hash": "5e4f745a7481a124a4f186df161d6c0b0dc8e42e32866caf76d0cd406a75d9e0"}
+{"question": "Can you tell me something that is round?", "source": "gpt-4-0125", "hash": "e45b5e7b6ef23fcdac638dd4f60bd836e7ed94ec1c0bd369c9d757edca4d4d34"}
+{"question": "What do you need to stay dry in the rain?", "source": "gpt-4-0125", "hash": "5b58340010d8bb3dcd2a032d18ebbe2e98fd7f6647faae1cff816935b6b89e37"}
+{"question": "What is the opposite of \"cold\"?", "source": "gpt-4-0125", "hash": "8081abafdf97854e808f15149458f7d95b32ef4e5fda8966035c8a9aa79b37f4"}
+{"question": "Name something you can read.", "source": "gpt-4-0125", "hash": "354abf754d8821eafcdb22edc4535d54dfe5c3da81fcb6b799380ae29c16afbc"}
+{"question": "Can you name a game you play with a ball?", "source": "gpt-4-0125", "hash": "9d452eda6aa7c0b441177e737ce3e40d312eddd9ac7199b709190901c41248f1"}
+{"question": "What do you call the person who teaches students in school?", "source": "gpt-4-0125", "hash": "d2841770beaf041a273796eb38c5fbd5b223eab0416c192991c8b53e00718c7b"}
+{"question": "What do you call the first meal of the day?", "source": "gpt-4-0125", "hash": "d9fbf8ece2976013d4489b3902d60e5fcd223942bdc26382d2a4d45bff6e25a2"}
+{"question": "Can you name something that is cold to eat?", "source": "gpt-4-0125", "hash": "6e7ed4cf1a741f825f34bd840855b67311a95e7106a07364c004dae8d08f98e2"}
+{"question": "Name a place where you can buy books.", "source": "gpt-4-0125", "hash": "ba8440902cd42308a7802f27c8f07ce27e242a05b8afed7a959e27eab90a34fd"}
+{"question": "Name a fruit that is the same color as the sky during the day.", "source": "gpt-4-0125", "hash": "567cc5b962acbe81b26b6439def9889c790e51712e0873d8078c0407dec9beb2"}
+{"question": "Describe what a cat does when it's happy.", "source": "gpt-4-0125", "hash": "8572df2fb9f07df73fb74919f48480af99f558c713580806fd5c399478104aaa"}
+{"question": "What's the weather like when you need to wear a coat?", "source": "gpt-4-0125", "hash": "5213104930d16cc5da912f885eca07b545226f0650157a2321498c8dadc30fb1"}
+{"question": "How do you spell the color of snow?", "source": "gpt-4-0125", "hash": "3c6c8b07b7523b46995093c00699afac1f664706efe8b4bcfec177044f32c42f"}
+{"question": "What is something you can read?", "source": "gpt-4-0125", "hash": "3b54efc036f9e201fa9f9b506c6ae04901a7001096cde1c711cafa11712003b0"}
+{"question": "What do you say when someone gives you a gift?", "source": "gpt-4-0125", "hash": "3ba3852725b3d5a5d68c3f7ce35974f626433db5279bc935d53651aa7229295a"}
+{"question": "Name a job that involves taking care of animals.", "source": "gpt-4-0125", "hash": "373bbbcdb782078240265d9157b4a7d3d34a13d24fe043f216a1d1fd1ef3cb9a"}
+{"question": "What do we call the meal we eat in the morning?", "source": "gpt-4-0125", "hash": "5d2e515daa8e32901036b42a8af937a2d2a668b28ef8c5852d8a35bbd21ded0e"}
+{"question": "How do you feel when you get to play your favorite game?", "source": "gpt-4-0125", "hash": "c4dccfeec49745c040aea2aecf53cdd460f2304debfb08f77f660ac73fa9e360"}
+{"question": "What is the name of the place where you can see a lot of stars at night?", "source": "gpt-4-0125", "hash": "0d048655d1d0ac7dbc85bcff77a72be96dc938fb2d126a4da75b472fb25a582a"}
+{"question": "Can you tell me a word that starts with \"F\" and is something you can eat?", "source": "gpt-4-0125", "hash": "6b7bed2cae5a9a4e0036b2fc18fe4b8d043adc0a8a06bd71d064cff08637507a"}
+{"question": "What color do you get when you mix red and white?", "source": "gpt-4-0125", "hash": "905b19f5c3b960583ab7c04fcc32f882b7ff86a3b25dc512aa6d4ad772775715"}
+{"question": "What is the name of the holiday where you dress up and trick-or-treat?", "source": "gpt-4-0125", "hash": "90a7e51cc7c8302607f3f24be1f4fe67cf3ddd602d321d0ad8f391f0fda58cd3"}
+{"question": "Name something that is cold to touch.", "source": "gpt-4-0125", "hash": "afbf789933e012b05061ee2044a296e275c4ac1c184c36d97b52ed56fd7159f9"}
+{"question": "What sound does a cow make?", "source": "gpt-4-0125", "hash": "eabdbcd3294b944925032f9aa72f3d4e80363266ab085213d8849bf08d63c625"}
+{"question": "What do you need to put on a letter before mailing it?", "source": "gpt-4-0125", "hash": "213c80f64cd06b3b61a4c5d281d0a2c6bc7cd35077a84114ca836e94b35fae63"}
+{"question": "Name a vegetable that is often orange.", "source": "gpt-4-0125", "hash": "7f63166b7b9037c40f95f31fb801a9596870ae1dfcf23d1a27f6fad47e07b0a2"}
+{"question": "What is the color of grass?", "source": "gpt-4-0125", "hash": "b3c342d6f5381c9b07aa25ededdc14e54143bb9773d5719668b417c311b2057b"}
+{"question": "If today is Tuesday, what day will it be tomorrow?", "source": "gpt-4-0125", "hash": "b9eaa15d49213a20746b158a08e49e2bb210842d40d4c94728a3561b5d1e2882"}
+{"question": "Can you name a holiday that involves giving thanks?", "source": "gpt-4-0125", "hash": "fca7fd88ba57817117dfd2f00bdb544a332c1c30705bf3afe1cfb3d889fced43"}
+{"question": "Describe what you see in this picture: a tree with green leaves and a red bird.", "source": "gpt-4-0125", "hash": "15ffff408469aa6ad9ab61453eb23db4df795182b67f8475b34b0a09d487422d"}
+{"question": "Create a funny name for a pet dragon.", "source": "gpt-4-0125", "hash": "56fdb0b93ba0b6964fc8837eed4feec892a65c7c4bf166c3b1dae23fde59a1d5"}
+{"question": "Create a superpower and explain what it does.", "source": "gpt-4-0125", "hash": "42e821def7ae24108f1780788e791b969352e9c3c241f0a1cc7e5b43faaf5693"}
+{"question": "Why do we wear coats in winter?", "source": "gpt-4-0125", "hash": "5d08a538ff183d3053777fb2a9aaf73eaa8d4bc06c5511709f81768f42298737"}
+{"question": "What can you do to make a friend laugh?", "source": "gpt-4-0125", "hash": "1be81e2a2fe54b1cbec0feef1ffcd81deb3dfc01e6731dbcf571eafc06886f06"}
+{"question": "What happens to a plant if it doesn't get water?", "source": "gpt-4-0125", "hash": "e681f2b32601639c950e6079e601c31ad74ac7f23517b1282d85b3c6e205e1b2"}
+{"question": "Why do cats purr?", "source": "gpt-4-0125", "hash": "6fbf37a41f99c25008c6442d6552005b417a380b5e3ac331d368e199ea5060b2"}
+{"question": "Create a short rhyme about a frog.", "source": "gpt-4-0125", "hash": "b0c3b42f5ed412499b6f8982304e3027e80698203af32691a49584291f72035e"}
+{"question": "Why do we say \"please\" and \"thank you\"?", "source": "gpt-4-0125", "hash": "5938d2c5f5034d04f8e2df2dd2907f22e76457b3b14d1c291ca52c7e021f9d0b"}
+{"question": "Rewrite the sentence correctly: \"He go to school every day.\"", "source": "gpt-4-0125", "hash": "b816aea8136b0c8cc13b1abc6a98f92b605bf25bfe4c644fd1b6025f9465a97c"}
+{"question": "Name two things you need to do to stay healthy.", "source": "gpt-4-0125", "hash": "653f869aa88033b4979c94ee20c68db82a5d945240d2cbaed6dc032ee947e887"}
+{"question": "What does it mean to be a good teammate?", "source": "gpt-4-0125", "hash": "4666c26435b8eeb0dd8e46d307094f3a26574ec630e543f3fdf7a268ef48127a"}
+{"question": "What are some ways to show respect to others?", "source": "gpt-4-0125", "hash": "648a718b074a082177e3429cb451f346fad0e186792af3af01c11e70eba0c077"}
+{"question": "Draw a picture of your favorite animal and describe it.", "source": "gpt-4-0125", "hash": "233999dcd89ecef90860d148069e1317dd377f262a628128e9b8678e6741c1b5"}
+{"question": "Imagine you have a pet dinosaur. What would you name it and why?", "source": "gpt-4-0125", "hash": "c3163273645844e1c77034fd583c356b7556a29471525a4defd572ada2e684fb"}
+{"question": "Describe what you would find at the end of a rainbow.", "source": "gpt-4-0125", "hash": "868b1a44f59860deb934fd9f781dd50c069ece667fb24696476e9a2e0ff9089d"}
+{"question": "Describe what you think space looks like.", "source": "gpt-4-0125", "hash": "a34b8a684da4215aa6a548beecdeaa542111b3f9f1b3f4c1090a2ab8804f7b23"}
+{"question": "Create a recipe for a magical potion. What does it do?", "source": "gpt-4-0125", "hash": "2666bce080d48b1e0d9e607c62c2d2a5cfc1409672204481a7d373f196e23e2a"}
+{"question": "Describe a day in the life of a superhero dog.", "source": "gpt-4-0125", "hash": "d1a247a713c3b59efd77c20d2d63fea3c2456e099071f2c5fa729d8dfd7348ae"}
+{"question": "If you could open any type of store, what would you sell?", "source": "gpt-4-0125", "hash": "fe123ce9564d048b9ed9061a444babd0827f6d0e8bdf6ad06d7bbd6662e19978"}
+{"question": "Create a character for a story. What are their goals and challenges?", "source": "gpt-4-0125", "hash": "b0c7504024f61e30055c9f9c893ad0c83b6b37224e3065fca23b18581802e76c"}
+{"question": "How do you ask for help in school?", "source": "gpt-4-0125", "hash": "7e6dbaa8c55576cbbb72e07bf66f9610c34c499c54cba190a595c2f88c79eb8b"}
+{"question": "Create a simple poem about a cat.", "source": "gpt-4-0125", "hash": "129ef2290cb829eceeaceb5a3dbdbc6955c870f364aad8ab4de4a2aa704ba18d"}
+{"question": "What do you like to do on a sunny day?", "source": "chatgpt", "hash": "545e89c4e234fd84e01346e4926ac0f96a5eb94a3050ef3405ef0615f21d50f5"}
+{"question": "How do we show respect to others?", "source": "gpt-4-0125", "hash": "13cbfd73e542fd4efc5e484e74422f0ff045d5fba131c5da278d34f7b0fd54bc"}
+{"question": "Name two things that can fly.", "source": "gpt-4-0125", "hash": "a4dd406ad5990e1efee6a40edeb4eb0e25609b64ee832d71b84a26254fd03a0a"}
+{"question": "What should you do if you get lost?", "source": "gpt-4-0125", "hash": "831015f52713a5cafdc4be61f9b59896d8a05f43b50f4829ff82b58936c082c2"}
+{"question": "What would you say to a talking tree?", "source": "gpt-4-0125", "hash": "146b03bef0af5178f41636d43c3df050851cce97a5037c02d1e853249f66c388"}
+{"question": "How would you describe happiness to someone who has never felt it?", "source": "gpt-4-0125", "hash": "9b1c32aff7548f440d2398017bdd0ff6a589f9fb4022a3ac5c61f4330b8a8dcd"}
+{"question": "Make up a magical spell and what it does.", "source": "gpt-4-0125", "hash": "219eccf5363a7cc83e38972658513c2f7af8f420bdcb91f26d1670b71230f887"}
+{"question": "Describe the perfect day from morning to night.", "source": "gpt-4-0125", "hash": "0dfd0c28068bbb1fba50bfa10fa685b98baf250bf9acb6c01c1fb151134c50f3"}
+{"question": "What are the three most important rules at school?", "source": "gpt-4-0125", "hash": "5096bef5b4b5ba83747a0b49175b2f3226495dca9b6fae6e0edbd880a4c008bb"}
+{"question": "Invent a new ending for your favorite fairy tale.", "source": "gpt-4-0125", "hash": "e9c4c149a735c7f40b65f78871d7d3f0391729741384dd19ea14d2a00d7d4d56"}
+{"question": "How would you explain the internet to someone from the past?", "source": "gpt-4-0125", "hash": "790cf0e5caff2cca11948f8132496d5d9c928a45a6a7ee98667d23b9266c798b"}
+{"question": "What are two different ways to say \"hello\" in other languages?", "source": "gpt-4-0125", "hash": "3ac2b6e6a9f1bca5022a8d899ed1f9fb286fe90c73749a5626f287a26f3a1128"}
+{"question": "Describe the most exciting adventure you can think of.", "source": "gpt-4-0125", "hash": "486fa3d841bd901d8fbcdfb7d30340fc3232494ea805ad4382039e8a52b38c50"}
+{"question": "How would you solve pollution problems in cities?", "source": "gpt-4-0125", "hash": "301945388d26751da09a6564c08ae5e5183564744a95bc22703f51bda5487528"}
+{"question": "Create a dialogue between two animals in the forest.", "source": "gpt-4-0125", "hash": "08700a9127e52b12bc5c0ca9a3b2c059283bda5acf2c7132ef462c55f80fdfec"}
+{"question": "Create a story about a flying car adventure.", "source": "gpt-4-0125", "hash": "9fd4e54bdded31a8277995206e3755a1da26fce42f170f477c1927da9335204c"}
+{"question": "Tell if this sentence is expressing a wish: \"I wish I could fly like a bird.\"", "source": "gpt-4-0125", "hash": "28d0f5f977f3184fa6d9311b606ecf20f151a69bf7f35e8fbaf2fb1ba690e709"}
+{"question": "Explain the importance of bees to flowers.", "source": "gpt-4-0125", "hash": "a50d04697932c1a8a6d884e732b885ba5e952e35a19eaf8b229985b84ebcf51c"}
+{"question": "Tell a story where you travel back in time. What time period do you visit?", "source": "gpt-4-0125", "hash": "afb371c23a25539d87f612bab1222a158c78f2625b9dd921da3beee961b09601"}
+{"question": "Create a list of safety rules for riding a bicycle.", "source": "gpt-4-0125", "hash": "6471cf08f4f6e29bb0620dd26751a89969f9f41c9def8729c3e4b357c516bec9"}
+{"question": "Explain how a bird flies.", "source": "gpt-4-0125", "hash": "eee2f98700505f1159f846233b6e3233a1ba87d5fdd3bb70cbe61db8246775ca"}
+{"question": "Explain the concept of time zones.", "source": "gpt-4-0125", "hash": "530fdbf7ef36963979ced57042be856e78f3aa60768684afab998c7ca24c1be0"}
+{"question": "Discuss what happens when you mix primary colors.", "source": "gpt-4-0125", "hash": "71a7cbc0fd3a99576c1e0ff12cac3894a2b2fbd49e9cff4861c4ebfeffc64ad9"}
+{"question": "Talk about the different types of homes people live in around the world.", "source": "gpt-4-0125", "hash": "febdfee4fd09dd4f738e5ac0d0830eb7bcf135def7a00c7be137179ec5725ceb"}
+{"question": "Tell a story about a flying car.", "source": "gpt-4-0125", "hash": "b86285f63de79f6eec245329d7d79ff7f33352dffaab5286dc3f2fa334b895cf"}
+{"question": "Invent a game that involves both math and running.", "source": "gpt-4-0125", "hash": "7050d2e818d6e1c07d82df7a991f7d858a90d68c1242ba69178c69205a460d58"}
+{"question": "What do you think about when you see the stars at night?", "source": "gpt-4-0125", "hash": "ea9d788300cb5d8935d68dc049223c072e00e523de62b453cf4ecea714d4f86f"}
+{"question": "Imagine you're a chef; what dish would you create?", "source": "gpt-4-0125", "hash": "21d9678bf361315a5bdc15cdf267ec1beccc925d797677e03dbb5c661dc5fc48"}
+{"question": "What makes you happy when you are sad?", "source": "gpt-4-0125", "hash": "092bddcd3febd2237540be69c3e2aa0d64f6e784e9033edd8c02d9af0e049c8d"}
+{"question": "How do you feel when it rains and why?", "source": "gpt-4-0125", "hash": "9a0b724d4aaea6ad88eb5ef4c251dbd8a1badb543e516a0328e1d9c403355b03"}
+{"question": "What are some rules at your school and why are they important?", "source": "gpt-4-0125", "hash": "6703eec8ee9ce43450fcab3b39ca83ab26fd2e8fa3cc6c4556dbc655d3bf2d11"}
+{"question": "What are the main differences between frogs and toads?", "source": "gpt-4-0125", "hash": "9d516393b02fa34c602c88b927b51909d1a87482ee26d884551b83dd9254f8f5"}
+{"question": "What adventures would you have if you lived in a forest?", "source": "gpt-4-0125", "hash": "54739b93938a105c89acf714a28fb35e992d0adcef711a174104adbc65d02140"}
+{"question": "Why do we wear different clothes in different seasons?", "source": "gpt-4-0125", "hash": "8b15fd17e201ceb98ce6591d63352bc7b1c51e2edd6f7d9a60b36b46c1b85c46"}
+{"question": "How would you describe the feeling of being loved?", "source": "gpt-4-0125", "hash": "48013f40778b5656ec50f126163c594877d99376d286d73ef0f7c17b6c5b7e85"}
+{"question": "How does a microwave heat up food?", "source": "gpt-4-0125", "hash": "18cbf7f8154a1c26153f51019907c60ed5aed48c92be6069d2b3da735660a767"}
+{"question": "Can you think of a story and tell it in your own words?", "source": "gpt-4-0125", "hash": "ee30c2ef049bc15e62ebc8d48cc5021ea64b81a70d21991fe8e63166a86b2045"}
+{"question": "How does a camera work?", "source": "gpt-4-0125", "hash": "f8e0d26c1e1c603813a5f881b9eb33b58fb7c581159a2c280c001f8256712b80"}
+{"question": "Describe what you did last weekend in three sentences.", "source": "gpt-4-0125", "hash": "cf6a7251f57341adbabcfb98351ba824d3b7da79ee624a6668e6228cc93a6ef0"}
+{"question": "What animal would you like to be for a day and why?", "source": "gpt-4-0125", "hash": "5d0e6968d59e1680286895734d8cf2a0348c00b2a08b375fa58fda45895c6e41"}
+{"question": "What do you like to eat for breakfast?", "source": "gpt-4-0125", "hash": "80f9931245fce06e6dcddd3f70d34ead8ae0d4b7c515ff3652171393b3fd295c"}
+{"question": "What is the tallest building you know, and where is it?", "source": "gpt-4-0125", "hash": "84ff8d15e534937666f52fa3191ba826eab467af0c58d0f3727b4063048a0dc5"}
+{"question": "What does your family do together for fun?", "source": "gpt-4-0125", "hash": "7ae633853799af02529192f0a069498b26e2685cbf01132d33ab354e503b46dc"}
+{"question": "Can you name three things that are cold?", "source": "gpt-4-0125", "hash": "5d433c0eb23079fbc5721ee014e9c5813f1e7e9706bd0588182aa1fd5e71027e"}
+{"question": "What is something new you would like to learn this year?", "source": "gpt-4-0125", "hash": "edb34635e8795a13b23094c62d96fb0e962585938d335a5089dabd5b3594b88b"}
+{"question": "Can you tell me a short story with a beginning, a middle, and an end?", "source": "gpt-4-0125", "hash": "4b8baa92904147f359890394dfe02ee4f44e12e33ccd3ec41a5fad5091fc3111"}
+{"question": "What is something you like to do when it's snowy outside?", "source": "gpt-4-0125", "hash": "23f2715dde1b1a55a485429d537194f1f8f31ad86d57f16a125964f72c6cf983"}
+{"question": "If you could go to the moon, what would you take with you?", "source": "gpt-4-0125", "hash": "5497325ed0a49472909bce2eea07dc084e421bcf6e7e671397dde3dc9373ac7c"}
+{"question": "How would you design your dream house?", "source": "gpt-4-0125", "hash": "6f6088374e98c3bf7d2726b371d5f090941f3fc2df1daf5cccf252e4a8973729"}
+{"question": "How can we help keep our oceans clean?", "source": "gpt-4-0125", "hash": "8817c02d4f76a918015c9e9fcb90ada915c446b2e5870cdde676f82164193666"}
+{"question": "Create a story about a magical garden.", "source": "gpt-4-0125", "hash": "3ca0b2f7527ce5bf0cd06540fa212a02e3d12ac515dc2e180e702efc198c3966"}
+{"question": "How do you help around the house?", "source": "gpt-4-0125", "hash": "65581e17c26b0686f964f474774b3f156e985039d40116beea5c3fd22fa6da6e"}
+{"question": "How do you stay safe when you are outside?", "source": "gpt-4-0125", "hash": "2cc7ccb39c0bfd288adc5dc3577f06e684d3b10eb274187b9543f7557d1fb789"}
+{"question": "What does it mean to be honest?", "source": "gpt-4-0125", "hash": "5e0da52b3633c79ffc376202aacb2f36fa69ebebd7bcc3733d5d943c795fc5a0"}
+{"question": "Why do people use money?", "source": "gpt-4-0125", "hash": "3215beca015c692ebdd8216722eb84a7060076d3614e676180dd2ef7b818948e"}
+{"question": "Tell me about your best friend.", "source": "gpt-4-0125", "hash": "47384c50bf0ee8fda97ffc74a94be531098090ccbbeaa1b159f42a4bce6d63d8"}
+{"question": "What do you do when you are tired?", "source": "gpt-4-0125", "hash": "c8562283758d3ae578090554eca0c81f00d3ab47fe655dfb51b57818796a3667"}
+{"question": "Name two things that are cold to touch.", "source": "gpt-4-0125", "hash": "d1e524493a75d059d3532669c1a588d13767084ba6fa547a0a02cdb217152f64"}
+{"question": "Why do animals have tails?", "source": "gpt-4-0125", "hash": "08d010a63cfd687cc16c2527108e42e27b159df43f490a1a7d452b0a42c3efee"}
+{"question": "How does it feel to ride a bike?", "source": "gpt-4-0125", "hash": "fce160d9ffd4a85bd98b6981290d69b6cb2e6a4f711dff4e3b5521db321509ea"}
+{"question": "What's important to remember when you're cooking?", "source": "gpt-4-0125", "hash": "7a14689ffc3c45103e54c821f2fbff0634b9aaf04f27961dd8a78f715f104b33"}
+{"question": "What are your three favorite animals and why?", "source": "gpt-4-0125", "hash": "1dc14f03dbadecfcf592fa29625590d5c592012ce34f4a898b45ef7dece26c16"}
+{"question": "Describe the taste of your favorite fruit.", "source": "gpt-4-0125", "hash": "b6aaf68dba4a2c0ecbd71efd3b55e713be29863c30ebca11ba3d3f620152eac4"}
+{"question": "Tell me a story about a brave kitten.", "source": "gpt-4-0125", "hash": "dc48e79855c60c156f978f28d9d8b5dbe4738063fe0a353609bba56f944d4d2d"}
+{"question": "What are the things you need to pack for a trip?", "source": "gpt-4-0125", "hash": "d7c9e5843daa4c9dde1cf30fc5072c2ac6f0b5d620e1e29988c0f1e8c8558e56"}
+{"question": "Describe a funny event that happened to you.", "source": "gpt-4-0125", "hash": "5fe999f87c3c1c2cd85401c7650d51e79fea66632f71d9d8a6db54b66a6b2878"}
+{"question": "Tell me about a time you tried something new.", "source": "gpt-4-0125", "hash": "72ee549398ee26606fc996226f89dc1716637d4322eb402e50952558ec89ab41"}
+{"question": "Can you explain how to plant a seed?", "source": "gpt-4-0125", "hash": "1a029d26778531474726fe812cd14160bc7f9811cfee729a7d7bbe1dfb2249a4"}
+{"question": "What would you pack in your backpack for a day hike?", "source": "gpt-4-0125", "hash": "5e349595a29999565d1e2d1b5f49cdae38a343672c281faf1694833bf7dcb3ee"}
+{"question": "Can you name three things that make a good friend?", "source": "gpt-4-0125", "hash": "5970f7552f7bb0ebf17a7d01c8115ff136e8f5b80ac2f712a548a5c1bc4cfce8"}
+{"question": "What is something you have learned from a mistake?", "source": "gpt-4-0125", "hash": "0062370aa12897c3920d8adcb11d71472fdfb9fb0956780025f9806ab86972bb"}
+{"question": "How do you think the weather affects what we do each day?", "source": "gpt-4-0125", "hash": "115c745816559dac5a7cc770aa91f2edda10077e3b77901e273af2b5c57ce6b7"}
+{"question": "What are some ways we can help people who are less fortunate?", "source": "gpt-4-0125", "hash": "5e5b4f4f1c94a0343a64c2e8d3a99f999098a94ecdf7e10add5fca02850cea24"}
+{"question": "Why is it important to try new things?", "source": "gpt-4-0125", "hash": "3f51f80b1f50466c272eaa9273a1f8d7c7f6e4b280858feb5d2c5774e6c2e0d7"}
+{"question": "What do you think makes a house a home?", "source": "gpt-4-0125", "hash": "2d0342b3f3d1e9c98749467cdefaf5ae73e5ad4913043b78d5d1f2314d0c23a0"}
+{"question": "What is the main idea of the story about a lost puppy?", "source": "gpt-4-0125", "hash": "f956a393563dea4b1f238bf199e87b3df2479fdf7482c029609a06c96abf3dbd"}
+{"question": "How do you show someone you are grateful?", "source": "gpt-4-0125", "hash": "c75c05510350ab7333bc01f88e6443e252680f6a9ef351db5e45bc2db00c2afe"}
+{"question": "What is a family?", "source": "gpt-4-0125", "hash": "20b9cf37be5f486ad2b423794d50dab5fda1a4499254004d769f665d65035629"}
+{"question": "Explain what makes a superhero super.", "source": "gpt-4-0125", "hash": "a2703f558d0b9fa1c1018b303854c718d18607f00140370444d771afb142c7f7"}
+{"question": "Invent a gadget that would make school more fun. What does it do?", "source": "gpt-4-0125", "hash": "4b3d90c90bc0742d9094aea5d1bd52653e89e6fb743bbcdd7e843b5708245cb3"}
+{"question": "Design a treehouse. What cool features does it have?", "source": "gpt-4-0125", "hash": "b5f7deb579052e16af617ec9234515844d413369e959e0b7147c8eb028e223e8"}
+{"question": "Invent a new musical instrument. What does it sound like?", "source": "gpt-4-0125", "hash": "bf5b2f05601e82c01059387d163c59791ae6ae558a6349174a50d1b80be190f6"}
+{"question": "Describe a day in the life of a wizard.", "source": "gpt-4-0125", "hash": "9c4974d4cb48e255ac42acf965fe1edc283a21f4fdbd6d70a35e8484cf56d3d7"}
+{"question": "Write a story about a mysterious box that grants wishes.", "source": "gpt-4-0125", "hash": "46442cad0bae36410e298d81cf2a8cb15124b2d7f8184dc69f2392c976001d6f"}
+{"question": "If you could design a video game, what would it be about?", "source": "gpt-4-0125", "hash": "274efd72f20d75e66e629d6c9f8080336e2b1619c0e43c2feadb1d0248f83cdb"}
+{"question": "Write a letter to an alien explaining life on Earth.", "source": "gpt-4-0125", "hash": "6f8498c57d1afe6f91f2ec51f392f990e367274e3a905e01d7dfbd5dba91b7f1"}
+{"question": "Create a secret code. How do you decipher it?", "source": "gpt-4-0125", "hash": "070deff6f34cebf7771a654bf226d13d2a1a737edc267a60a983d8db21600cc3"}
+{"question": "Can you list three things that make you happy?", "source": "gpt-4-0125", "hash": "4641ced939555fa1f8da4122af6959e0fdd454ec98bf01273e6b28ff189409d6"}
+{"question": "Why do people have to work?", "source": "gpt-4-0125", "hash": "6819b3972c84c6963e3e185189fb1e7ede6ecf9fbcbedd655118d3e22dafd191"}
+{"question": "Describe the best birthday party you\u2019ve ever been to.", "source": "gpt-4-0125", "hash": "d01953d991af042d31e815b41f81581bbeb0786162e38385836f70b918b5e543"}
+{"question": "What is something you wish you could learn at school?", "source": "gpt-4-0125", "hash": "03ed94187de64d519671adcf10d6e280f5c99c50c5ae6b4fa0787d6111c7970e"}
+{"question": "Is this sentence about something real or make-believe?\nDragons breathe fire.", "source": "gpt-4-0125", "hash": "0d0738f97a11f02a3668b1ba94263e401c62637c22546ed7fcbc3d697bfed0bb"}
+{"question": "Tell a story about a magic carpet.", "source": "gpt-4-0125", "hash": "f5053a0e30aec730f31a2495b228efd5d479c868d31d186250635fce492c7aa9"}
+{"question": "What is the purpose of stop signs?", "source": "gpt-4-0125", "hash": "e4100cfa4445af7cc218501b1b7a2d0f5c0e5f593927697555807a52fcc91729"}
+{"question": "What colors do you see outside?", "source": "gpt-4-0125", "hash": "ac8bd42149a8d6a40a0137d7ac70eb19b5400a1eb5c93d1004a18668476a5545"}
+{"question": "What sounds do you hear in your neighborhood?", "source": "gpt-4-0125", "hash": "7740bc02f82e5563da47357a96411583a7229b9d79f23d988970b007677e3a4e"}
+{"question": "Can you name all the seasons?", "source": "gpt-4-0125", "hash": "e1bb1a13b6d0ee1bab0c516f4a3f5e94d1ec39e8da0f9ad0bc201067a4d38109"}
+{"question": "Can you name three body parts?", "source": "gpt-4-0125", "hash": "3a37ecee7093b57769f18b813836ec466fbc40552617a1f039e48572e985f167"}
+{"question": "What do you do when you're feeling happy?", "source": "gpt-4-0125", "hash": "c3669815c163f46629b154e2a6fd1f823532efff9b594c771618febe61e4b2f3"}
+{"question": "How do you know when to say \"please\" and \"thank you\"?", "source": "gpt-4-0125", "hash": "64a22f76286c80483da12016a747e75858acb1e64b26a88aa6b16efaa9c81a60"}
+{"question": "Can you name three types of transportation?", "source": "gpt-4-0125", "hash": "4f22ef82656f10b599f4fa7c31ee20abb9fdb3966b80f81d8bf6893e05aee7f7"}
+{"question": "Can you name something that is sticky?", "source": "gpt-4-0125", "hash": "38a3851eee66dcd1dd3def9d55d2366bb31644d200c022c4e81a01281d0afa1e"}
+{"question": "What game can you play to go from here to there?", "source": "gpt-4-0125", "hash": "ce1ae54afd7716b981aa98fc189c6595cd1c04105aabcfb00162bb0f5c292f65"}
+{"question": "Write a story about a flying horse.", "source": "gpt-4-0125", "hash": "fe7784767fd52952adb5a9cfd1649311ab5404feec5feb0c55de7307dcd52c22"}
+{"question": "What's the story behind your favorite song?", "source": "gpt-4-0125", "hash": "10a3748aa1b5f03dc45181e8fec9fc1f35dd0af7b6508a010b1a03bf046d2dcf"}
+{"question": "How would you make your city a better place to live?", "source": "gpt-4-0125", "hash": "ca66dfc422292305231c63bb5d68b8afa8bc39f45a4b7e9cfabc1a2d65e98415"}
+{"question": "What would you pack in a survival kit for a jungle adventure?", "source": "gpt-4-0125", "hash": "698fa2b3f5da2e9d940af46b19cfdf3795103d1c4a158c432c3985dea31f90fd"}
+{"question": "How do you think transportation will change in the future?", "source": "gpt-4-0125", "hash": "1fb08cd6a004fe2cc04e211e94881d0f7b43fe863db279d737738bde5bb61500"}
+{"question": "How can you tell if a piece of news is true or false?", "source": "gpt-4-0125", "hash": "2cbe9d23b493071409702b8155516956d4df303cf93b2d8acd34e0223b784b7e"}
+{"question": "What steps would you take to open your own business?", "source": "gpt-4-0125", "hash": "5b3dc6dd3c06c1639309c0f33882af641141766e6838be4a362efdfe6289c09b"}
+{"question": "Describe an invention that would make school more fun.", "source": "gpt-4-0125", "hash": "7bf6fc8f035894d8525cf9b49a6c01107005b3695c24a360e9038bdfcf0ee4de"}
+{"question": "How would you create a peaceful world?", "source": "gpt-4-0125", "hash": "a14982028cf788a07a0a26f22c86d0a602b47e277d1a001fe7c9b579fbef7ade"}
+{"question": "How many pennies make a dollar?", "source": "gpt-4-0125", "hash": "27dd0733972238674b05b20c50267d64a1eba55913c5d1dae1d5d1a94c9c49f3"}
+{"question": "What shape is a basketball?", "source": "gpt-4-0125", "hash": "4cca081a8027dbef1f3b102934f7829123137015b3b7d080a115681ab2d1d421"}
+{"question": "Can you count to 20 in Spanish?", "source": "gpt-4-0125", "hash": "b6138d606868eb109e07159b218cf1a133fedbeb0a1916bfc6bad45553c6f9c5"}
+{"question": "Describe a snowflake.", "source": "gpt-4-0125", "hash": "e6941d4aad938d5f740850eadc2ae337bedced1911e51fa37d66114e3c75f2e4"}
+{"question": "How do you show someone you are sorry?", "source": "gpt-4-0125", "hash": "054a2813a105ed00e26b9cbf5590c2b68db94ddd9175537dddd02fc8b1e3574d"}
+{"question": "How do you play hopscotch?", "source": "gpt-4-0125", "hash": "c9dd8e8fff47cc6250b6360bf626a438357de833c17a0ce6374f8606ce74b3cd"}
+{"question": "Can you name a tool a doctor uses?", "source": "gpt-4-0125", "hash": "391ee2dbc056ae43c51574f4cc977108ab0010f78d5201f745cacb7cb00c4651"}
+{"question": "How does rain help plants?", "source": "gpt-4-0125", "hash": "353d45fb4272c94f93990ceda8fb7856319d2c7362f7ade67459112ef0bc8df5"}
+{"question": "What is a habit that is good for you?", "source": "gpt-4-0125", "hash": "4b586b5353a1170c0620e964d0909fde39aac55660e7af7488444d05af751bcb"}
+{"question": "How do you help someone who is younger than you?", "source": "gpt-4-0125", "hash": "d86e707fc8e78b64ab008374569d952cd62e0dd575d2d785e496be6e96221f11"}
+{"question": "Name a tool that doctors use.", "source": "gpt-4-0125", "hash": "611f267a9ddaaa80640d154ce8b48c1ec68d8823f79bfd5b0fe5b7a98b7a7ad5"}
+{"question": "What do you do when you feel scared?", "source": "gpt-4-0125", "hash": "0aeee0f0cad7015dbf1ba2c73475aff92f2aca8fc73477080a37c90510b984b8"}
+{"question": "Can you name a vegetable that grows underground?", "source": "gpt-4-0125", "hash": "4d5fc75455e283a3ba723d1d08ccf2ba5877b615b72402efd93b65a70e1dd908"}
+{"question": "How do you greet someone in the morning?", "source": "gpt-4-0125", "hash": "3459084598ebc73e7fafb4f910181e8225be2401401eb38ae4d1aa39c7542495"}
+{"question": "What are some ways to travel long distances?", "source": "gpt-4-0125", "hash": "43563eeeba640ae7c6af6f9c2251a896e970111be6509d962ef769d27658a2b5"}
+{"question": "How does snow form?", "source": "gpt-4-0125", "hash": "1972786b5faa51ea872a1c60e71ef1652c68c9574d1415bfe733dc5efa182356"}
+{"question": "Why do we have libraries?", "source": "gpt-4-0125", "hash": "210390dceb0a4ef2c76d457b63c517f49f86f8d31cf4269abe6c354424d4b8e4"}
+{"question": "Invent a new tool for astronauts. Describe its features.", "source": "gpt-4-0125", "hash": "e4f0ded9500c47d54250a02fc500f6e251dde8bdc53e74d4e057815b413f1cd1"}
+{"question": "Describe the perfect day with your family. What activities would you do?", "source": "gpt-4-0125", "hash": "5343121b3b79d9c368e7b8f3ad68aa097fc87476817441327a1b6e5c884d64b1"}
+{"question": "How would you design a new playground?", "source": "gpt-4-0125", "hash": "0b96e7d86baf19a01f77461299dfd78e444fbd1bd2cb9d3f952040190620ca0a"}
+{"question": "Tell about a historical figure you admire and why.", "source": "gpt-4-0125", "hash": "79e433e90014895c6181807031b6fdb29704666c475c084e3a36ded546989fa6"}
+{"question": "How would you decorate your dream bedroom?", "source": "gpt-4-0125", "hash": "68c64342b291e97caa76950da6de5e7bb372e01c1c2543a96e5cd060c726c70c"}
+{"question": "Describe a piece of art you created and what inspired you.", "source": "gpt-4-0125", "hash": "aabe3bf8513afbf9e79e6c1cb60ea87ff10df40ee9de7dca4a1b20dbf099393f"}
+{"question": "What would you find in a school bag?", "source": "gpt-4-0125", "hash": "3c30e67c6d8baa2f2f0d2d251097d568d9af0223736d0ffa13b5a43216361f29"}
+{"question": "What do we do when we are tired?", "source": "gpt-4-0125", "hash": "c8b1ae095fcc41e239587db044ea7ed7f5332cd546438a50d3834718224e17df"}
+{"question": "Who do you talk to when you are sad?", "source": "gpt-4-0125", "hash": "02fbc23ed2e716ed8248c1da9e5b5e4d3084737c7267062f45e75a145b38b830"}
+{"question": "What is the name of the place where books are kept?", "source": "gpt-4-0125", "hash": "6552f15670218145ba5c826133bef6cea77227efa4c80a7b3a8d645d8bd8da71"}
+{"question": "Can you name a vegetable that you eat raw?", "source": "gpt-4-0125", "hash": "db1e0f171f7cdcf0627f1592647f2a754b0c9f03fecd7c3f520f844fd530306c"}
+{"question": "What is the main idea of a story where a cat learns to share?", "source": "gpt-4-0125", "hash": "539a0cd416d6939ca1a111afdd656982ee58a033657690eb0dab2a49306770e1"}
+{"question": "Can you name two things that are round?", "source": "gpt-4-0125", "hash": "5d7695820db29d18b182111e6ce85c4bc2e0175af8711259e5be35a821b37530"}
+{"question": "What are three uses of water in our daily life?", "source": "gpt-4-0125", "hash": "97f1c1569d6111dd116444aeac62fc58ad223ea0dee3257fcb0608647ac6878c"}
+{"question": "How do you take care of your teeth?", "source": "gpt-4-0125", "hash": "9d63a1265a0b0b1ccf0d570dcf94b716e2500b2f49ea058c5551044ad353ce56"}
+{"question": "How do you play tag?", "source": "gpt-4-0125", "hash": "fe02e29bcc867c8537e7104d315dbb328d86a097e7c5bb0e654881c78b1b1be6"}
+{"question": "Can you list three things that are always in your school bag?", "source": "gpt-4-0125", "hash": "5feedfef796d1b70163636ea08556d45c804b9d8bed45a841b4c77b15be3a609"}
+{"question": "What are three things you can do to be kind to others?", "source": "gpt-4-0125", "hash": "40baba30889a652aea1cf5001cb036ff6bae3c62d2500c6efc395aee74ec4ac3"}
+{"question": "How do you clean your room?", "source": "gpt-4-0125", "hash": "7122f0c995e6798229fabfd2602e88b74f83c91970a7b7040e1be9345fa2e00e"}
+{"question": "How do you know if it's going to be a hot or cold day?", "source": "gpt-4-0125", "hash": "6388f9782855bb6aef3f49dfda931889b6191d8d57f407ad602e229649bab61c"}
+{"question": "What are two things you would find in a kitchen?", "source": "gpt-4-0125", "hash": "5d27b0e1492465e8e074d2fe07d3e61677a0a277d3a51d0b796cebd2b4c07013"}
+{"question": "What are the four seasons and what do you like about each one?", "source": "gpt-4-0125", "hash": "b8b17e79fcbdf5eb16d3c845222291db24f61aac48f22c8483ebc5ea07934faa"}
+{"question": "What is the most interesting thing you\u2019ve learned in school?", "source": "gpt-4-0125", "hash": "6236b1e12c093cd122c0018ccfce5a0c4b91806bd1feb7a6542353ffb630e363"}
+{"question": "What is your favorite fruit and why?", "source": "gpt-4-0125", "hash": "1ae2fc456184f4f9f01f3a19a647c2c503e0e80cc96aa3ef477afe2333dd0984"}
+{"question": "Tell a story using the words \"moon\", \"cat\", and \"star\".", "source": "gpt-4-0125", "hash": "4de9033cc7602e30953e825988d861f7472546344829053d1cf4e99310b6e779"}
+{"question": "Describe the perfect park. What does it have?", "source": "gpt-4-0125", "hash": "475616de7ed131a8dff410c74eeaf9a78024004046503fd4726725ace65d2084"}
+{"question": "How do you feel when you give something to others?", "source": "gpt-4-0125", "hash": "5449e495357f7c0197a6199addaab2e5ae2716e2571ae4a39a2148b74dd390db"}
+{"question": "Describe a beautiful place you have visited.", "source": "gpt-4-0125", "hash": "f61f62ec789a5e7334921cf4c4292a299dfef29d037e572ee67eb9aa74758a5c"}
+{"question": "What are the rules of being kind?", "source": "gpt-4-0125", "hash": "c64d893311c143d6cfef9d0cff3f1b36abbd16e5b9657ac9637e92db768bfeb6"}
+{"question": "If you had a robot, what would you name it and why?", "source": "gpt-4-0125", "hash": "e0bdfe7833d2b97f5a8e5180e7cbe89905080ad7df48d83961b5ca083aa595a0"}
+{"question": "How do you think plants feel when it rains?", "source": "gpt-4-0125", "hash": "29c0f51f92d993c7df0605cacfdd5c8c57bbff2fe0ba403fd048377ee12fcde7"}
+{"question": "How would you decorate a room to make it the happiest room ever?", "source": "gpt-4-0125", "hash": "176d17e813cfee3cc6e1ae50b10dc5d7bf4d152d5402e8d80843c3a81e33e4f2"}
+{"question": "If you were a chef, what dish would you be famous for?", "source": "gpt-4-0125", "hash": "d6c308d606054a0c437453b77b938d15b0ca234b1ce7b2836c24f4a5c3596494"}
+{"question": "How do you think a cloud in the sky feels?", "source": "gpt-4-0125", "hash": "ecb973e61fd1e416c16873677a14c25ad490af1316c6473ce10443e9b9a7fe8a"}
+{"question": "Imagine a world where cars can fly. What problems do we need to solve?", "source": "gpt-4-0125", "hash": "4fb08cd0a50f28ce7facec58eb64c539d67a681e62fc138781abb6a38437a460"}
+{"question": "How do you feel when someone gives you a compliment?", "source": "gpt-4-0125", "hash": "e8410ffe101077368fce53e96b2d6b73ced2e6ab20a1782434fc71343ca848c9"}
+{"question": "How do you think the weather affects what people do during the day?", "source": "gpt-4-0125", "hash": "d0bc7da12ca8f424829a4378100e3ae77b6b7e4a5a509274898d56ab39bd2f73"}
+{"question": "If you had a magic wand, what three wishes would you make?", "source": "gpt-4-0125", "hash": "715d4c644dcdbd53d081278227ef4e1ed0781a0cec1c7d0ef5533ed0da310aa9"}
+{"question": "Describe your favorite playground and what you like to do there.", "source": "gpt-4-0125", "hash": "44e0e12446be4d83ab239e62a5e3e4336d33c097b78ff38d13146f40154bc505"}
+{"question": "Imagine you are a king or queen; what kind of rules would you have in your kingdom?", "source": "gpt-4-0125", "hash": "3b57e6af333bb9b9ddb57d4ddb910a7953004339eb8f56555fac0f9fa79ab847"}
+{"question": "Describe a hobby you would like to start and why.", "source": "gpt-4-0125", "hash": "70525498702072d23ac5a1d75ff843719f2a78ec95e0e89d65f39a6df694145e"}
+{"question": "Tell me about a game you like to play and why.", "source": "gpt-4-0125", "hash": "b835f9721f6b24fa48b483b57495551d5acca67ba3d6c68be1fe85db6154abab"}
+{"question": "Why is it dark at night?", "source": "gpt-4-0125", "hash": "1e0fd088d9457bd99ad5d50dc37a6f283d492fd92a43c843c897dd93b5b5d320"}
+{"question": "Explain why we need to exercise.", "source": "gpt-4-0125", "hash": "5e78fc29969bed37a327954a6f3b0b457ec2b809cae014b5f6c2be30d03a24d1"}
+{"question": "How would you help someone who is lost?", "source": "gpt-4-0125", "hash": "c60682f63e22a805de64e88cd796064ef1126d79e7172b203413af08f091029b"}
+{"question": "Create a story about a flying turtle.", "source": "gpt-4-0125", "hash": "19060e9e43cb604ea7a9224c72ab9711ca7f666a39374bf1b4b16a4245db54da"}
+{"question": "Describe a fun day out you would like to have.", "source": "gpt-4-0125", "hash": "1334b996cc4a783146d440f242980007af1be95d5893bb576f72014a7947a215"}
+{"question": "Tell a story about meeting your favorite fictional character.", "source": "gpt-4-0125", "hash": "a0399c956e61d57fe62e200ce5e5ad689494c350b11084d48af14fb4bd50bdcd"}
+{"question": "What are the steps to clean your room?", "source": "gpt-4-0125", "hash": "f564bc6bb12a1402c0d166c7f798e5949d2730d8ae9d8ca08ea7f5095046cd54"}
+{"question": "How can you be a good student in class?", "source": "gpt-4-0125", "hash": "a56f88232cf6bc9a7aec6aac4034271ef29dd60559f368a8cb8fd22c6e284321"}
+{"question": "Explain how to use a library.", "source": "gpt-4-0125", "hash": "2106120b3c37d3d979e5c95dee4642144efca09a3149205aa246a9877b668cfd"}
+{"question": "What are three things you can do to be safe around water?", "source": "gpt-4-0125", "hash": "480e9f48f0e8127566d458e040cb66ddae8a6765c415b2638868afaf98474d6e"}
+{"question": "How do you make sure to remember your homework?", "source": "gpt-4-0125", "hash": "3cb28eafce6c93a2a34b2bbbb77626cc353c9b9054049a4dac806124f7148fa1"}
+{"question": "What would you do if you found a wallet on the street?", "source": "gpt-4-0125", "hash": "0774103fcc70efceef96860c4ab9af6c8ee9e8ef7724aa892b4a8775e67f6734"}
+{"question": "What are two things you should do before crossing the street?", "source": "gpt-4-0125", "hash": "b9a95745a5bafeab79b2f7502a7f86568c494ed324d5c37dbb381c2a72429b37"}
+{"question": "Say three ways to be kind to others.", "source": "gpt-4-0125", "hash": "1e337fc8844de40efcdedd9f42b891b3f3ee50ca84a65c00caef57feb5ef5259"}
+{"question": "What are three things you should do after playing outside?", "source": "gpt-4-0125", "hash": "0409de12d0ec583be85d1d6bba3bb21830e51480bda07ec867722c3243e0ae18"}
+{"question": "What are three polite words or phrases to use every day?", "source": "gpt-4-0125", "hash": "881c7488ea811914770bdaaeab53b6b9392e5ad509e5a1c35fc2c555f18b3e46"}
+{"question": "What are three ways to care for a pet?", "source": "gpt-4-0125", "hash": "5f51db6dd0171d6cd8be1b6dd5cbd0fd093ae203212da7c4b46b1ad3cba3f8c0"}
+{"question": "Describe the process of making your bed in the morning.", "source": "gpt-4-0125", "hash": "a3f15b0bf706771e3dc44bf6c84927fa84a3aa9baac3efb6ab48b69bae2fc237"}
+{"question": "Describe how to use a map or compass.", "source": "gpt-4-0125", "hash": "9622f86147616155d4aa6c89aea73738bd02e1ae8aff34c2c3e23266eae6a00f"}
+{"question": "Describe what you do when you get home from school.", "source": "gpt-4-0125", "hash": "36a1eaca8929e0d91ecc027e82980b7202094fc65b7c33c4c22548f425dba12d"}
+{"question": "Tell about a time you had to apologize.", "source": "gpt-4-0125", "hash": "f9d1539759b9b016ce09683ac94141c5d307e98a428d63fece4efb57d6bfe759"}
+{"question": "Tell me about your favorite toy and why it is your favorite.", "source": "gpt-4-0125", "hash": "ef1b10ac763be9d73d24260dd223229b2bb89a7c2542577469dd56171ea078c7"}
+{"question": "Share a story about a time you learned something new.", "source": "gpt-4-0125", "hash": "41e2858efa34c1b8e7e40abaf199423c15fd293c50226f333c9c022836e37d22"}
+{"question": "What are three things you should not do at school?", "source": "gpt-4-0125", "hash": "0c5129e92df71e64380b3f769a0b2c0dfe9551451dcb13cca35c349ad1c4fd02"}
+{"question": "What are three ways to show someone you care about them?", "source": "gpt-4-0125", "hash": "56a1a4f6d3ab5e923e973bcff4ec63e57299caaac9230219662848822c534a3c"}
+{"question": "Explain what you should do if someone is being mean to you.", "source": "gpt-4-0125", "hash": "aefea0d2423306c69fd8481d864ee783357a40a69464a7203a95f09b12f1ad88"}
+{"question": "What would you do if you were feeling very hot?", "source": "gpt-4-0125", "hash": "7b8454116263c154bde419e035acfde9b30a8a416909bf740e944963ba5a6148"}
+{"question": "Name three things you can do to help around the house.", "source": "gpt-4-0125", "hash": "adf271b43014fd2f7ab02c38579e76e24c9c6e5dadfa494ee061aa891ed28eb9"}
+{"question": "If you could be any superhero for a day, who would you be and why?", "source": "gpt-4-0125", "hash": "e63fb0ae9daaa777ae956040227740dd07917e399bafa96b723a589a5f5220db"}
+{"question": "What are three things you should do if you're lost?", "source": "gpt-4-0125", "hash": "7b6d07bde8bc4af87489537b7df4fa986e1c9c91e1f71cd448843075c67a2be0"}
+{"question": "Tell me three colors you can see right now.", "source": "chatgpt", "hash": "77e405dc4e22faa9e733e560696b0ffb11ecd0103cd77536a0d4381a8b3c3d3c"}
+{"question": "What are three things you see in your classroom?", "source": "chatgpt", "hash": "79d0f651d36e6aaf23729979be26b34115411349aba6e57429171f10c96edeaf"}
+{"question": "How do you feel when you play with your friends?", "source": "chatgpt", "hash": "c4d6df708a816bb3a6ac05f0192727e76395fc28a79b6a9492a91f85ef68e94f"}
+{"question": "How do you celebrate your birthday?", "source": "chatgpt", "hash": "540d9e7ace9503bdb8bbb69c4b23c68617bb87fdfd2d6a4c02f3a8880a90c8ca"}
+{"question": "What are three ways to be kind to others?", "source": "chatgpt", "hash": "76b4b17055d3a41ae9350d740f806acf067d09fa59c626fed63527d48a3fbee7"}
+{"question": "What is something you are good at?", "source": "chatgpt", "hash": "64035e0a6144c5f1a6c223350a3f1750be9565db297b4eccc5976e6ade45a194"}
+{"question": "What do you do to relax?", "source": "chatgpt", "hash": "73402a7d512a37b84fae9243e0742176a3467d4de0d2a5d123ce89d471f15bea"}
+{"question": "What is your favorite movie, and why do you like it?", "source": "chatgpt", "hash": "6364ced41534741a8f676a9f6de6a0ba65c0370390361527919d635e6d19f34c"}
+{"question": "Describe a funny moment you had.", "source": "chatgpt", "hash": "2d9f7497e880940096fbb24a155563d3a3061e8813b2402df37b9a7fe73e9f66"}
+{"question": "What do you want to be when you grow up, and why?", "source": "chatgpt", "hash": "e0df00ff7bce337a7c8206cc62077fd9417f81d02f2d78cd793a1bfa50e86ec0"}
+{"question": "Name three things you can do with your hands.", "source": "chatgpt", "hash": "4e652362777a0a5cd397b2f1a8064067e4d03eba619ab16349478dcc933f6da6"}
+{"question": "What is your favorite outdoor activity?", "source": "chatgpt", "hash": "66aab656b007708eb911fe6247c8981424fa93248de22204dd7629e485220efe"}
+{"question": "How do you take care of your pets?", "source": "chatgpt", "hash": "c087127df54bec9ff0a2074ae7acf6cee83e0f5d45130a58186ae96f07b5f9b2"}
+{"question": "Describe a dream you have for the future.", "source": "chatgpt", "hash": "5d286a040fd6eaaf2e456a05b74fe6fa29abebe580ea2094e4a91c777312c460"}
+{"question": "How do you show someone you care?", "source": "chatgpt", "hash": "cdf812ad88a64186cf9c9484aaa55709df483a99304e254e4d9bb4193d85eda8"}
+{"question": "What is your favorite thing to do on a rainy day?", "source": "chatgpt", "hash": "91222408a1da590e92438262af45714b782743fa87dc925c0593cfb4cdbc0045"}
+{"question": "Name three things you like to do with your family.", "source": "chatgpt", "hash": "6a5e183c1b1485cb9deb459addaa30478448f9d170a489354ccfb418758ce99b"}
+{"question": "What are three things you wish you could do?", "source": "chatgpt", "hash": "08b3da380417c2672e62e65ea792d609ef770e56ef6707743a2200ed33b6f474"}
+{"question": "What do you like to do during the summer?", "source": "chatgpt", "hash": "7769760eb7316b649822ac06365b3df28367fcd6cda06934bc32ec8ff56440ba"}
+{"question": "Tell me three things you can see outside your window.", "source": "chatgpt", "hash": "26f20dfb97eef343f5305130f35910d9bcc332bb5f1f78f1a229e2aa2c0373eb"}
+{"question": "What is your favorite animal and why?", "source": "chatgpt", "hash": "d7cdd424d188f1c953a00fe370cb8a1aca797979613107459292d9f018509afa"}
+{"question": "What do you do to help at home?", "source": "chatgpt", "hash": "2f1e1b417c351a7e1824cb61e64317fcc450b76032e577aee9f304920ac24bf1"}
+{"question": "What is your favorite subject in school, and why?", "source": "chatgpt", "hash": "47e14f757c3739a5defeb234867d89665a7922db4c37607d286d79306f4d8c4b"}
+{"question": "Tell me three things you can do with your friends.", "source": "chatgpt", "hash": "5d38f6d400071e626041edd501faf23482d16acf9526f60c533c3335d5c1c707"}
+{"question": "What is a good way to stay safe?", "source": "chatgpt", "hash": "5d1a86a2418e63bfb3b5bf671fe208224a56d41c38c43721ebfad6446e5b0dcb"}
+{"question": "Describe what you want to be when you grow up.", "source": "chatgpt", "hash": "17d8b5a1c2d483d6cf8ac6545bad29588ff555ae55c628c1ced121c61a50612c"}
+{"question": "What do you like to do when you feel bored?", "source": "chatgpt", "hash": "e9e54097cdb6734599bdc9354186976f51fb1585f0f52524a44a42834074bde0"}
+{"question": "What is something you learned recently?", "source": "chatgpt", "hash": "13e3ec5a24ebd64499649263b6b3f1c4b9264eeac571bf309de814e309502192"}
+{"question": "Tell me three things that make you smile.", "source": "chatgpt", "hash": "00918ac6074524cef10b144a07abe76caf7984589f77ea02fe04bba108ec41ef"}
+{"question": "Talk about a time you were surprised.", "source": "chatgpt", "hash": "1424dc379c59310bbffa905eeb0ad4f291e050bf58041db261b7a94332ed8cd6"}
+{"question": "What is something you enjoy doing by yourself?", "source": "chatgpt", "hash": "021bf538a9025cb6b82a5769d3dca9a57fb1a4de1bdbbe2366b67aaaef500fb5"}
+{"question": "Describe your room and what you like about it.", "source": "chatgpt", "hash": "c399814ee2d5d40491e9f8e21c927210da4508de6204a5f7bd7ce392b5c7f49f"}
+{"question": "Tell me three things you see at the park.", "source": "chatgpt", "hash": "91007e9474637dbc2398fce76a01b2833a4bf9c662912b5ecc23c081789eea24"}
+{"question": "Describe a special family tradition you have.", "source": "chatgpt", "hash": "a23dc56c5c22e0e63b8b787440ce19ab96ae6bc9e5501765854051be421cb460"}
+{"question": "Name three things you do before bedtime.", "source": "chatgpt", "hash": "e1ec05bf242261d93d58289939863577d0ed709ab8331371a153d0ac286fa1e6"}
+{"question": "Describe a time you played outside.", "source": "chatgpt", "hash": "b8910c7d2c141abd89ac8cf52b8d1d901386ecc76fd5dac7cb162a77896d150c"}
+{"question": "What is your favorite thing to do with your friends?", "source": "chatgpt", "hash": "c42d1c64c027e84b753d3c165fcf433d7df534633deb20e9be0c708a2837c994"}
+{"question": "Talk about a time you tried something new.", "source": "chatgpt", "hash": "747098a2c96dea36655fc8e7a00be9d3d8fb75356cdb58e6a85f037336f59291"}
+{"question": "What is something you are curious about?", "source": "chatgpt", "hash": "e3c2e2d93ade5dbfb65b31f0a740cb98cb88d81126a1eedf4e57635a10af5d77"}
+{"question": "Tell me three things you see in your bedroom.", "source": "chatgpt", "hash": "b86fc4a89681075110fd0afa1c1a642f3c98b8f3a381dd62397a309c421bf7d8"}
+{"question": "What do you do to stay safe while playing?", "source": "chatgpt", "hash": "559526ebd2a0c0ab253549e3715894f4bb9ed1e0fd160b377cf6e7a0318e76db"}
+{"question": "Describe a fun family outing you have had.", "source": "chatgpt", "hash": "e4cd43f423554ea72d466837e8d24a0abc87e1b73ffbdf53bbac52a829b23dc6"}
+{"question": "What do you enjoy doing on weekends?", "source": "chatgpt", "hash": "3d0efd050fb25601117cd87e3a81279b1c33dc025200ca8eb8c90a39394d995c"}
+{"question": "What do you do when you feel sad?", "source": "chatgpt", "hash": "28b4fcf97d9307a95839cea8d4d8525f8303b0cb079b0b4808a41529f69f12c4"}
+{"question": "What are three fun activities to do in the summer?", "source": "chatgpt", "hash": "8ab74edcf9d3976ee73af87ff035162d7c1ea82ded22ae144d03efce28995c95"}
+{"question": "Tell me about a special day you celebrated.", "source": "chatgpt", "hash": "95adc627c5a964792e1af889d5bcd609858835c5bd28c766e80d9ef34ca28948"}
+{"question": "Tell me about a favorite story your family tells.", "source": "chatgpt", "hash": "47871b533dd4b0302f1c0904c584195c3ce242a663be7052223b3a9a8e09da66"}
+{"question": "What do you do to cheer up a friend?", "source": "chatgpt", "hash": "016f003d640aad23ee6113b6868a39c6273a3268f969dc7505b9850632dd071f"}
+{"question": "Describe a fun project you worked on at school.", "source": "chatgpt", "hash": "e391066138aa3b339dec92d066842ef8a73e16a52bd92befa64205d3d724f6b8"}
+{"question": "Describe a time when you made a new friend.", "source": "chatgpt", "hash": "8ee235648129f872c76300c7a15111df838c3bb3f079480b2c8e03543b90d42d"}
+{"question": "What are three animals that live on a farm?", "source": "chatgpt", "hash": "13f6e0bee5a14ac24af9fad407a1b8499accf6879d276ab27645db248546d8e4"}
+{"question": "How do you celebrate a holiday with your family?", "source": "chatgpt", "hash": "205614bd5b71b3117df99b13bb61ac766664608eb8057fd68ffd43e6024fa7e4"}
+{"question": "How do you feel when you learn something new?", "source": "chatgpt", "hash": "b3fc625e305243e1a4ad22cdf502fcef12b88e503010bce16be6b64cb0f1fcf2"}
+{"question": "Tell me three ways to stay safe while playing outside.", "source": "chatgpt", "hash": "55179c6c60aa56016880689a5079205206f3ca19ada8e4769845a7e167a212e4"}
+{"question": "Describe a fun trip you took with your family.", "source": "chatgpt", "hash": "9ff352c102a04efe65d2863808292d52129a76c5e02e348440c6328ac248fc09"}
+{"question": "Describe three things you like about school.", "source": "chatgpt", "hash": "caf0c83f910a85e609ead189e4fc513826eaa8d06380ba2620fbcf2f22a39715"}
+{"question": "What are three activities you enjoy on weekends?", "source": "chatgpt", "hash": "d6ed8ec1a7d1472c2e814a694f0383a0c153c699bd7b37ec05865485050cbda2"}
+{"question": "What do you enjoy doing with your family?", "source": "chatgpt", "hash": "41a29522f4374144361f1e4dfa8b7685df590410f8c3c95f854d40aeff296e38"}
+{"question": "Tell me three things you like about your best friend.", "source": "chatgpt", "hash": "540badcdf4928ef0d63c43978826e3b067ec9ddc955573d9fd863e72601dadd2"}
+{"question": "What are three ways to be a good student?", "source": "chatgpt", "hash": "89a20c35adf5a3fe67f69a4ebff37b1f66f047573b31068c9089a68d649c8ae1"}
+{"question": "What are three of your favorite animals, and why do you like them?", "source": "chatgpt", "hash": "3778ece9a9016e23dab622ab22935815be0ec11404cf498764cdf2f27ebb71be"}
+{"question": "Tell me three things you can find in your backyard.", "source": "chatgpt", "hash": "83da06da121f0caee1003f217f9fd269719652793cc144e70a3622e518dce708"}
+{"question": "What are three things you can do to help others?", "source": "chatgpt", "hash": "9280ab42d27469671c455caa8d99c6539254021044d312c5941148102e701907"}
+{"question": "What are three things you do to keep your room tidy?", "source": "chatgpt", "hash": "d2225932bdcd3e167b4d7a34e52627e9a8ce265fa68293f5b970fc8472aaab19"}
+{"question": "What are three animals you might see at a zoo?", "source": "chatgpt", "hash": "357f4814959f3d23400c473b724acae4ce1dfcf161d189baadf2d86b39d3b03d"}
+{"question": "Tell me three ways to keep your room clean.", "source": "chatgpt", "hash": "63dd0e9605d2447297e6e28a4fd6bf26363d5873c6780b09e5d1719abaf5e52d"}
+{"question": "Name three activities you enjoy doing alone.", "source": "chatgpt", "hash": "086b117868a500a4fe144ea1ffc2d34aaf669d2ba23c9e00aef25d6d5057b7ef"}
+{"question": "Tell three ways to be kind to others.", "source": "chatgpt", "hash": "a1b2d86517d89a7c03b43b0717d5e9c8f2eefb8cd511877734d9213f5578177d"}
+{"question": "What do you like to do when you feel happy?", "source": "chatgpt", "hash": "c544dc2d881c9e31c0dffc81aa553b6f869379ad9af1ed32aff79f84017d48c7"}
+{"question": "Tell me three things you can find at the zoo.", "source": "chatgpt", "hash": "9a7a3e27e4e248fe6aa8290b5f3444ec229e552540697177b30c995bc4ea9a74"}
+{"question": "What are three ways to keep your teeth clean?", "source": "chatgpt", "hash": "fe364e981a08b53f35d0441d231ed962281bf498670b14b3c1b760c85751d80e"}
+{"question": "Tell me three ways to show gratitude.", "source": "chatgpt", "hash": "1baff7eda79dd1908df9557b6cb06412d1667f209ed08d0154b2678d8ec8ccce"}
+{"question": "Tell me three things you do to relax.", "source": "chatgpt", "hash": "4b19c2787af9a44d7a6fcc86a85d974f40616f887b564be66566bb43b46b21e3"}
+{"question": "Tell me about your best friend and what you like to do together.", "source": "chatgpt", "hash": "0ecfe478bd2bf92f3353f340e38922479753b5defe373159ef1e804105a95745"}
+{"question": "What is your favorite color, and why do you like it?", "source": "chatgpt", "hash": "4324e27533bf7cb19f1c36e2fc3a67673c0416f524dc0ff0e43853b0ad98afb4"}
+{"question": "How do you help your parents at home?", "source": "chatgpt", "hash": "2e97ff8d63cca89c59b8bda8227e56ca9640097d05aa333443282bf7257ff04e"}
+{"question": "Tell me three things you want to learn.", "source": "chatgpt", "hash": "1a069b179f260ce8ecfdd2e3236629029a915b1ea9cb6a9e5c227b980d887120"}
+{"question": "What are three ways to have fun indoors?", "source": "chatgpt", "hash": "b93de1ba4416542f08206fafe3cf8be96b4203fafcd713f73b7e47a78d2f2d54"}
+{"question": "What are three things that make you feel brave?", "source": "chatgpt", "hash": "8466c8398d4c3cecdbccbeb191f5678083a7076de9bf2d689fa445f290b0c4a2"}
+{"question": "What are three things you enjoy doing at the park?", "source": "chatgpt", "hash": "15a1cab9141eb815723dbcc343eaf3b24864c1d90d209aec4cc8d5ef1c23cf53"}
+{"question": "Tell me three things you see when you go for a walk.", "source": "chatgpt", "hash": "9266591916aaf7863bad318b15532da804e3dd717077c25794b3e9a191bbd156"}
+{"question": "Name three things you can do to help your family at home.", "source": "chatgpt", "hash": "6a099f29cb6d62fa716ac122aa42dd20d75175ce501c4add3a3656d7b43a09eb"}
+{"question": "What are three ways to stay safe while playing?", "source": "chatgpt", "hash": "ac4a5373036ed56d329494ae7aa092c35b32a606abb05c2fe18ed2a5d1b3ba2b"}
+{"question": "What is your favorite game to play indoors?", "source": "chatgpt", "hash": "92d47bb6fb9e0a190efce730cdbbc73c0a19009d9c82bd5eab0d49ab8c7e813b"}
+{"question": "What do you like most about your best friend?", "source": "chatgpt", "hash": "2fa5c748a2c49d16b869632e3e8048e96ab1a7aa06724526fc474bd287f9a0f2"}
+{"question": "Describe your favorite outdoor game.", "source": "chatgpt", "hash": "956e0a3a65e63a97bb8dbe92557bc2fbb1c7592e1ab117870a4694fd4483b3da"}
+{"question": "Tell me three things you can do to keep your environment clean.", "source": "chatgpt", "hash": "0cdb1060b414c0bd92cee6d0e357e4e0367f869381301c7615e5e2600ed41e4b"}

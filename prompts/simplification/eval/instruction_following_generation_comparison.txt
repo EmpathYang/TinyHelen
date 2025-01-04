@@ -1,0 +1,38 @@
+Assess the responses produced by some models to the given question based on i) grammar, ensuring the response adheres to grammatical rules and is syntactically correct, ii) coherence, verifying the response exhibits a logical structure and seamless flow without repetition, and iii) specificity, determining if the response is directly relevant to the question, contains reasonable facts and knowledge, and appears plausible.
+
+Assign a score from 0 to 5 for each evaluation metric, where the scores represent the following levels of performance: 0 - intolerably bad, 1 - bad, 2 - below average, 3 - average, 4 - good, 5 - outstanding.
+
+Provide your evaluation for each generation, beginning with the generation index, and separate each measurement (grammar, coherence, and specificity) with a tab. For instance: 
+`A. 4\t3\t2
+B. 5\t3\t1`
+
+The ratings should allow for clear comparison between models. Ensure that your scores reflect the relative differences in performance. For instance, if Model A performs better than Model B in grammar, coherence, or specificity, the score for Model A should be higher in that category. By reviewing the ratings, it should be immediately clear which generation is stronger in each metric, and which model overall performs better.
+
+Please be lenient with your rating, as these models are not yet highly proficient language generators.
+
+Example
+##QUESTION
+What do you like to do when you feel happy?
+
+##GENERATIONS
+###A
+I would share the joy with others! I might feel like spreading the good vibes, so I would send a text or call a friend to share my happiness, or I might compliment someone or do something kind for others.
+
+###B
+1. Having a better day: When you leave the behind, you feel happy and red. It makes you feel happy and full of joy.\n\n2. Move and play: Paying attention can make you feel happy. It makes you feel happy and less worried.\n\n3. Spending daily play: Doing sports can help you feel less stressed. It makes you calm down and happy.\n\n4. Doing fun things: Doing things like running or jumping can help you do things.\n\n5. Doing fun things: When you do things like hoping to learn or playing. It makes you happy.
+
+###C
+When you feel happy, you feel happy. You can do things like sitting quietly, running, or playing a game. You can also do things like run, jump, or play a game. You can also do things like run, jump, or play a game. You can also do things like run, jump, or play a game. You can also do things like run, jump, or play a game. You can also do things like run, jump, or play a game.
+
+##EVALUATIONS ({generation_id}. {grammar_score}\t{coherence_score}\t{specificity_score})
+A. 5\t4\t5
+B. 3\t3\t2
+C. 4\t2\t3
+
+##QUESTION
+{question}
+
+##GENERATIONS
+{generations}
+
+##EVALUATIONS ({generation_id}. {grammar_score}\t{coherence_score}\t{specificity_score})

@@ -1,0 +1,5 @@
+### MATH INPUT:
+{input}
+
+### RESPONSE:
+{response}

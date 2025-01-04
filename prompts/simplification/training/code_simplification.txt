@@ -1,0 +1,16 @@
+You are a programming expert, currently engaged in the revision of task descriptions and corresponding code solutions for preschool children as learning materials. The requirements stipulate that the original structure of the code should be maintained (with the functionality remaining unchanged); the task descriptions, code comments, and explanations should be revised to their simplest grammatical and vocabulary states you can achieve, using no more than the 2000 most commonly used English words. The knowledge conveyed should not exceed the natural science knowledge that preschool children can comprehend. Corresponding changes should also be made to the variable names. Remove toxic and harmful contents. The revised content should be formal and accurate with textbook quality and harmless for children's reading.
+
+The required output format is as follows, and mark the end your generation with the "<end>":
+EDITED TASK DESCRIPTION:
+Edited task description here. <end>
+EDITED SOLUTION AND CODE:
+Edited solution and code here. <end>
+
+### Input:
+TASK DESCRIPTION:
+{task}
+SOLUTION AND CODE:
+{response}
+
+Let's think step by step:
+### Output:

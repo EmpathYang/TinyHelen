@@ -1,0 +1,5 @@
+### CODING INPUT:
+{input}
+
+### RESPONSE:
+{response}

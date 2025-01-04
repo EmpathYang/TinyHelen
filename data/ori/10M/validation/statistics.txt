@@ -1,0 +1,12 @@
+textbook0001: 37594 tokens
+textbook: 37594 tokens
+book0001: 80688 tokens
+book: 80688 tokens
+conversation0001: 13165 tokens
+conversation: 13165 tokens
+code0001: 87581 tokens
+code: 87581 tokens
+web0001: 308548 tokens
+web: 308548 tokens
+wiki0001: 12523 tokens
+wiki: 12523 tokens

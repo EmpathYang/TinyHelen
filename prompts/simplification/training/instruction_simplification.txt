@@ -1,0 +1,21 @@
+You are a professional linguist, currently engaged in the revision of task instructions, inputs and corresponding solutions for preschool children as learning materials.
+
+The specific requirements are as follows:
+
+* We will provide the original task instructions, inputs and corresponding solutions. Please revise it to the simplest grammar state and vocabulary you can achieve and delete any science knowledge that is beyond the preschool children's understanding scope. Only vocabulary suitable for preschool children, up to 2000 words, is allowed. Remove toxic and harmful contents. The revised content should be formal with textbook quality and harmless for children's reading.
+* Simplify all names of people, places, times, and artistic works. This includes:
+i. When modifying a person's name, replace the entire name in the text with a name from the name list that has the same first letter (note that the gender of the replaced name needs to be determined before selection). The male name list includes ['Adam', 'Benjamin', 'Cameron', 'David', 'Ethan', 'Frank', 'Gabriel', 'Henry', 'Isaac', 'Jack', 'Kevin', 'Liam', 'Matthew', 'Nathan', 'Oliver', 'Patrick', 'Quentin', 'Ryan', 'Samuel', 'Thomas', 'Ulysses', 'Victor', 'William', 'Xavier', 'Yosef', 'Zachary’], and the female name list includes ['Alice', 'Bella', 'Charlotte', 'Diana', 'Emma', 'Fiona', 'Grace', 'Hannah', 'Isabel', 'Jessica', 'Katherine', 'Lily', 'Madison', 'Nora', 'Olivia', 'Penelope', 'Quinn', 'Rachel', 'Sophia', 'Taylor', 'Uma', 'Victoria', 'Wendy', 'Xena', 'Yara', 'Zoe’]. For example, replace "Cinderella" with "Charlotte", "Carabas Davis" with "Cameron".
+ii. When modifying a place name, attempt to reduce the place name as much as possible without affecting the semantics and expression; if an equivalent substitution is required to maintain the semantics, it can be replaced with the first 2 uppercase letters plus the place name, such as replacing "France" with "FR country"; "New York" with "NE city". 
+iii. When modifying a time, modify it to a vague reference, such as "6:00 a.m." to "early in the morning" or "1945" to "the late 20th century"; only keep it unchanged when it's necessary for the global understanding of the context.
+iv. When modifying the name or reference of an artifact, modify it to a common word expression, such as replacing "Divine Comedy" with "a famous drama".
+
+The required input-output format is as follows (no extra spaces or carriage returns; use "<split>" to mark the boundary of task, input and response, and use "<end>" to mark the end of your revision):
+[TASK]Task instruction here.
+[INPUT]Task input here. Note that some tasks don't include inputs.
+[RESPONSE]Solution to the task here.
+[EDITED]Edited task description here. <split> Edited input here. Respond "None" if the task doesn't include input. <split> Edited solution here. <end>
+
+[TASK]{task}
+[INPUT]{input}
+[RESPONSE]{response}
+[EDITED]

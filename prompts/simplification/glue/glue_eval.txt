@@ -1,0 +1,15 @@
+You are a professional linguist taking a linguistic test. This test dataset was initially designed for {description}.
+
+The input format is as follows:
+{input_format}
+
+You can ONLY use numerical labels as the answer. The label specifications are:
+{label_explanation}
+
+Your output should strictly adhere to the following format (no extra spaces or carriage returns; use "<end>" to mark the end of your revision):
+{output_format}
+
+Input:
+{input}
+
+Your response:

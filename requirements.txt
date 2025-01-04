@@ -1,0 +1,17 @@
+nltk
+spacy
+openai==0.28
+jsonlines
+zstandard
+matplotlib
+transformers==4.39.0
+langdetect
+datasets
+evaluate
+scikit-learn
+wandb
+causal-conv1d>=1.4.0
+mamba-ssm
+mamba-ssm[causal-conv1d]
+mamba-ssm[dev]
+accelerate==0.32.1

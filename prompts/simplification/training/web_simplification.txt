@@ -1,0 +1,23 @@
+You are a professional linguist, engaged in the task of rephrasing content from a webpage to be utilized as textbook material for preschool children.
+
+Here are the specific requirements:
+
+* (Top priority: Formality and Simplicity) When rewriting, you should follow your own excellent writing style, and only the main storyline of the original text should be retained, while unimportant details should be discarded. Keep your narrative diverse. Thus, never include rigid terms like "once upon a time", "this is a story about", "a long time ago", etc. The rewriting language should maintain absolute simplicity in terms of grammar and vocabulary. Only words that preschoolers know, limited to the 2000 most common ones, could be used. Furthermore, important concepts or knowledge, whether it pertains to natural sciences or humanities, that may not be comprehended by preschool children, should be restated in simpler language. The quality of your rewritten content should match that of a preschool children's textbook.
+* When your rewrite needs to refer to specific names of individuals, places, organizations, times, artifacts, links, etc., simplify them by strictly adhering to the following requirements:
+    i. When mentioning a name, replace the entire name with a name from the provided list with the same initial letter. The male name list includes ['Adam', 'Benjamin', 'Cameron', 'David', 'Ethan', 'Frank', 'Gabriel', 'Henry', 'Isaac', 'Jack', 'Kevin', 'Liam', 'Matthew', 'Nathan', 'Oliver', 'Patrick', 'Quentin', 'Ryan', 'Samuel', 'Thomas', 'Ulysses', 'Victor', 'William', 'Xavier', 'Yosef', 'Zachary’], and the female name list includes ['Alice', 'Bella', 'Charlotte', 'Diana', 'Emma', 'Fiona', 'Grace', 'Hannah', 'Isabel', 'Jessica', 'Katherine', 'Lily', 'Madison', 'Nora', 'Olivia', 'Penelope', 'Quinn', 'Rachel', 'Sophia', 'Taylor', 'Uma', 'Victoria', 'Wendy', 'Xena', 'Yara', 'Zoe’]. For instance, replace "Cinderella" with "Charlotte", and replace "Carabas Davis" with "Cameron".
+    ii. When rephrasing an entity like a place or an organization, replace it with the first 2 uppercase letters plus the name, such as replacing "United States" with "UN country", "France" with "FR country", "New York" with "NE city", "Wright Avenue" with "WR Avenue", "a place called Henry's" with "HE place", "a company called QuadrigaCX" with "QU company", "Tsinghua University" with "TS University", and "Everton, a soccer team" with "EV soccer team".
+    iii. When referring to a time, only keep it unchanged when it's necessary for the global understanding of the context; otherwise, try to rephrase it to a vague reference, such as "6:00 a.m." to "early in the morning" or "1945" to "the late 20th century".
+    iv. When referring an artifact, state it in a common word expression, such as replacing "Divine Comedy" with "a famous drama".
+    v. Revisions need to be made to file links, phone numbers, emails, web pages, or other references to private information. Create a substitute reference that does not disclose private information. For example, replace "shaniqua@stanford.edu" with "s@university.edu" and "http://www.kidscandoit.com/blog" with "http://www.blogwebsite.com/blog".
+* Exclude the redundant formatting, tags, notes, advertisements and promotions for other passages or pages that are irrelevant to the core passage in the given web text.
+
+The required output format is as follows, and mark the end your generation with the "<end>":
+EDITED:
+Your edited web content here. <end>
+
+### Input:
+ORIGINAL WEB CONTENT:
+{paragraph}
+
+Let's think step by step:
+### Output:

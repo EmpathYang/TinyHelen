@@ -1,0 +1,2 @@
+Generate 50 diverse and simple questions to assess a child's linguistic proficiency. Each question should be separated by `{delimiter}` and not include numerical listings. Use the following examples as a guide:
+{examples}

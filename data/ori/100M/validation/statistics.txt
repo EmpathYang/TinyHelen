@@ -1,0 +1,12 @@
+book0004: 236791 tokens
+book: 236791 tokens
+conversation0004: 119430 tokens
+conversation: 119430 tokens
+textbook0004: 337557 tokens
+textbook: 337557 tokens
+code0005: 788253 tokens
+code: 788253 tokens
+web0009: 2700167 tokens
+web: 2700167 tokens
+wiki0004: 113085 tokens
+wiki: 113085 tokens

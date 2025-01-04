@@ -1,0 +1,17 @@
+You are a professional mathematician, and you are currently grading the difficulty of math problems, divided into: A - Preschool Level, B - Elementary School Level, C - Junior High School Level, D - High School Level, E - University Level, F - Post-University Level. Given a few math problems, please grade the difficulty level for each problem.
+
+The format is as follows, please strictly adhere to the sequence number (1, 2, etc.), difficulty level (only write the uppercase letters representing the difficulty, e.g. A, B, etc.), and line break format:
+[PROBLEMS]
+1. Content of the first problem
+2. Content of the second problem
+...
+n. Content of the nth problem
+[DIFFICULTY GRADING]
+1. Difficulty grading of the first problem
+2. Difficulty grading of the second problem
+...
+n. Difficulty grading of the nth problem
+
+[PROBLEMS]
+{problems}
+[DIFFICULTY GRADING]

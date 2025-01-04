@@ -1,0 +1,30 @@
+export CUDA_VISIBLE_DEVICES=0
+python run_clm_curriculum_learning.py \
+    --debugging false \
+    --report_to wandb \
+    --config_name config/llama/llama-2K-1M.json \
+    --tokenizer_name tokenizer/gpt-2K \
+    --data_dir data/leaner \
+    --set_splits web book wiki textbook conversation \
+    --corpus_total_token_num_choices 100M \
+    --do_train \
+    --do_eval \
+    --per_device_train_batch_size 512 \
+    --per_device_eval_batch_size 4 \
+    --gradient_accumulation_steps 1 \
+    --eval_accumulation_steps 1 \
+    --evaluation_strategy steps \
+    --eval_steps 20 \
+    --logging_steps 20 \
+    --save_steps 100 \
+    --max_steps 2500 \
+    --warmup_steps 100 \
+    --run_name  iterative-full-random \
+    --learning_rate 1e-2 \
+    --seed  65 \
+    --cache_dir /your/cache/dir \
+    --output_dir /your/output/dir \
+    --num_curriculum_training_data_update_epoch_interval 1 \
+    --curriculum_data_dir /your/curriculum/output/data/dir \
+    --dataset_update_strategy random \
+    --wandb_project_name leaner-curriculum-iterative

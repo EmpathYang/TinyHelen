@@ -1,0 +1,31 @@
+{"sentence1": "The drain is clogged with hair. It has to be cleaned.", "sentence2": "The drain has to be cleaned.", "label": 1, "idx": 39}
+{"sentence1": "The man could not lift his son because he was so heavy.", "sentence2": "The son was so heavy.", "label": 1, "idx": 4}
+{"sentence1": "I poured water from the bottle into the cup until it was empty.", "sentence2": "The bottle was empty.", "label": 1, "idx": 66}
+{"sentence1": "I cannot cut that tree down with that tool; it is too thick.", "sentence2": "The tree is too thick.", "label": 1, "idx": 11}
+{"sentence1": "Always before, Liam had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.", "sentence2": "Liam could not help him now.", "label": 1, "idx": 28}
+{"sentence1": "There is a pillar between me and the stage, and I can't see it.", "sentence2": "I can't see around the stage.", "label": 1, "idx": 33}
+{"sentence1": "When Thomas dropped his ice cream, Timothy giggled, so father gave him a stern look.", "sentence2": "Father gave Timothy a stern look.", "label": 1, "idx": 6}
+{"sentence1": "I'm sure my map will show this place; it is very famous.", "sentence2": "The place is very famous.", "label": 1, "idx": 35}
+{"sentence1": "The cat was lying by the mouse hole waiting for the mouse, but it was too careful.", "sentence2": "The mouse was too careful.", "label": 1, "idx": 46}
+{"sentence1": "Mr. Thomas was a man of uncertain temper and his general tendency was to think that David was a poor child and that whatever step he took in any direction on his own was just another proof of his innate silliness.", "sentence2": "Any direction on his own was just another proof of David's innate silliness.", "label": 1, "idx": 63}
+{"sentence1": "The reporters interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.", "sentence2": "The reporters were very persistent, so the interview lasted for a long time.", "label": 1, "idx": 56}
+{"sentence1": "The dog chased the cat, which ran up a tree. It waited at the top.", "sentence2": "The cat waited at the top.", "label": 1, "idx": 68}
+{"sentence1": "No one joins FR network to be sad and lonely. But a new study from the WI teacher George Lincoln argues that that's exactly how it makes us feel.", "sentence2": "That's exactly how FR network makes us feel.", "label": 1, "idx": 3}
+{"sentence1": "Henry got free tickets to the show, but he gave them to Frank, because he was very eager to see it.", "sentence2": "Frank was very eager to see it.", "label": 1, "idx": 29}
+{"sentence1": "Always before, Matthew had helped Dad with his work. But he could not help him now, for Dad said that his boss at the WO company would not want anyone but him to work there.", "sentence2": "He could not help Matthew now.", "label": 0, "idx": 37}
+{"sentence1": "Patrick looked down at the child's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't buy them.", "sentence2": "He couldn't buy the children.", "label": 0, "idx": 61}
+{"sentence1": "The police caught all of the group members. They were trying to run the bad trade in the place.", "sentence2": "The police were trying to run the bad trade in the place.", "label": 0, "idx": 45}
+{"sentence1": "The big kids were being mean to the little kids, so we helped them.", "sentence2": "We helped the big kids.", "label": 0, "idx": 34}
+{"sentence1": "Although they ran at about the same speed, Susan beat Sally because she had such a good start.", "sentence2": "Sally had such a good start.", "label": 0, "idx": 26}
+{"sentence1": "They broadcast an announcement, but a train came into the station and I couldn't hear it.", "sentence2": "I couldn't hear the train.", "label": 0, "idx": 57}
+{"sentence1": "The cat was lying near the mouse's home, waiting for the mouse, but it was too careful.", "sentence2": "The cat was too careful.", "label": 0, "idx": 50}
+{"sentence1": "Samuel tried to paint a picture of sheep keepers with sheep, but they ended up looking more like golf players.", "sentence2": "The sheep ended up looking more like golf players.", "label": 0, "idx": 47}
+{"sentence1": "Benjamin collapsed on the sidewalk. Soon he saw Cameron coming to help. He was very sick.", "sentence2": "Cameron was very sick.", "label": 0, "idx": 18}
+{"sentence1": "It was a summer day, and the dog was sitting in the middle of the grass. After a while, it got up and moved to a spot under the tree, because it was hot.", "sentence2": "The spot under the tree was hot.", "label": 0, "idx": 69}
+{"sentence1": "Look! There is a minnow swimming right below that duck! It had better get away to safety fast!", "sentence2": "The duck had better get away to safety fast!", "label": 0, "idx": 8}
+{"sentence1": "When the people who made the law got to the town place, they were surprised to find that the room was full of people who did not like it. They were very many.", "sentence2": "The people who made the law were very many.", "label": 0, "idx": 10}
+{"sentence1": "I couldn't put the pot on the shelf because it was too high.", "sentence2": "The pot was too high.", "label": 0, "idx": 44}
+{"sentence1": "Alice asked Mary what time the library closes, because she had forgotten.", "sentence2": "Mary had forgotten.", "label": 0, "idx": 21}
+{"sentence1": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate cookies. Next time, we should make fewer of them.", "sentence2": "We should make fewer of the oatmeal cookies.", "label": 0, "idx": 17}
+{"sentence1": "Jessica gave Joan candy because she was hungry.", "sentence2": "Jessica was hungry.", "label": 0, "idx": 24}
+{"sentence1": "Taylor knew that Grandma always enjoyed serving a lot of food to her guests. Now Taylor watched as Grandma gathered Taylor's small mother into a wide, scrawny hug and then moved her to the table, lifting her shawl from her shoulders, seating her in the special place, and saying simply: \"There's plenty.\"", "sentence2": "Grandma gathered Taylor's small mother into a wide, scrawny hug and then moved Taylor to the table.", "label": 0, "idx": 20}

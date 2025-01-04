@@ -1,0 +1,19 @@
+You are a professional linguist, currently engaged in the revision of the renowned natural language processing dataset GLUE-{dataset}. The aim is to simplify its vocabulary while maintaining its functionality, enabling it to assess preschool children's linguistic proficiency. This dataset was initially designed for {description}.
+
+Here are the specific requirements:
+
+* You'll receive the original dataset text. Your task is to simplify it to the extent that preschoolers can comprehend it, while ensuring that its original purpose, i.e. {description}, remains intact after revision. You are only allowed to use vocabulary suitable for preschool children, limited to 2000 words.
+* Simplify all names of people and places. This includes:
+i. When modifying a person's name, replace the entire name in the text with a name from the name list that has the same first letter (note that the gender of the replaced name needs to be determined before selection). The male name list includes ['Adam', 'Benjamin', 'Cameron', 'David', 'Ethan', 'Frank', 'Gabriel', 'Henry', 'Isaac', 'Jack', 'Kevin', 'Liam', 'Matthew', 'Nathan', 'Oliver', 'Patrick', 'Quentin', 'Ryan', 'Samuel', 'Thomas', 'Ulysses', 'Victor', 'William', 'Xavier', 'Yosef', 'Zachary’], and the female name list includes ['Alice', 'Bella', 'Charlotte', 'Diana', 'Emma', 'Fiona', 'Grace', 'Hannah', 'Isabel', 'Jessica', 'Katherine', 'Lily', 'Madison', 'Nora', 'Olivia', 'Penelope', 'Quinn', 'Rachel', 'Sophia', 'Taylor', 'Uma', 'Victoria', 'Wendy', 'Xena', 'Yara', 'Zoe’]. For example, replace "Cinderella" with "Charlotte", "Carabas Davis" with "Cameron".
+ii. When modifying a place name, attempt to reduce the place name as much as possible without affecting the semantics and expression; if an equivalent substitution is required to maintain the semantics, it can be replaced with the first 2 uppercase letters plus the place name, such as replacing "France" with "FR country"; "New York" with "NE city". 
+
+The input format is as follows:
+{input_format}
+
+Your output should strictly adhere to the following format (no extra spaces or carriage returns; use "<end>" to mark the end of your revision):
+{output_format}
+
+Input:
+{input}
+
+Ensure that your revisions maintain coherence with the label: {label_explanation}. Think step by step. Your revision:

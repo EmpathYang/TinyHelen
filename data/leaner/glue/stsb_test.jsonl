@@ -1,0 +1,555 @@
+{"sentence1": "\"IT is the only way for big countries to compete,\" Barrett said.", "sentence2": "\"IT is the only way for big countries to compete\" with fast-growing countries like CH country and IN country, Barrett said.", "label": 5.0, "idx": 1136}
+{"sentence1": "A band is playing on a stage.", "sentence2": "A band is playing onstage.", "label": 5.0, "idx": 31}
+{"sentence1": "CH money gets weaker at 6.1559 to US money.", "sentence2": "CH money gets weaker at 6.1818 to US money on day 2.", "label": 5.0, "idx": 1463}
+{"sentence1": "Matthew quits BBC Who show.", "sentence2": "Matthew quits BBC Who show.", "label": 5.0, "idx": 1406}
+{"sentence1": "A mother and her child look through a microscope.", "sentence2": "A girl and a lady both looking through a microscope.", "label": 5.0, "idx": 574}
+{"sentence1": "He let two runs in seven times and struck out six.", "sentence2": "Zachary pitched seven times and let two runs on five hits and four walks.", "label": 5.0, "idx": 1127}
+{"sentence1": "A man plays the music thing and sings.", "sentence2": "A man is singing and playing a music thing.", "label": 5.0, "idx": 238}
+{"sentence1": "A lady is mixing things.", "sentence2": "A lady is mixing food in a bowl.", "label": 5.0, "idx": 60}
+{"sentence1": "Large white boat floating on water.", "sentence2": "Large boat floating on water.", "label": 5.0, "idx": 306}
+{"sentence1": "Four girls are happily walking down a sidewalk.", "sentence2": "Three young girls are walking down a sidewalk.", "label": 5.0, "idx": 515}
+{"sentence1": "A little David is drinking from a juice pack.", "sentence2": "A David is drinking from a juice pack.", "label": 5.0, "idx": 537}
+{"sentence1": "Two gray doggies run together over the green grass.", "sentence2": "Two gray doggies running in green grass.", "label": 5.0, "idx": 368}
+{"sentence1": "Children are playing on a bouncy thing in the snow.", "sentence2": "Several children and jumping on a bouncy thing in the snow.", "label": 5.0, "idx": 476}
+{"sentence1": "Chechen helpers working for the Moscow-backed government are a frequent target for rebels and tension is running high ahead of next Sunday's leader vote in war-torn Chechnya.", "sentence2": "Helpers in Chechnya's Moscow-backed government are a frequent target for rebels, and tension is running high ahead of Sunday's leader vote in the war-ravaged land.", "label": 5.0, "idx": 1107}
+{"sentence1": "A woman peels a potato.", "sentence2": "A woman is peeling a potato.", "label": 5.0, "idx": 9}
+{"sentence1": "There is nothing wrong with the words \"simple sample service\".", "sentence2": "The little change needed to avoid strange words is to just call it a \"simple example service\".", "label": 5.0, "idx": 982}
+{"sentence1": "A lady is playing the guitar.", "sentence2": "A person is playing a guitar.", "label": 5.0, "idx": 150}
+{"sentence1": "CO Governor Visits School Hurt Child", "sentence2": "CO governor visits school hurt child", "label": 5.0, "idx": 1469}
+{"sentence1": "The shares show more than half the 115.9 million shares Turner held at the end of April, by info.", "sentence2": "The sale shows about 52 percent of the 115.9 million shares Mr Turner held at the end of April.", "label": 5.0, "idx": 1069}
+{"sentence1": "A tiny child walks down a long path.", "sentence2": "A little girl is walking down a long path.", "label": 5.0, "idx": 40}
+{"sentence1": "A black and white pet is sitting on a brown chair looking up.", "sentence2": "Black and white pet sitting on wood chair looking up.", "label": 5.0, "idx": 326}
+{"sentence1": "A pet is chasing cows.", "sentence2": "A white pet is chasing cows.", "label": 5.0, "idx": 562}
+{"sentence1": "Calvin's attorney, Thomas, has repeatedly said his client had no link with the company that owned and operated E2.", "sentence2": "The lawyer for Calvin, Thomas, has said his client had no link to the company that owned and operated E2.", "label": 5.0, "idx": 1037}
+{"sentence1": "A motorbike is parked near a wall with a city picture.", "sentence2": "A motorbike is parked by a city picture in evening.", "label": 5.0, "idx": 303}
+{"sentence1": "Two kids in snow clothes laying in the snow making angel shapes", "sentence2": "Two children lying in the snow making angel shapes", "label": 5.0, "idx": 423}
+{"sentence1": "The new learning will be published soon in the Papers of the National Academy of Sciences.", "sentence2": "It will appear in the next few weeks on the Web place of the Papers of the National Academy of Sciences.", "label": 5.0, "idx": 1199}
+{"sentence1": "HK set for democracy march", "sentence2": "HK set for huge democracy rally", "label": 5.0, "idx": 1459}
+{"sentence1": "An animal is chewing on something.", "sentence2": "An animal is chewing on a toy.", "label": 5.0, "idx": 22}
+{"sentence1": "I have a mostly computer way to get things done, but it could be better.", "sentence2": "My way to get things done is all on computer - as told here.", "label": 5.0, "idx": 917}
+{"sentence1": "A group of four people having cake at dinner.", "sentence2": "Four people eating dessert around a table.", "label": 5.0, "idx": 254}
+{"sentence1": "China moon robot lands on moon.", "sentence2": "China lands robot rover on moon.", "label": 5.0, "idx": 1482}
+{"sentence1": "An older girl pours oil into a pan from a bottle while talking.", "sentence2": "An older girl is pouring oil into a pan on the stove.", "label": 5.0, "idx": 90}
+{"sentence1": "The man is slicing potato.", "sentence2": "Man is slicing potato.", "label": 5.0, "idx": 135}
+{"sentence1": "Someone is stirring food in a pot.", "sentence2": "Someone is stirring a pot of food with a spoon.", "label": 5.0, "idx": 51}
+{"sentence1": "The man used a long thing to cut a plastic bottle.", "sentence2": "A man cut a plastic bottle with a long thing.", "label": 5.0, "idx": 84}
+{"sentence1": "We just talked about this before, and the great answer was special quotation marks.", "sentence2": "Special quotation marks, as suggested by Lauren, is a good choice.", "label": 5.0, "idx": 991}
+{"sentence1": "The NE lady players, who are winners last time, will play in Philadelphia on Sept. 25. They finish playing in Columbus on Sept. 28.", "sentence2": "The NE lady players, who are winners last time, will play on Sept. 25 in Philadelphia. They finish playing on Sept. 28 in OH city.", "label": 5.0, "idx": 1231}
+{"sentence1": "A man plays the violin.", "sentence2": "A man is playing violin.", "label": 5.0, "idx": 36}
+{"sentence1": "The woman is cracking eggs into a bowl.", "sentence2": "The lady broke raw eggs into a bowl.", "label": 5.0, "idx": 52}
+{"sentence1": "Woman in black dress with red things is walking down the street.", "sentence2": "Woman in a black dress walking on the street.", "label": 5.0, "idx": 498}
+{"sentence1": "FRIENDS of Robert De Niro yesterday rallied around him after he was told he had cancer of the prostate.", "sentence2": "Hollywood actor Robert De Niro has been told he has cancer of the prostate, his spokesman said today.", "label": 5.0, "idx": 1187}
+{"sentence1": "Two ladies are sheering a white sheep inside of a wooden building.", "sentence2": "Two ladies shearing a white sheep in a wooden stall.", "label": 5.0, "idx": 341}
+{"sentence1": "In the US country, jails are run by cities and counties.", "sentence2": "Jail is in a city, prison is in a state/country.", "label": 5.0, "idx": 714}
+{"sentence1": "The world's biggest software company said it knew the difficulty the many patches made for companies, and set out to make it easier for them to apply the updates.", "sentence2": "The world's biggest software company said it knew the difficulty the many patches made for companies trying to apply them.", "label": 5.0, "idx": 1063}
+{"sentence1": "Indian police caught all 5 bad guys in MUM rape case", "sentence2": "MUM police arrested 5th bad guy in gang-rape case", "label": 5.0, "idx": 1356}
+{"sentence1": "A man plays music keys.", "sentence2": "A person is playing the music keys.", "label": 5.0, "idx": 66}
+{"sentence1": "Before you want to start learning something new, think about what you want to do with it.", "sentence2": "As Gabriel says, try to think about what you want to do with it.", "label": 5.0, "idx": 900}
+{"sentence1": "Train going down the tracks.", "sentence2": "A black train traveling on the railroad tracks.", "label": 5.0, "idx": 317}
+{"sentence1": "Adam stops fight against bad charges", "sentence2": "Adam calls it done in fight against bad charges", "label": 5.0, "idx": 1297}
+{"sentence1": "Coty starts $10 billion bid for other Avon.", "sentence2": "Coty bids $10 billion for Avon.", "label": 5.0, "idx": 1255}
+{"sentence1": "A blue scooter parked on a sidewalk.", "sentence2": "A blue scooter parked on the sidewalk.", "label": 5.0, "idx": 367}
+{"sentence1": "A group of people having food outside.", "sentence2": "A group of people eat at a table outside.", "label": 5.0, "idx": 364}
+{"sentence1": "Yes, this is OK, as it allows you to show certain things, that you want the readers to notice.", "sentence2": "I believe this is perfectly OK and does a good job of showing your point.", "label": 5.0, "idx": 984}
+{"sentence1": "Michelle went on a funny TV show.", "sentence2": "Michelle went on the funny show.", "label": 5.0, "idx": 1411}
+{"sentence1": "A big red bus driving down a road.", "sentence2": "A red two story bus driving along the road.", "label": 5.0, "idx": 262}
+{"sentence1": "A person pours cooking oil into a pot.", "sentence2": "A person pours olive oil into a pot on the fire.", "label": 5.0, "idx": 185}
+{"sentence1": "In these days of googling, it's sloppy to not find the source of a quotation.", "sentence2": "I agree with Kate, you should be able to attribute most quotes these days by simple fact checking.", "label": 5.0, "idx": 998}
+{"sentence1": "World's oldest man dies at 116", "sentence2": "JP: World's Oldest Man Ever Dies Aged 116", "label": 5.0, "idx": 1473}
+{"sentence1": "US Judge Ed Sarge said that the AK city company should have known that changes at one of its places would make more dirty air.", "sentence2": "FirstEnergy Corp. should have known that making one of its places better would make more dirty air, US Judge Ed Sarge said on Thursday.", "label": 5.0, "idx": 1133}
+{"sentence1": "A bunny is playing with a toy bunny.", "sentence2": "A bunny is playing with a stuffed bunny.", "label": 5.0, "idx": 67}
+{"sentence1": "At first look, then, the split made by the makers of the no-call list would seem to draw the line in the right place.", "sentence2": "At first look, then, the makers of the list would seem to have drawn the line between yes and no calls in the right place.", "label": 5.0, "idx": 1105}
+{"sentence1": "You are OK to use the bottles as long as they have been made clean.", "sentence2": "I would say it's fully OK so long as the bottles have been cleaned to remove any soap left.", "label": 5.0, "idx": 801}
+{"sentence1": "19 hurt in NE city shooting.", "sentence2": "Cops: 19 hurt in NE city Mom's Day shooting.", "label": 5.0, "idx": 1408}
+{"sentence1": "A Victoria paints a picture of a large building which can be seen in the background.", "sentence2": "A person paints a picture of a large building which can be seen in the background.", "label": 5.0, "idx": 534}
+{"sentence1": "A man helps a boy ride bike.", "sentence2": "The man helps the boy ride bike.", "label": 5.0, "idx": 439}
+{"sentence1": "Plane people say OK to fly to IL country.", "sentence2": "Plane people say OK to fly to IL place.", "label": 5.0, "idx": 1472}
+{"sentence1": "The Adam and two young boys jump on a bouncing bed.", "sentence2": "A Adam and two boys are bouncing on a bouncing bed.", "label": 5.0, "idx": 390}
+{"sentence1": "But in the end, all the bad thing did was go to a rude picture place, said Henry, a safe boss with a safe group in CA city.", "sentence2": "But Henry, safe boss with a safe group, said all the bad thing did was go to a rude picture place.", "label": 5.0, "idx": 1102}
+{"sentence1": "A black doggy pet walking beside a pool.", "sentence2": "A black doggy pet is walking along the side of a pool.", "label": 5.0, "idx": 427}
+{"sentence1": "US soldiers killed almost two dozen bad Taliban after getting attacked in south AF country.", "sentence2": "US soldiers killed about two dozen bad Taliban in south AF country after their group was attacked.", "label": 5.0, "idx": 1075}
+{"sentence1": "A cat looking at the camera.", "sentence2": "A grey, black, and white cat looking at the camera.", "label": 5.0, "idx": 275}
+{"sentence1": "A lady is putting color on her eye using a pencil.", "sentence2": "A lady is putting color on her eye.", "label": 5.0, "idx": 64}
+{"sentence1": "The dogs are chasing a cat.", "sentence2": "The dogs are chasing a black cat.", "label": 5.0, "idx": 519}
+{"sentence1": "They are being held on immigration violations as the incident is investigated.", "sentence2": "Both men are being held for investigation of administrative immigration violations.", "label": 5.0, "idx": 1053}
+{"sentence1": "The boy is smashing herbs.", "sentence2": "A boy is smashing some herbs.", "label": 5.0, "idx": 142}
+{"sentence1": "Business paper's online edition reported on Friday that Company and the agency could announce a settlement as early as Monday.", "sentence2": "Business paper Online has learned that the settlement could come as early as Monday, May big number.", "label": 5.0, "idx": 1017}
+{"sentence1": "Iran, IAEA people meet ahead of March nuclear deadline.", "sentence2": "Iran, IAEA people meet ahead of March nuclear deadline: ISNA.", "label": 5.0, "idx": 1487}
+{"sentence1": "I guess those are Greek tickets for dig sites or museums.", "sentence2": "That is indeed Greek. Looks like a ticket to a museum or dig site.", "label": 5.0, "idx": 758}
+{"sentence1": "The two pups are playing catch with a ball in the white stuff.", "sentence2": "The pups play in the white stuff.", "label": 5.0, "idx": 440}
+{"sentence1": "A man who wanted to be the leader of NY state, he said he wants better company rules.", "sentence2": "Mr. McCall, who tried to be NY leader in 2002, said he wants better company rules.", "label": 5.0, "idx": 1077}
+{"sentence1": "Patrick said the DR clinic was being targeted because it was treating David supporters.", "sentence2": "David said the DR clinic was targeted because it was handling David supporters.", "label": 5.0, "idx": 1040}
+{"sentence1": "Grace is cutting broccoli.", "sentence2": "Grace is slicing broccoli.", "label": 5.0, "idx": 132}
+{"sentence1": "There are many small cameras with under water houses from Canon and Olympus.", "sentence2": "There are waterproof small ones that go to 10 meters, such as some of the Olympus Tough ones.", "label": 5.0, "idx": 865}
+{"sentence1": "Frank's Son Sage Found Dead in LA", "sentence2": "Frank's Son Found Dead At Home", "label": 5.0, "idx": 1318}
+{"sentence1": "A big red bus with two floors is moving on the road.", "sentence2": "A big red bus with two floors is moving on a street.", "label": 5.0, "idx": 297}
+{"sentence1": "A person is combing a cat hair.", "sentence2": "A person is brushing a cat.", "label": 5.0, "idx": 158}
+{"sentence1": "You should take this animal to the pet doctor now.", "sentence2": "As said before, you must see a pet doctor to fix this with an operation.", "label": 5.0, "idx": 837}
+{"sentence1": "A cook is making some food.", "sentence2": "A cook made a food.", "label": 5.0, "idx": 75}
+{"sentence1": "A kid jumping his dirt bike.", "sentence2": "A kid on a bike jumping in the air.", "label": 5.0, "idx": 324}
+{"sentence1": "His child, Olivia, told the AP news that Gabriel died in his sleep, maybe from heart failure.", "sentence2": "Gabriel died in his sleep of heart failure, said his child, Olivia.", "label": 5.0, "idx": 1044}
+{"sentence1": "Two white dogs walk through deep white snow.", "sentence2": "Two white dogs walk through big snow on a mountain.", "label": 5.0, "idx": 377}
+{"sentence1": "Nathan set to call early vote", "sentence2": "Israel's Nathan set to call early vote", "label": 5.0, "idx": 1250}
+{"sentence1": "Tenet has been under scrutiny since November, when former Chief Executive Jeffrey said the company used aggressive pricing to trigger higher payments for the sickest Medicare patients.", "sentence2": "In November, Jeffrey, the chief executive at the time, said the company used aggressive pricing to get higher payments for the sickest Medicare patients.", "label": 5.0, "idx": 1059}
+{"sentence1": "RU country, CH country say no to UN paper on SY country help Arab plan.", "sentence2": "RU country, CH country say no to UN paper backing Arab plan for SY country.", "label": 5.0, "idx": 1271}
+{"sentence1": "A man sitting on the floor plays a guitar.", "sentence2": "A man sitting on the floor in a room is playing a guitar.", "label": 5.0, "idx": 34}
+{"sentence1": "Yes a team can use the same player for both ball throwing and bat hitting in a super play.", "sentence2": "There's no rule that decides which players can be picked for ball throwing/bat hitting in the Super Play.", "label": 5.0, "idx": 942}
+{"sentence1": "A doggy is stealing food from the fridge.", "sentence2": "The doggy took something out of the fridge.", "label": 5.0, "idx": 193}
+{"sentence1": "The big cat is chasing the bear.", "sentence2": "A big cat is chasing a bear.", "label": 5.0, "idx": 12}
+{"sentence1": "The coming money season will be very important in telling investors what to do.", "sentence2": "They say money reports will be key in telling investors what to do.", "label": 5.0, "idx": 1215}
+{"sentence1": "The group of hikers is resting in front of a big mountain.", "sentence2": "Some hikers rest with their stuff in front of a mountain.", "label": 5.0, "idx": 382}
+{"sentence1": "A boy lying on a cozy place with a small white puppy.", "sentence2": "A small boy laying on a cozy place with a puppy.", "label": 5.0, "idx": 355}
+{"sentence1": "A person is erasing a chalk board.", "sentence2": "The person is erasing the chalk board.", "label": 5.0, "idx": 6}
+{"sentence1": "Woolly things are eating grass in a grassy place near some big plants.", "sentence2": "Woolly things are eating grass in the grassy place in front of big plants.", "label": 5.0, "idx": 290}
+{"sentence1": "A girl dancing on a sandy beach.", "sentence2": "A girl is on a sandy beach.", "label": 5.0, "idx": 509}
+{"sentence1": "7 caught for 'house sister' trouble.", "sentence2": "CN country catches 7 for \"house sister\" trouble.", "label": 5.0, "idx": 1332}
+{"sentence1": "A lady puts makeup on her eyelid.", "sentence2": "The lady is pencilling on eye shadow.", "label": 5.0, "idx": 116}
+{"sentence1": "Samuel picked as JP country's leader.", "sentence2": "Samuel is JP country's leader.", "label": 5.0, "idx": 1335}
+{"sentence1": "Four girls in swim clothes play ball at the beach.", "sentence2": "Four ladies in swim clothes play ball on the beach.", "label": 5.0, "idx": 378}
+{"sentence1": "The man cut down a tree with an axe tool.", "sentence2": "A man chops down a tree with an axe tool.", "label": 5.0, "idx": 13}
+{"sentence1": "You definitely do NOT want to be supporting your weight with your arms on the bike for normal riding.", "sentence2": "No, don't support your weight on your arms Your hands simply aren't really made for supporting all that weight.", "label": 5.0, "idx": 718}
+{"sentence1": "A lady is cutting a big green food.", "sentence2": "A person is cutting a green food.", "label": 5.0, "idx": 174}
+{"sentence1": "My view is to wait for the child to ask for it.", "sentence2": "My view is to wait until the child itself wants for this.", "label": 5.0, "idx": 800}
+{"sentence1": "Margaret, old UK boss, dead at 87.", "sentence2": "Margaret dies at 87.", "label": 5.0, "idx": 1421}
+{"sentence1": "The small puppy tried to get out of the water tub.", "sentence2": "A small puppy is trying to get out of a bath tub.", "label": 5.0, "idx": 162}
+{"sentence1": "Your cat is upset, telling you something.", "sentence2": "Something bothers your cat.", "label": 5.0, "idx": 829}
+{"sentence1": "A kid runs into and out of the water waves.", "sentence2": "A young boy runs toward and from the water waves.", "label": 5.0, "idx": 190}
+{"sentence1": "boy on steps", "sentence2": "A boy sits on steps.", "label": 5.0, "idx": 532}
+{"sentence1": "A person with a hard hat is dancing.", "sentence2": "A person wearing a hard hat is dancing.", "label": 5.0, "idx": 0}
+{"sentence1": "Two women posing with a baby.", "sentence2": "Two smiling women holding a baby.", "label": 5.0, "idx": 277}
+{"sentence1": "The money also did well against the dollar, reached new highs.", "sentence2": "The British money got stronger against the dollar, went up.", "label": 5.0, "idx": 1046}
+{"sentence1": "Someone is pouring chicken soup into a pot.", "sentence2": "The man is pouring soup into the pot.", "label": 5.0, "idx": 169}
+{"sentence1": "A man is making a hole in a board.", "sentence2": "Someone is making a hole in a wood piece.", "label": 5.0, "idx": 48}
+{"sentence1": "Someone drew on the face of the leader on the money.", "sentence2": "A person draws on money.", "label": 5.0, "idx": 247}
+{"sentence1": "Adam is enjoying watching three kids from Far East dance.", "sentence2": "Adam is watching three kids from Far East dance.", "label": 5.0, "idx": 543}
+{"sentence1": "A group of people stand in the sand looking out at the water.", "sentence2": "A group of people are standing on the beach in front of some boats.", "label": 5.0, "idx": 393}
+{"sentence1": "The short answer is: we are made from \"stuff\" from many stars.", "sentence2": "It is unlikely we're made from only one star's stuff.", "label": 5.0, "idx": 645}
+{"sentence1": "EU group backs GR help money.", "sentence2": "EU group agrees GR help money.", "label": 5.0, "idx": 1283}
+{"sentence1": "Cameron, the helper, said talks with IR country would not stop.", "sentence2": "Helper Cameron said yesterday that talks with IR country would go on.", "label": 5.0, "idx": 1221}
+{"sentence1": "A person walks their dog on the beach.", "sentence2": "A person with their dog on the beach.", "label": 5.0, "idx": 611}
+{"sentence1": "a wet black doggy with red collar in river", "sentence2": "A black doggy with red collar in water", "label": 5.0, "idx": 405}
+{"sentence1": "A man and lady rested on a couch.", "sentence2": "A man and lady slept on the couch.", "label": 5.0, "idx": 586}
+{"sentence1": "The boy without a shirt is jumping.", "sentence2": "The boy jumping is not wearing a shirt.", "label": 5.0, "idx": 609}
+{"sentence1": "Is it possible for a game to tie even after using the D/L way?", "sentence2": "Yes, it's possible for a game to tie after using the D/L way.", "label": 5.0, "idx": 941}
+{"sentence1": "A small white dog running across a lawn.", "sentence2": "A small white dog running", "label": 5.0, "idx": 395}
+{"sentence1": "Part of the agreement was the making of a special health council that would watch health spending and progress in changing the health system.", "sentence2": "A key portion of the agreement was the making of a special council to watch health spending, set goals for the system and measure progress in changing health care.", "label": 5.0, "idx": 1149}
+{"sentence1": "AU cuts rates to record low", "sentence2": "AU cuts interest rates to record low", "label": 5.0, "idx": 1443}
+{"sentence1": "A boy is playing guitar.", "sentence2": "A boy plays a guitar.", "label": 5.0, "idx": 152}
+{"sentence1": "A person at a market.", "sentence2": "A person is at a market.", "label": 5.0, "idx": 556}
+{"sentence1": "Kenya Supreme Court upholds election result.", "sentence2": "Kenya SC upholds election result.", "label": 5.0, "idx": 1395}
+{"sentence1": "A cat standing on tree branches.", "sentence2": "A black and white cat is high up on tree branches.", "label": 5.0, "idx": 250}
+{"sentence1": "The lady cut the tail and body of a shrimp.", "sentence2": "A woman is cleaning a shrimp.", "label": 5.0, "idx": 129}
+{"sentence1": "The brown and white cows are eating from a trough.", "sentence2": "Brown and white cows are eating from a trough.", "label": 5.0, "idx": 361}
+{"sentence1": "A man is playing a guitar.", "sentence2": "A guy is playing an instrument.", "label": 5.0, "idx": 58}
+{"sentence1": "A baby animal is walking with its mommy animal.", "sentence2": "A baby animal is following an adult animal.", "label": 5.0, "idx": 83}
+{"sentence1": "But JT was careful to clarify that it was \"not certain about the outcome of the talk at this moment\".", "sentence2": "\"However, we are not certain about the outcome of the talk at this moment.\"", "label": 5.0, "idx": 1188}
+{"sentence1": "Shoppers would still have to get a unscrambly safe card from their cable helper to plug into the set.", "sentence2": "To watch pay TV, shoppers would put into the set a safe card provided by their cable service.", "label": 5.0, "idx": 1226}
+{"sentence1": "The baby laughed in their car seat.", "sentence2": "A baby is laughing.", "label": 5.0, "idx": 235}
+{"sentence1": "\"City dirt, and ozone stuff, is tougher on country trees,\" says teacher Jillian.", "sentence2": "\"I know this sounds silly, but it's true: City dirt -- and ozone stuff -- is tougher on country trees,\" US teacher Jillian said.", "label": 5.0, "idx": 1165}
+{"sentence1": "A lady posing by a pillar with a \"U2\" sign.", "sentence2": "a lady is standing by a pillar where \"u2\" is written.", "label": 5.0, "idx": 267}
+{"sentence1": "INTEL TODAY told about its next new thing for phones and little hand things here in NE city.", "sentence2": "Intel on today told about its next new thing for phones, little hand things, and other no wire things.", "label": 5.0, "idx": 1209}
+{"sentence1": "\"It just seems like all the issues that we support, he doesn't,\" said Grace of LULAC.", "sentence2": "\"It just seems like all the issues that we support he doesn't,\" said Grace, the club's director of policy and laws.", "label": 5.0, "idx": 1164}
+{"sentence1": "A black and white dog swimming in clear water.", "sentence2": "A small black and white dog is swimming in water.", "label": 5.0, "idx": 398}
+{"sentence1": "A person is starting a fire.", "sentence2": "A person makes fire.", "label": 5.0, "idx": 220}
+{"sentence1": "Many deaths happened in crashes where vehicle rolled over in 2002, the group says.", "sentence2": "Many deaths happened in rollover crashes in 2002, group said.", "label": 5.0, "idx": 1045}
+{"sentence1": "Small dog laying on the bed.", "sentence2": "Small dog is laying on a bed.", "label": 5.0, "idx": 133}
+{"sentence1": "While waiting for the bomb people to come, the bomb exploded, killing Wells.", "sentence2": "The bomb exploded while waiting for the bomb people to come.", "label": 5.0, "idx": 1229}
+{"sentence1": "Store chains facing a possible worker strike this week accused union leaders Monday of breaking off contract talks prematurely over the weekend.", "sentence2": "Store chains are accusing union leaders of breaking off contract talks prematurely over the weekend as workers gear up for a possible strike.", "label": 5.0, "idx": 1208}
+{"sentence1": "I agree with others (and yourself) in that I have never heard this in English.", "sentence2": "I have never heard or seen the phrase you mention.", "label": 5.0, "idx": 697}
+{"sentence1": "A man plays the piano.", "sentence2": "A man is playing a piano.", "label": 5.0, "idx": 37}
+{"sentence1": "A Merrill Lynch person said \"we are happy with the judge's decision.\"", "sentence2": "\"We are very happy with the judge's decision,\" Merrill said yesterday.", "label": 5.0, "idx": 1245}
+{"sentence1": "A black dog is running in the grass.", "sentence2": "The black dog is running through the grass.", "label": 5.0, "idx": 397}
+{"sentence1": "Higher courts have said that the things broke the rule of church and place apart.", "sentence2": "The courts have said that the thing breaks the rule against place religion.", "label": 5.0, "idx": 1124}
+{"sentence1": "A lady was in the bathroom.", "sentence2": "The lady was in a bathroom.", "label": 5.0, "idx": 584}
+{"sentence1": "Benjamin calls for trust in US-CH country relations.", "sentence2": "Benjamin calls for trust in building 'new relationship' with CH country.", "label": 5.0, "idx": 1390}
+{"sentence1": "Job finders say getting good stuff seller leader will be hardest because no many good ones.", "sentence2": "Job finders say getting good stuff seller leader will maybe be hardest.", "label": 4.0, "idx": 1006}
+{"sentence1": "", "sentence2": "Soak whole ears in the green leaf covering in a bowl of water. <sentence1>The best way I have found is to soak the ears in green leaf covering for several hours before grilling.", "label": 4.0, "idx": 679}
+{"sentence1": "\"This decision is clearly wrong,\" FTC Chairman Timothy said in a written statement.", "sentence2": "The decision is \"clearly wrong,\" FTC Chairman Tim said.", "label": 4.0, "idx": 1039}
+{"sentence1": "A man shoots a man.", "sentence2": "A man with a tool shoots another man.", "label": 4.0, "idx": 69}
+{"sentence1": "A man is playing the violin in the rain.", "sentence2": "A man is playing the guitar in the rain.", "label": 4.0, "idx": 517}
+{"sentence1": "On Friday, the fast plane started up around sunrise and seemed to launch itself straight out of the rising sun.", "sentence2": "Yesterday, the fast plane seemed to launch itself straight out of the rising sun.", "label": 4.0, "idx": 1227}
+{"sentence1": "Aiken's study appears in the book called Journal of the American Medical Association on September 24th.", "sentence2": "The findings appear in the book called Journal of the American Medical Association on Wednesday.", "label": 4.0, "idx": 1244}
+{"sentence1": "Fast Picture Viewer has an big pack for the low price of $9.99 and it seems to cover them all.", "sentence2": "Fast Picture Viewer is $9.99 and works just fine on 64-bit Windows 7 (I'm using it myself).", "label": 4.0, "idx": 864}
+{"sentence1": "CN money goes down to 6.3282 against US money Monday.", "sentence2": "CN money goes down against US money third day.", "label": 4.0, "idx": 1308}
+{"sentence1": "\"We'll do all we can to get money back fast,\" Kennedy said.", "sentence2": "\"There's big want to get money back fast,\" Leader Susan Kennedy said.", "label": 4.0, "idx": 1212}
+{"sentence1": "One Asian and one occasion lady with glasses smiling and giving a thumbs up sign.", "sentence2": "Two ladies are posing for the camera and giving the thumbs up sign.", "label": 4.0, "idx": 268}
+{"sentence1": "A black and wood colored dining set in a small house.", "sentence2": "Black and brown table in living room.", "label": 4.0, "idx": 259}
+{"sentence1": "The leader is going to Jackson, where 13 people died.", "sentence2": "The leader is going to Jackson, where 13 people were killed.", "label": 4.0, "idx": 1236}
+{"sentence1": "A black doggy is running through the white snowflakes.", "sentence2": "The black and brown doggy is running through the white snowflakes.", "label": 4.0, "idx": 410}
+{"sentence1": "A grey house with red door.", "sentence2": "House with red door.", "label": 4.0, "idx": 357}
+{"sentence1": "On Thursday, a NW paper said that a big cut from the WA country's bank was more likely, unlike the NY paper's words.", "sentence2": "On Thursday, a paper said that a big cut from the bank was more likely.", "label": 4.0, "idx": 1130}
+{"sentence1": "It is simply the number of balls thrown divided by the number of fall downs taken.", "sentence2": "Ball throw speed is defined for a thrower as the number of balls thrown for each fall down.", "label": 4.0, "idx": 943}
+{"sentence1": "A man is eating food.", "sentence2": "A man is eating something.", "label": 4.0, "idx": 38}
+{"sentence1": "Leader in TH place asked people to say what they think about SY country.", "sentence2": "Matthew in TH place asked people to say what about SY country.", "label": 4.0, "idx": 1267}
+{"sentence1": "People fought with police in CA city.", "sentence2": "People fought with police in BR country.", "label": 4.0, "idx": 1414}
+{"sentence1": "FI country is already the FI country's FW trade friend, with trade of more than FW money.", "sentence2": "Though small, FI country is the FI country's FW trade friend, with trade of FW money last year.", "label": 4.0, "idx": 1035}
+{"sentence1": "Picture by artist Samuel made long ago was taken.", "sentence2": "Picture by artist Samuel was taken from NY city.", "label": 4.0, "idx": 1263}
+{"sentence1": "A person folds a square paper piece.", "sentence2": "A person folds a paper piece.", "label": 4.0, "idx": 198}
+{"sentence1": "A bird eating from bird feeder.", "sentence2": "A yellow bird eating fruit on bird feeder.", "label": 4.0, "idx": 350}
+{"sentence1": "Thomas, a kid from NC town, got a word like \"zistee\" in game yesterday.", "sentence2": "The kid who goes to NC town school got a word like \"zistee\" in game Wednesday.", "label": 4.0, "idx": 1008}
+{"sentence1": "According to Iran group and Soldiers a place called Israel does not exist.", "sentence2": "Like the name of Place, the name of Israel changes based on who you ask.", "label": 4.0, "idx": 895}
+{"sentence1": "Researchers at CA city school found a little new thing. It is part of trying to give mice the virus for 10 years.", "sentence2": "The little new thing, found by CA city researchers, is part of trying to give mice the virus for 10 years.", "label": 4.0, "idx": 1234}
+{"sentence1": "A baby dog plays with a thing.", "sentence2": "The dog is playing with a thing.", "label": 4.0, "idx": 35}
+{"sentence1": "People working for the government can join unions because the law says they can.", "sentence2": "The legal reasons why people working for the government can join unions have been told before.", "label": 4.0, "idx": 883}
+{"sentence1": "A person wearing special gear is swimming under water.", "sentence2": "A person is swimming under very blue water.", "label": 4.0, "idx": 470}
+{"sentence1": "CN money gets stronger to 6.168 against US money Monday.", "sentence2": "CN money gets stronger to 6.1696 against US money Thursday.", "label": 4.0, "idx": 1333}
+{"sentence1": "VE country's Xavier in CU country for third sick fix.", "sentence2": "VE country's leader going to CU country for fix.", "label": 4.0, "idx": 1324}
+{"sentence1": "MW says leader's not alive.", "sentence2": "MW says leader Mutharika's not alive.", "label": 4.0, "idx": 1323}
+{"sentence1": "Another ship flips near IT country.", "sentence2": "Another boat flips near IT country, 27 gone.", "label": 4.0, "idx": 1409}
+{"sentence1": "Two children are playing a game of table soccer.", "sentence2": "The children are playing a game with each other.", "label": 4.0, "idx": 535}
+{"sentence1": "Alice is peeling an onion.", "sentence2": "The woman is slicing green onions.", "label": 4.0, "idx": 163}
+{"sentence1": "For the most part you can apply at any US place.", "sentence2": "Generally you're supposed to apply at the US place at your home.", "label": 4.0, "idx": 965}
+{"sentence1": "Hassoun to MR people: problem for Syria is about Palestine.", "sentence2": "Faith leader: problem for Syria is about Palestine.", "label": 4.0, "idx": 1458}
+{"sentence1": "Yes, your words will be clearer if you write the real word instead of the slash.", "sentence2": "Most style guides say not to use the slash in phrases like \"X and/or Y\", as well as \"this is hard/impossible to do\".", "label": 4.0, "idx": 715}
+{"sentence1": "A boy and a girl are riding bikes on a street.", "sentence2": "A boy and girl are riding bicycles across a NY city road.", "label": 4.0, "idx": 429}
+{"sentence1": "A court said Tuesday that the government was free to not give the names of more than 700 people held after big bad day.", "sentence2": "A court said Tuesday that the US government can not give the names of people held as part of the big bad day, saying no to a lower court.", "label": 4.0, "idx": 1096}
+{"sentence1": "Thomas agrees to lend FR country up to 125 money", "sentence2": "Thomas to lend FR country up to 100 money", "label": 4.0, "idx": 1311}
+{"sentence1": "Money problem is over, says FR leader Francois.", "sentence2": "Money problem is over, says FR leader.", "label": 4.0, "idx": 1479}
+{"sentence1": "The company says it's the biggest one big apple thing sale until now.", "sentence2": "The company said it is the biggest sale of big apple things by a store.", "label": 4.0, "idx": 1021}
+{"sentence1": "A man on a motorcycle doing a wheelie.", "sentence2": "Motorcyclist doing a wheelie next to a car.", "label": 4.0, "idx": 346}
+{"sentence1": "A red two-level bus on busy street.", "sentence2": "A two-level bus on city street.", "label": 4.0, "idx": 264}
+{"sentence1": "Gartner's paper said global WLAN things sent reached 19.5 million last year, a 120 percent more over 2001's 8.9 million things.", "sentence2": "Total things sent reached 19.5 million units last year, compared with 8.9 million units in 2001.", "label": 4.0, "idx": 1183}
+{"sentence1": "Fashion lady Lily dies.", "sentence2": "Lady, Friend Lily Dies at 81.", "label": 4.0, "idx": 1385}
+{"sentence1": "Money came in rose to $616.5 million from $610.6 million a year before.", "sentence2": "Money came in was up a tiny bit, from $610.6 million to $616.5 million.", "label": 4.0, "idx": 1086}
+{"sentence1": "One gone in PA city break, others out of broken stuff.", "sentence2": "Six gone after PA city break.", "label": 4.0, "idx": 1405}
+{"sentence1": "A bus goes down a busy road.", "sentence2": "A green bus goes down a road.", "label": 4.0, "idx": 282}
+{"sentence1": "The air car was thought to be close to its big take-off weight.", "sentence2": "The US fly, number 5481, which crashed on date 8, was judged to be close to its big take-off weight.", "label": 4.0, "idx": 1180}
+{"sentence1": "The same rovers will act as robotic rock experts, searching for proof of past water.", "sentence2": "The rovers act as robotic rock experts, moving on six wheels.", "label": 4.0, "idx": 1115}
+{"sentence1": "Actor Adam, who played Dr. Jack since the show's start in 1994, kept working through 2004-2005.", "sentence2": "Adam, who played Dr. Jack since 1994, signed for one more year with the makers.", "label": 4.0, "idx": 1073}
+{"sentence1": "Tail wagging, Abbey walked on stage with Conway before a crowd of more than 10,000 people at PeopleSoft's yearly people meeting at the Anaheim Convention Center.", "sentence2": "On Monday, Abbey walked on stage, tail wagging, with Conway before a crowd of 10,000 people at PeopleSoft's yearly people meeting.", "label": 4.0, "idx": 1190}
+{"sentence1": "The new thing costs between $1.1 million and $22 million, depending on what you get.", "sentence2": "The thing costs from $1.1 million to $22.4 million, depending on what you get.", "label": 4.0, "idx": 1137}
+{"sentence1": "In the new bad thing, the bad people threw a bomb at a US line, killing one soldier.", "sentence2": "Early today, the bad people threw a homemade bomb at a US line in north Baghdad city, killing an American soldier.", "label": 4.0, "idx": 1218}
+{"sentence1": "The religious people are enjoying the outdoors.", "sentence2": "The group of people are enjoying the outdoors.", "label": 4.0, "idx": 595}
+{"sentence1": "Under the US Constitution, the other chamber of Congress, the House of Representatives, does not vote on foreign alliances.", "sentence2": "The US House of Representatives, the other chamber of Congress, does not vote on treaties.", "label": 4.0, "idx": 1056}
+{"sentence1": "The companies, Charlie and Avery, together made about lots of doses of the shot, which usually would have been enough to meet place demand.", "sentence2": "Charlie and Avery together made about lots of doses, usually enough for place demand, The AP reported.", "label": 4.0, "idx": 1151}
+{"sentence1": "Egypt's Church Leader Dies", "sentence2": "Egypt gets ready to bury Church Leader", "label": 4.0, "idx": 1301}
+{"sentence1": "Police chopper crashes into pub in GL city - some hurt.", "sentence2": "Chopper crashes into roof of GL club.", "label": 4.0, "idx": 1424}
+{"sentence1": "IR country lets go bad guy wanted by US country.", "sentence2": "IR country said to let go bad guy.", "label": 4.0, "idx": 1330}
+{"sentence1": "It's pretty hard to imagine a person who is shy being a social person.", "sentence2": "At first look, it does seem like being shy and being social shouldn't both exist in the same person.", "label": 4.0, "idx": 662}
+{"sentence1": "The store said it came to the choice after hearing the thoughts of customers and helpers.", "sentence2": "The choice came after \"listening to our customers and helpers,\" Melissa, a speaker for Store, said.", "label": 4.0, "idx": 1014}
+{"sentence1": "Workers put in a new water pipe and made the road ready so cars could go on the other side as dark clouds might bring more rain.", "sentence2": "Workers put in a new water pipe and fixed the road so cars could go on the other side.", "label": 4.0, "idx": 1238}
+{"sentence1": "\"I'm not going to help with it because it is not our idea but I'm not going to speak bad of it\".", "sentence2": "\"I'm not going to help with it because it's not our idea, but I'm not speaking bad of it,\" Emma said.", "label": 4.0, "idx": 1141}
+{"sentence1": "Helped by some of the advice given by Nicholas, Henry shot a very good 64 for a small lead over Kevin.", "sentence2": "Helped by advice given by Nicholas, Henry shot a very good 64 on Thursday to start today with a small lead over Kevin.", "label": 4.0, "idx": 1239}
+{"sentence1": "Two bald eaglebirds perched on branch.", "sentence2": "Two eaglebirds are perched on branch.", "label": 4.0, "idx": 307}
+{"sentence1": "Police called a bomb team, but the thing went boom, killing Patrick, before the team came.", "sentence2": "While waiting for a bomb team, the thing went boom, killing Patrick.", "label": 4.0, "idx": 1162}
+{"sentence1": "Checkers have looked with care into almost every part of Campbell's person and number things, Campbell has said.", "sentence2": "Checkers go on to check almost every part of Campbell's person and number things, the before mayor has said.", "label": 4.0, "idx": 1085}
+{"sentence1": "People are playing cricket game.", "sentence2": "Men are playing cricket game.", "label": 4.0, "idx": 10}
+{"sentence1": "Big court limits leader's pick helpers power.", "sentence2": "Big court checks leader's pick helpers power.", "label": 4.0, "idx": 1478}
+{"sentence1": "A girl is riding a horse.", "sentence2": "The girl trotted the horse.", "label": 4.0, "idx": 88}
+{"sentence1": "Authorities called the tipster Richard, who is in jail for killing his landlady in 1982.", "sentence2": "Richard is serving time in a different case -- killing his landlady in 1982.", "label": 4.0, "idx": 1249}
+{"sentence1": "Cheese is good for you and okay when you have a baby in your belly, but some cheese might have bad germs that can make big problems.", "sentence2": "As I said, the bad thing with cheese is the bad germs might be there.", "label": 4.0, "idx": 812}
+{"sentence1": "School officials said Van-Vliet reported the accident using the bus' radio.", "sentence2": "Van-Vliet, who was also hurt, called in the accident on the school bus radio.", "label": 4.0, "idx": 1169}
+{"sentence1": "The person is doing dangerous fun things.", "sentence2": "A person is doing fun things.", "label": 4.0, "idx": 539}
+{"sentence1": "Person is peeling shrimp.", "sentence2": "David is peeling shrimp.", "label": 4.0, "idx": 136}
+{"sentence1": "A young person in a hat reads at a cafe.", "sentence2": "A person enjoys reading at a cafe.", "label": 4.0, "idx": 444}
+{"sentence1": "Living room with a big TV box.", "sentence2": "Living room with tan chairs and a big TV box.", "label": 4.0, "idx": 295}
+{"sentence1": "", "sentence2": "The 21 eagle, found by zoo person early Thursday, had bad pokes on tummy and back, said Julie Mason. <sentence1>The boy eagle was found by zoo person early Thursday, with bad pokes on tummy.", "label": 4.0, "idx": 1089}
+{"sentence1": "US, RU enter third day of SY talks", "sentence2": "US and RU agree SY arms deal in GE city", "label": 2.0, "idx": 1442}
+{"sentence1": "The people are leaving the big flying vehicle.", "sentence2": "The people are going into the big flying vehicle.", "label": 2.0, "idx": 518}
+{"sentence1": "A kid is mixing a pot of rice.", "sentence2": "A kid is peeling a potato.", "label": 2.0, "idx": 164}
+{"sentence1": "Running downhill is the BEST way to make your leg muscles stronger.", "sentence2": "Additionally people will think a downhill marathon is easier, but in fact, is often harder than an uphill marathon.", "label": 2.0, "idx": 721}
+{"sentence1": "One person dies, many hurt in sweet factory boom.", "sentence2": "Three die, many hurt in road crashes.", "label": 2.0, "idx": 1457}
+{"sentence1": "I voted for the big round thing as being the biggest real thing.", "sentence2": "Adam's book Hex talks about a big round thing, but made of shapes, a thousand miles (K?", "label": 2.0, "idx": 930}
+{"sentence1": "Apart from coming in (which normally should not be related to age), there is something that's related to your question.", "sentence2": "Age is not a PhD coming in factor in the CE country, too.", "label": 2.0, "idx": 627}
+{"sentence1": "This post refers to research in the STEM fields, and may not be okay for other research topics.", "sentence2": "This is about my experience in computer work I found that reading for breadth was the more important way.", "label": 2.0, "idx": 628}
+{"sentence1": "I go to the AZ country every summer and do some walks in the desert when I'm there.", "sentence2": "Apart from what was said, your need of water also depends on what you eat.", "label": 2.0, "idx": 791}
+{"sentence1": "Two dogs run in the snow.", "sentence2": "A dog lays in the snow.", "label": 2.0, "idx": 400}
+{"sentence1": "I think that for an understanding Wittgenstein's \"solution\", you must take in account the original (history) context.", "sentence2": "Wittgenstein is alluding to how Ryan himself solved the Paradox - the theory of ramified types.", "label": 2.0, "idx": 857}
+{"sentence1": "A woman boss is telling the men workers what to do.", "sentence2": "A woman is working as a nurse.", "label": 2.0, "idx": 501}
+{"sentence1": "I've found another idea that may be related to the first question: pattern theory.", "sentence2": "According to current learning ideas, the answer to your question is both.", "label": 2.0, "idx": 664}
+{"sentence1": "A white pet is playing with a ball on the beach.", "sentence2": "A black and white pet is playing with a tan pet.", "label": 2.0, "idx": 497}
+{"sentence1": "A big question was if FR country, which made US mad by not okay war, would say \"Yes\" or not say.", "sentence2": "FR country, which made US mad by not okay war, also wanted changes.", "label": 2.0, "idx": 1004}
+{"sentence1": "The assertion is false, at least as you've restated it here.", "sentence2": "\"I had mainly been\" is fine, in the context you're using it.", "label": 2.0, "idx": 698}
+{"sentence1": "Breed Zebra Fish are very hardy fish, they are almost impossible to kill.", "sentence2": "It is said that Fish need to school which means you need at least 5-8 Fish in your tank.", "label": 2.0, "idx": 845}
+{"sentence1": "An old man is near a window.", "sentence2": "A boy is near some stairs.", "label": 2.0, "idx": 591}
+{"sentence1": "A man dressed in black wearing a hat and glasses in front of a red wall.", "sentence2": "A lady in a white shirt standing in front of a brick wall.", "label": 2.0, "idx": 438}
+{"sentence1": "The School groups are like the School groups in UK land in 1922 when Ireland became free.", "sentence2": "This is still a way of gov't, but with a special twist.", "label": 2.0, "idx": 899}
+{"sentence1": "Copper can be useful for some tasks due to its metal ways (heats quickly, spreads heat evenly, etc.", "sentence2": "Maybe your view, but ... Good stainless steel will give you much better cooking per dollar than copper.", "label": 2.0, "idx": 694}
+{"sentence1": "The baby sheep is looking at the camera.", "sentence2": "A kitty looking at the camera.", "label": 2.0, "idx": 263}
+{"sentence1": "IS and PA people talk about prisoner swap.", "sentence2": "IS lawmakers want look into Prisoner X case.", "label": 2.0, "idx": 1345}
+{"sentence1": "4 dead after boat capsizes off FL state.", "sentence2": "8 dead after heavy rains on island of SV place.", "label": 2.0, "idx": 1391}
+{"sentence1": "If you are coming from the not word study place, the top book is to start with IS Frank, Opening to talk.", "sentence2": "This is what they suggest at OX school as first books to kids starting a Masters' in Word Study.", "label": 2.0, "idx": 782}
+{"sentence1": "Black and white dog running through water.", "sentence2": "A black and white dog is running through grass.", "label": 2.0, "idx": 399}
+{"sentence1": "Adam feels very hot when he runs and sweats a lot.", "sentence2": "You cannot stop yourself from sweating.", "label": 2.0, "idx": 720}
+{"sentence1": "Frank's hearing may be, on the top, about a driver's card.", "sentence2": "Frank said not having a driver card has been a hard thing.", "label": 2.0, "idx": 1032}
+{"sentence1": "People jumping into water while people fish in the behind.", "sentence2": "Two people watching the water.", "label": 2.0, "idx": 523}
+{"sentence1": "The money earned went up to $3.99 billion from $3.85 billion during the same time last year.", "sentence2": "That is more than $1.14 billion during the same time last year.", "label": 2.0, "idx": 1240}
+{"sentence1": "The US country is the strongest in the world because of its military force.", "sentence2": "The US country is one of the five biggest countries in the world by area.", "label": 2.0, "idx": 752}
+{"sentence1": "It is hard to speak for a team, know what their plan is going into a pick.", "sentence2": "Picking has changed a lot with the new rules agreement.", "label": 2.0, "idx": 948}
+{"sentence1": "People died in bad times in EG country.", "sentence2": "The head of TR country warned about bad times.", "label": 2.0, "idx": 1410}
+{"sentence1": "I have some Nikon lenses, and a Sigma 10-20mm for super-wide pics.", "sentence2": "If you like the glass, you need to look at each lens, not whole brands.", "label": 2.0, "idx": 869}
+{"sentence1": "A method used to calculate the distance between stars is 3 Dimensional shapes.", "sentence2": "You only need two-dimensional shapes if you know the distances to the two stars and their space between them.", "label": 2.0, "idx": 655}
+{"sentence1": "4 killed, 6 hurt in attacks in IR", "sentence2": "43 killed, 86 hurt in attacks in IR", "label": 2.0, "idx": 1466}
+{"sentence1": "Cameron was an ideas person and a people person, not a science person.", "sentence2": "Most of Philip K Cameron's works are not very Sci-Fi.", "label": 2.0, "idx": 933}
+{"sentence1": "The Standard & Poor's 500 Index slipped 4.77, or 0.5 percent, to 929.62.", "sentence2": "The broad Standard & Poor's 500 Index shed 0.17 of a point, or just 0.02 percent, to 934.", "label": 2.0, "idx": 1166}
+{"sentence1": "Two cows eat grass in a field.", "sentence2": "A brown horsey in a green field.", "label": 2.0, "idx": 333}
+{"sentence1": "Two ladies sitting on lawn chairs.", "sentence2": "Two ladies are sitting in a cafe.", "label": 2.0, "idx": 296}
+{"sentence1": "I have no idea why it is voted up, but Ryan's answer asks the question again.", "sentence2": "It's a saying the same thing, but the mapping between thinking and the English-talk description is wrong.", "label": 2.0, "idx": 852}
+{"sentence1": "Matthew, Grace's helper, had a different view.", "sentence2": "Grace's helper, Matthew, called the ruling \"a huge win.\"", "label": 2.0, "idx": 1091}
+{"sentence1": "A person is skating down some stairs.", "sentence2": "The person is skiing down a snowy hill.", "label": 2.0, "idx": 485}
+{"sentence1": "Helpers look for stuff after IN country buildings fell.", "sentence2": "Pick pictures from BG country building fall.", "label": 2.0, "idx": 1407}
+{"sentence1": "Syrian soldiers bombed a church, killed 5.", "sentence2": "Looking for clues in BO bombing.", "label": 2.0, "idx": 1418}
+{"sentence1": "A girl in a red shirt engaged in talk with another girl in a tan coat.", "sentence2": "A girl in a blue dress and another girl in a purple dress, both smiling.", "label": 2.0, "idx": 567}
+{"sentence1": "Two young boys in shirts are hiding in the woods with one looking scared.", "sentence2": "Two smiling little girls playing in water with other people.", "label": 2.0, "idx": 541}
+{"sentence1": "3 killed, 4 hurt in LA city shootings.", "sentence2": "Five killed in SA country shooting.", "label": 2.0, "idx": 1494}
+{"sentence1": "I have been doing a lot of my planning work in Workflowy.", "sentence2": "Am I allowed to talk about Scrivener again?", "label": 2.0, "idx": 999}
+{"sentence1": "IR country warns talks could stop.", "sentence2": "IR people \"say\" they killed scientists.", "label": 2.0, "idx": 1257}
+{"sentence1": "Leader to meet with CH leader in CA on days 7, 8.", "sentence2": "Leader to meet UP leader at WH.", "label": 2.0, "idx": 1461}
+{"sentence1": "A black-and-white bear is climbing.", "sentence2": "A man is climbing a long rope.", "label": 2.0, "idx": 42}
+{"sentence1": "UN people to see bad things in SY country.", "sentence2": "US says bad things used in SY country.", "label": 2.0, "idx": 1432}
+{"sentence1": "A man is playing a keyboard.", "sentence2": "A man is playing a flute.", "label": 2.0, "idx": 55}
+{"sentence1": "Players can go to playoffs if they win game.", "sentence2": "Liam scores 4 times to make coach happy after win.", "label": 2.0, "idx": 1268}
+{"sentence1": "CN country to talk again with US country money talks.", "sentence2": "CN country and TW country have big talks.", "label": 2.0, "idx": 1338}
+{"sentence1": "A Frank is speaking.", "sentence2": "A Frank is spitting.", "label": 2.0, "idx": 19}
+{"sentence1": "Because there are better ways for Her Majesty to change or stop laws.", "sentence2": "They do not stop laws because nobody will ever make a law that Her Majesty does not want.", "label": 2.0, "idx": 896}
+{"sentence1": "A black and white doggy is running in a grassy yard with a white fence around it.", "sentence2": "A black and white doggy is jumping over a hurdle.", "label": 2.0, "idx": 381}
+{"sentence1": "In a talk, for example, it is not always clear if something is alive or not alive.", "sentence2": "As in that talk, Polish shows living boy words by having a word that means \"of\" vs. the ones that do not mean \"of\" for not living boy words.", "label": 2.0, "idx": 778}
+{"sentence1": "The four Emma are practicing for a upcoming game.", "sentence2": "The Emma are in a play.", "label": 2.0, "idx": 531}
+{"sentence1": "If you can use it, you can do that very easily with the Web of Science website.", "sentence2": "You can look at the arXiv website at http://arxiv.culturomics.org, but it only searches in papers on arXiv.", "label": 2.0, "idx": 632}
+{"sentence1": "Adam meets with red plus people in SY country.", "sentence2": "Adam makes promise to red plus.", "label": 2.0, "idx": 1303}
+{"sentence1": "Even though the question was answered I want to add my answer.", "sentence2": "I don't know if I should say this, but if your job makes you worried.", "label": 2.0, "idx": 908}
+{"sentence1": "A black and brown doggy is chewing on a big stick.", "sentence2": "A black and white doggy playing in the sand.", "label": 2.0, "idx": 478}
+{"sentence1": "", "sentence2": "I think those are paper tickets (with writing) for places to dig up old things or places for seeing old things. <sentence1>These are paper tickets to old places called Emma place (which has a place for shows still used) and Matthew place.", "label": 2.0, "idx": 759}
+{"sentence1": "The good way is to play with your cat at night before bedtime.", "sentence2": "A trick I used was to hold my cat close if they woke me up at night.", "label": 2.0, "idx": 841}
+{"sentence1": "A woman is feeding a baby.", "sentence2": "A man is adding water to a pot.", "label": 2.0, "idx": 201}
+{"sentence1": "A girl bouncing in a bouncy house.", "sentence2": "A girl dancing like a person in a costume.", "label": 2.0, "idx": 403}
+{"sentence1": "This depends on the life of the tomato you got.", "sentence2": "Tomatoes will last longer if kept in the fridge, but I say no to keeping them there.", "label": 2.0, "idx": 690}
+{"sentence1": "This idea has been around since the start of made-up stories and telling tales.", "sentence2": "The science behind super people might shed some light on this talk.", "label": 2.0, "idx": 940}
+{"sentence1": "Town fight: Police go around home of 'God warrior' thought to be bad person", "sentence2": "Town shooting: FR country was on the highest level of watch", "label": 2.0, "idx": 1294}
+{"sentence1": "Boy, 14, caught for bad touches near school.", "sentence2": "Two young caught for bad touches at M school.", "label": 2.0, "idx": 1483}
+{"sentence1": "I do not agree with Adam on some of his tips.", "sentence2": "Research does show that sleeping after learning is a pretty good rule.", "label": 2.0, "idx": 916}
+{"sentence1": "A man is playing the drums.", "sentence2": "A man is playing guitar.", "label": 2.0, "idx": 159}
+{"sentence1": "Since this is a new problem for people who study behavior, I don't know if everyone agrees.", "sentence2": "I'll answer just the first of your three small questions, the others got answered by Samuel.", "label": 2.0, "idx": 674}
+{"sentence1": "A woman is playing the music tube.", "sentence2": "A man is playing music keys.", "label": 2.0, "idx": 181}
+{"sentence1": "A boy is carrying a boat with a puppy.", "sentence2": "A puppy is carrying a boy in a boat.", "label": 2.0, "idx": 507}
+{"sentence1": "Scott was otherwise the best of the field at Pikes Peak Car Raceway.", "sentence2": "Scott Dixon eventually made winning the Honda Indy 225 look easy Sunday at Pikes Peak Car Raceway.", "label": 2.0, "idx": 1142}
+{"sentence1": "A man plays flute.", "sentence2": "A man dances.", "label": 2.0, "idx": 183}
+{"sentence1": "I like the ideas about setting a time and doing job things.", "sentence2": "Get a big screen and use it to keep work and sleep places apart.", "label": 2.0, "idx": 913}
+{"sentence1": "A person is playing the keys.", "sentence2": "A person is playing a wood pipe.", "label": 2.0, "idx": 191}
+{"sentence1": "Friends go into a building.", "sentence2": "A man walks to the store.", "label": 2.0, "idx": 589}
+{"sentence1": "Big car company GM has many workers. They have 115,000 active workers and 340,000 retired workers and their families.", "sentence2": "They cover more than 300,000 workers and 500,000 retired workers and their families.", "label": 2.0, "idx": 1020}
+{"sentence1": "I cannot give a good answer because you did not explain well.", "sentence2": "To warm up, do the exercise with light weights first.", "label": 2.0, "idx": 727}
+{"sentence1": "People ride bikes in a city.", "sentence2": "People riding horses in a fenced area.", "label": 1.0, "idx": 285}
+{"sentence1": "If animals that aren't humans are smart too, why aren't they as smart as humans?", "sentence2": "Your idea is bad because it seems to follow an old, wrong way of thinking about evolution.", "label": 1.0, "idx": 675}
+{"sentence1": "A bit of the question so far not looked at is if the idea of sound word has always been argued about.", "sentence2": "\"Sound word\" is a thought idea which maybe can't go away.", "label": 1.0, "idx": 781}
+{"sentence1": "At least 12 dead in WA area...", "sentence2": "At least 150 dead as big shake hits SW BA area.", "label": 1.0, "idx": 1440}
+{"sentence1": "Some people are in the water.", "sentence2": "Some people ride in a race.", "label": 1.0, "idx": 435}
+{"sentence1": "A woman is adding some mushrooms and drink to a pot.", "sentence2": "A young man is playing the guitar.", "label": 1.0, "idx": 245}
+{"sentence1": "The right water makes fish live, but too sour water can kill them.", "sentence2": "The info you got before is good.", "label": 1.0, "idx": 833}
+{"sentence1": "If you can get over the \"icky feeling,\" you have an easy source of organic plant food close by.", "sentence2": "The numbers on the plant food show the percent of plant foods inside, N, P and K.", "label": 1.0, "idx": 746}
+{"sentence1": "Some old stories like the number 10, but also 6, so that's a mixed answer from Wikipedia on perfect numbers.", "sentence2": "This can happen, but I haven't seen it tested for other reasons besides if it's possible.", "label": 1.0, "idx": 672}
+{"sentence1": "Three boys are trying to pull a car out of a ditch on a mountain road.", "sentence2": "Two boys are waiting for a ride on a dirt road.", "label": 1.0, "idx": 564}
+{"sentence1": "Here is the 2006 cover release, choice B in your question is the 2006 version.", "sentence2": "Wikipedia's list of Time Travel Rules is a good place to check about this subject.", "label": 1.0, "idx": 937}
+{"sentence1": "Amgen shares got bigger, or 1.45 percent, to $65.05 in afternoon.", "sentence2": "Shares of Allergan were up 14 cents at $78.40 in late time on the NE city place.", "label": 1.0, "idx": 1122}
+{"sentence1": "Group of little girl and a puppy stand on the road.", "sentence2": "a group of people white water raft in a blue boat.", "label": 1.0, "idx": 453}
+{"sentence1": "Kids looking at a sheep.", "sentence2": "Kid milking a cow outside.", "label": 1.0, "idx": 292}
+{"sentence1": "The roller skates are moving.", "sentence2": "Two cars are going towards the camera.", "label": 1.0, "idx": 590}
+{"sentence1": "http://en.wikipedia.org/wiki/History_of_Delhi#Early_history shows that the city was called Delhi (or Dilli) at least since the 12/13th hundred years.", "sentence2": "I am not exactly sure but I remember the media (in India) calling Delhi \"HASTHINA\".", "label": 1.0, "idx": 765}
+{"sentence1": "2 pro-PA kid helpers arrested at BG Airport.", "sentence2": "Dozens of 'fly kid' protesters at FR airport.", "label": 1.0, "idx": 1287}
+{"sentence1": "Adam is running.", "sentence2": "Adam is singing.", "label": 1.0, "idx": 146}
+{"sentence1": "A puppy and a red ball in the sky.", "sentence2": "A puppy dig a hole in a backyard.", "label": 1.0, "idx": 451}
+{"sentence1": "Two little girls in pink dancing.", "sentence2": "Two ladies running on a path near water.", "label": 1.0, "idx": 407}
+{"sentence1": "A music person is putting jam on their white guitar at a show.", "sentence2": "A trombone player is playing their instrument in a band for a parade.", "label": 1.0, "idx": 540}
+{"sentence1": "An old person wearing a hat stands outside a shop door.", "sentence2": "a person in a big shirt sits at a shop", "label": 1.0, "idx": 526}
+{"sentence1": "A person is climbing a rock wall.", "sentence2": "A person and a horse are above a fence.", "label": 1.0, "idx": 552}
+{"sentence1": "A close-up of a kitty on a cream sofa.", "sentence2": "A close-up of a horsey.", "label": 1.0, "idx": 301}
+{"sentence1": "The lady broke an egg for the mixer.", "sentence2": "The lady cut the meat.", "label": 1.0, "idx": 78}
+{"sentence1": "Two girls were playing Doctor inside their home.", "sentence2": "The two girls went walking with their dad.", "label": 1.0, "idx": 580}
+{"sentence1": "Ethan is talking on a small phone.", "sentence2": "A guy is talking into a talking stick.", "label": 1.0, "idx": 167}
+{"sentence1": "Nelson taken to hospital bed.", "sentence2": "Nelson out of hospital bed.", "label": 1.0, "idx": 1340}
+{"sentence1": "The boy is playing the piano.", "sentence2": "A band is playing on stage.", "label": 1.0, "idx": 94}
+{"sentence1": "Leader says they will act on long lines at HE airport.", "sentence2": "Money boss promises no new taxes.", "label": 1.0, "idx": 1274}
+{"sentence1": "Ryan leads friends, not Xavier, in getting money", "sentence2": "Ryan: I left all work of business in 1999", "label": 1.0, "idx": 1315}
+{"sentence1": "A group of people sitting on a small sofa next to a kitchen.", "sentence2": "A group of people standing near a small child sitting on a horse.", "label": 1.0, "idx": 323}
+{"sentence1": "If I understand you rightly, you are looking for a word that includes both \"in\" and \"out\".", "sentence2": "\"In\" is the act of putting in and \"out\" is the act of leaving out.", "label": 1.0, "idx": 701}
+{"sentence1": "A group of seven people are rafting in the rapids in a green boat.", "sentence2": "A group of people are standing and sitting around on the ground at night.", "label": 1.0, "idx": 466}
+{"sentence1": "A person is standing under a road bridge near cars.", "sentence2": "A person walks a doggie by the water.", "label": 1.0, "idx": 334}
+{"sentence1": "Yes, boring talk should be removed fully (or changed to interesting talk).", "sentence2": "I agree with Lauren's answer: You need ups and downs in any story.", "label": 1.0, "idx": 994}
+{"sentence1": "A man is putting wood on a wall.", "sentence2": "A man is helping a woman.", "label": 1.0, "idx": 101}
+{"sentence1": "Would going on a carry ship count as a tour?", "sentence2": "Company offer a long tour of SA country, starting and finishing in EC city.", "label": 1.0, "idx": 979}
+{"sentence1": "A man sharpens a tool.", "sentence2": "A man carries a person.", "label": 1.0, "idx": 209}
+{"sentence1": "A man is throwing a penny into a fountain.", "sentence2": "A little boy is throwing a man in water.", "label": 1.0, "idx": 579}
+{"sentence1": "A man is playing a music thing.", "sentence2": "A man is cleaning a disk.", "label": 1.0, "idx": 168}
+{"sentence1": "There is NO good reason for the not doing video plays in big ball game.", "sentence2": "There is another problem with doing video plays not just stopping the game.", "label": 1.0, "idx": 952}
+{"sentence1": "Nearly all countries grew quickly in the 1950s and 1960s for the same reasons.", "sentence2": "The USSR country did not grow very fast in the 1950s.", "label": 1.0, "idx": 753}
+{"sentence1": "Baseball players playing a game at the park.", "sentence2": "A basketball player, playing in a big game.", "label": 1.0, "idx": 568}
+{"sentence1": "The wars in the Middle East area are not caused at all by trade making the area diverse.", "sentence2": "They had an agreement starting in 1941, after some fights along that area.", "label": 1.0, "idx": 755}
+{"sentence1": "Two doggies in the white stuff.", "sentence2": "Two doggies play in the green grass.", "label": 1.0, "idx": 430}
+{"sentence1": "No bad air at Iran plant.", "sentence2": "US group may mess up Iran deal.", "label": 1.0, "idx": 1376}
+{"sentence1": "9/11 people ignore judge at GT place.", "sentence2": "Sept. 11 people make families angry at thing.", "label": 1.0, "idx": 1316}
+{"sentence1": "Benjamin shouts at Gabriel over letting people go.", "sentence2": "Yara wants group to okay letting people go.", "label": 1.0, "idx": 1371}
+{"sentence1": "The big animals get wet.", "sentence2": "Two girls sing.", "label": 1.0, "idx": 114}
+{"sentence1": "I'm not yet able to answer if the thing has an official name.", "sentence2": "There are 2 problems with the view you showed in the question, which explain the puzzle.", "label": 1.0, "idx": 891}
+{"sentence1": "A man jumping rope", "sentence2": "A man is talking.", "label": 1.0, "idx": 123}
+{"sentence1": "A lady is brushing her feet.", "sentence2": "A lady is cutting a veggie.", "label": 1.0, "idx": 210}
+{"sentence1": "Adam has a trick he made without knowing: Many Browsers.", "sentence2": "I agree with others that tracking your time is very important for the answer.", "label": 1.0, "idx": 906}
+{"sentence1": "I bought a book, which talks about this, so here's an answer to my own question.", "sentence2": "Well I would not risk it, not in a cold compost system.", "label": 1.0, "idx": 748}
+{"sentence1": "Adam calling for a taxi at the airport on a sunny day.", "sentence2": "Adam is outside on a July day.", "label": 1.0, "idx": 545}
+{"sentence1": "Here is my advice from my experience feeding baby boys for a full year.", "sentence2": "I know that the first 3 days are the most big, so much so it is very very important you do it then.", "label": 1.0, "idx": 822}
+{"sentence1": "We always put it crushed up in a bit of butter or on a small fish.", "sentence2": "We had a cat that needed daily medicine, and it was hard to give the cat a pill.", "label": 1.0, "idx": 843}
+{"sentence1": "Two people sitting on a large bike.", "sentence2": "Two birds sitting on a long branch.", "label": 1.0, "idx": 287}
+{"sentence1": "A person is playing a music thing.", "sentence2": "A person is riding a animal.", "label": 1.0, "idx": 202}
+{"sentence1": "A girl is riding a horse along a fence.", "sentence2": "A dog is riding a skateboard.", "label": 1.0, "idx": 96}
+{"sentence1": "I do not know any school groups to join.", "sentence2": "At the NE country schools I worked at, people studies (like...", "label": 1.0, "idx": 626}
+{"sentence1": "Two horsey animals standing in a grassy place with tree things in the back.", "sentence2": "A black and white birdy on some water with green grass in the back.", "label": 1.0, "idx": 261}
+{"sentence1": "FR country shares jumped as much as 15 percent.", "sentence2": "FR Telecom shares dropped 3.6 percent while OR country surged 13 percent.", "label": 1.0, "idx": 1158}
+{"sentence1": "US man Samuel meets upset leaders in UK country.", "sentence2": "SFG meeting looks at stuff in ML country.", "label": 1.0, "idx": 1404}
+{"sentence1": "Adam is peeling a yellow fruit.", "sentence2": "Alice is peeling a white veggie.", "label": 1.0, "idx": 160}
+{"sentence1": "Two girls in blue and green dresses with big hats are standing next to a big tree trunk.", "sentence2": "A lady, a little boy, and a tiny baby are standing in front of a cow statue.", "label": 1.0, "idx": 383}
+{"sentence1": "A boy is playing soccer.", "sentence2": "A boy is playing flute.", "label": 1.0, "idx": 24}
+{"sentence1": "A lady stands with her arms out while another takes a picture.", "sentence2": "A boy stands in a crowd holding a white thing.", "label": 1.0, "idx": 446}
+{"sentence1": "Big people say important things at Gabriel party.", "sentence2": "Oliver shakes hands with Cuba's person at Gabriel party.", "label": 1.0, "idx": 1425}
+{"sentence1": "In the country, the fed CD group saw 4,156 cases of WN virus, with 284 not alive.", "sentence2": "There were 293 human cases of WN virus in IN in 2002, with 11 not alive in the state.", "label": 1.0, "idx": 1129}
+{"sentence1": "First, look at the pet's body talk to see if it is truly angry.", "sentence2": "First, you should know this is not you or your pet's trouble.", "label": 1.0, "idx": 832}
+{"sentence1": "A yellow dog is running in the white snow.", "sentence2": "Some dogs pulling a sled in a town.", "label": 1.0, "idx": 401}
+{"sentence1": "A group of men walk and hold onto ropes.", "sentence2": "A group of men play a school game.", "label": 1.0, "idx": 481}
+{"sentence1": "Not talking about health care, you are wrong that making war does not save lives.", "sentence2": "Health Care They would probably say your idea that Xavier's health care law will save lives is wrong.", "label": 1.0, "idx": 885}
+{"sentence1": "In 2000, Long Beach's people from Mexico and Latin lands was 35.8 percent.", "sentence2": "The people from Mexico and Latin lands grew 9.8 percent from April 2000 numbers.", "label": 1.0, "idx": 1072}
+{"sentence1": "Two girls came together in KR city.", "sentence2": "Free girls stir up protests.", "label": 1.0, "idx": 1380}
+{"sentence1": "Car maker skids into red after pollution trouble.", "sentence2": "Car maker's \"nice gift\" to diesel owners.", "label": 1.0, "idx": 1497}
+{"sentence1": "The helicopter burst into flames upon hitting, according to the MO sheriff's office.", "sentence2": "The helicopter was owned by LV-based Sundance Helicopters Inc., according to the sheriff's office.", "label": 1.0, "idx": 1197}
+{"sentence1": "Black and white picture of a wave crashing in the water.", "sentence2": "a small black dog in the water with some rocks in the back", "label": 1.0, "idx": 573}
+{"sentence1": "MU Ticket Sales And Profit Down", "sentence2": "MU owner Malcolm Gabriel dies at 85", "label": 1.0, "idx": 1453}
+{"sentence1": "Turn around in a square, jump on one leg and lift your feet doing each until you feel a tiny burn.", "sentence2": "Jump down, jump to the front and side, sprawl down, sit against wall, and lots and lots of jump rope.", "label": 1.0, "idx": 723}
+{"sentence1": "Five dead in PK bad bomb.", "sentence2": "Over 120 dead in PK factory fire.", "label": 1.0, "idx": 1291}
+{"sentence1": "The black and white dog runs on the green grass.", "sentence2": "A black and white dog swims in blue water.", "label": 1.0, "idx": 494}
+{"sentence1": "Benjamin complains of 'mean things'.", "sentence2": "Benjamin: Jail time 'silly'.", "label": 1.0, "idx": 1309}
+{"sentence1": "A guy is playing hacky sack.", "sentence2": "A man is playing a piano.", "label": 1.0, "idx": 71}
+{"sentence1": "A baby is crawling happily.", "sentence2": "A kitty is walking on hard floor.", "label": 1.0, "idx": 231}
+{"sentence1": "To say it another way, \"One kid's weed is another kid's lawn\".", "sentence2": "First, let me say Isaac has no experience fighting with Bermuda grass.", "label": 1.0, "idx": 737}
+{"sentence1": "You need to put a color code in your pic, and use a browser that understands color codes.", "sentence2": "In my try, when the final will be in sRGB, use that color code from start to end.", "label": 1.0, "idx": 868}
+{"sentence1": "Black and white cowy standing in grassy field.", "sentence2": "A black and white pic of a boy standing next to a bus.", "label": 1.0, "idx": 363}
+{"sentence1": "It is not recommended to use greywater on veggies that you will eat directly.", "sentence2": "Adding soap to water allows the water to dissolve oils.", "label": 1.0, "idx": 731}
+{"sentence1": "2 police died in EAS country explosion", "sentence2": "At least 28 people died in CH coal mine explosion", "label": 1.0, "idx": 1353}
+{"sentence1": "The user needs to decide for themselves if an \"easy\" tool like macros is worth it.", "sentence2": "Instead of trying to make them use specific answers or ways.", "label": 1.0, "idx": 912}
+{"sentence1": "Reading your talk, made me think of my young years !!", "sentence2": "I'd say you need to play with other things.", "label": 1.0, "idx": 951}
+{"sentence1": "A kid is boiling soup.", "sentence2": "A lady is putting eggs into a pan.", "label": 1.0, "idx": 110}
+{"sentence1": "The broader Standard and Poor's Index eased points, or part percent, at numbers.", "sentence2": "The tech-filled Nasdaq Composite Index was down points, or part percent, at numbers.", "label": 1.0, "idx": 1048}
+{"sentence1": "A Samuel is finding something.", "sentence2": "A Alice is slicing something.", "label": 1.0, "idx": 15}
+{"sentence1": "He is taking the diaper off because he is not happy.", "sentence2": "You can try putting the diaper on backwards which may only work for a little time.", "label": 1.0, "idx": 802}
+{"sentence1": "Adam read about eating food to make big muscles.", "sentence2": "Lifting heavy things for a short time does not make big muscles.", "label": 1.0, "idx": 722}
+{"sentence1": "UK spends money on other countries' jails", "sentence2": "US spends money on fish problem", "label": 1.0, "idx": 1296}
+{"sentence1": "IL and PA want to talk about peace deal after good talks.", "sentence2": "IL army kills 3 PA fighters in fights.", "label": 1.0, "idx": 1464}
+{"sentence1": "I visited PE country in August, starting from LA city and touring for three weeks.", "sentence2": "CU city: High: 70F Low: 40F This is just before the rain time (Dec-Mar) and crowds are general less.", "label": 1.0, "idx": 974}
+{"sentence1": "One thing you seem to be forgetting about good stories is they are very common tales.", "sentence2": "I noticed you said \"movie watchers\" like story references in a movie, but do kids?", "label": 1.0, "idx": 990}
+{"sentence1": "I would say the best thing for me is to have a nice and same sleep time.", "sentence2": "There's also Fun alarm for phones, which makes you solve easy math before the alarm will turn off.", "label": 1.0, "idx": 920}
+{"sentence1": "Yellow hair woman in a tunnel.", "sentence2": "The two people kissing is near a yellow hair woman.", "label": 1.0, "idx": 620}
+{"sentence1": "A man is cleaning a fish on the table.", "sentence2": "A man is playing a wind toy.", "label": 1.0, "idx": 85}
+{"sentence1": "Some people sit near water in chairs.", "sentence2": "A child jumps from one table to another in a park.", "label": 1.0, "idx": 370}
+{"sentence1": "A man is talking.", "sentence2": "A man is dancing.", "label": 1.0, "idx": 156}
+{"sentence1": "Eclipse shortcuts I use every day:", "sentence2": "To practice using keys instead of mouse, do not use your mouse for a few days.", "label": 0.0, "idx": 901}
+{"sentence1": "Police in GR country arrest person from DE country for spying.", "sentence2": "News in IS country sad about cost of talks starting again.", "label": 0.0, "idx": 1431}
+{"sentence1": "A family play on the beach with their puppy.", "sentence2": "A naked little girl throw into the sky.", "label": 0.0, "idx": 457}
+{"sentence1": "The man is aiming a weapon.", "sentence2": "A child is playing on a toy phone.", "label": 0.0, "idx": 249}
+{"sentence1": "Older man wearing hat with mountains in background.", "sentence2": "A sheep in the morning fog with trees in the background.", "label": 0.0, "idx": 256}
+{"sentence1": "A man in a grey suit kneel in front of a woman in a white dress.", "sentence2": "A woman in red with a beer follow by a man in white.", "label": 0.0, "idx": 454}
+{"sentence1": "The man is wearing a black shirt and hat and smiling.", "sentence2": "A man is lifting a little girl above his head.", "label": 0.0, "idx": 428}
+{"sentence1": "Good to hear you've started playing stick game, it's a fun game!", "sentence2": "A general rule is every 5-6 hours of skating.", "label": 0.0, "idx": 962}
+{"sentence1": "A cat is on a robot.", "sentence2": "A man is eating bread.", "label": 0.0, "idx": 119}
+{"sentence1": "A Stage 1 time is called when the air has 0.20 parts of bad air.", "sentence2": "The rule for bad air is 0.12 parts of bad air.", "label": 0.0, "idx": 1228}
+{"sentence1": "A big moving thing in the blood is called an embolism in medicine.", "sentence2": "Here is an interesting article on wikipedia about pressure injuries.", "label": 0.0, "idx": 793}
+{"sentence1": "A man doing a wheelie on a mountain bike.", "sentence2": "A woman posing by a pillar with a U2 sign.", "label": 0.0, "idx": 315}
+{"sentence1": "TH leaders say votes on day 2 of month 2.", "sentence2": "PH leaders say no more talks with bad group.", "label": 0.0, "idx": 1468}
+{"sentence1": "Adam plays a guitar.", "sentence2": "Emma and dog are walking.", "label": 0.0, "idx": 130}
+{"sentence1": "There's an answer for smart people, and a real answer.", "sentence2": "It's very silly that I've seen planes ask for these to be turned off at times.", "label": 0.0, "idx": 973}
+{"sentence1": "People near GA place told to stay near safe spot.", "sentence2": "Best's great day makes WI country happy.", "label": 0.0, "idx": 1325}
+{"sentence1": "A lady is mixing eggs in the bowl.", "sentence2": "A man is doing push-ups.", "label": 0.0, "idx": 226}
+{"sentence1": "Joining Samuel and Matthew on stage was Union Leader James.", "sentence2": "The Union endorsed Mr Dean some time ago.", "label": 0.0, "idx": 1153}
+{"sentence1": "The young ones are cold", "sentence2": "Asian kids are playing with a puppy.", "label": 0.0, "idx": 511}
+{"sentence1": "In some cases the hint could even be that Matthew does not love Isabel.", "sentence2": "There is no hint about Matthew at all in such a sentence.", "label": 0.0, "idx": 696}
+{"sentence1": "Two ladies are lost and calling for help.", "sentence2": "Two Asian men are getting things for their work and their child had to come with them.", "label": 0.0, "idx": 578}
+{"sentence1": "There was a girl stuck on the roof.", "sentence2": "The couple was on the bed.", "label": 0.0, "idx": 598}
+{"sentence1": "IS prime helper makes case on IR country to US voters.", "sentence2": "IS blames IR country for attacks on its helpers.", "label": 0.0, "idx": 1289}
+{"sentence1": "A lady is cutting some meat.", "sentence2": "A lady is singing on stage.", "label": 0.0, "idx": 45}
+{"sentence1": "A striped animal is playing with a ball.", "sentence2": "A person is chopping fishy food with a knife.", "label": 0.0, "idx": 232}
+{"sentence1": "A woman walking by the side of a big road.", "sentence2": "A man is standing on one foot on a bridge.", "label": 0.0, "idx": 544}
+{"sentence1": "Cover the door path with an old rug and use a stapler to keep it.", "sentence2": "I started to look into this because you made me curious...", "label": 0.0, "idx": 835}
+{"sentence1": "A man is playing the music thing.", "sentence2": "A lady is putting color on her mouth.", "label": 0.0, "idx": 81}
+{"sentence1": "A girl is standing next to a car.", "sentence2": "A yellow and orange bird hold on to the side of a cage.", "label": 0.0, "idx": 288}
+{"sentence1": "I would suggest asking things in a way that doesn't need a yes or no answer.", "sentence2": "Would you be worried with the mind changing if he wasn't shouting and/or being bad?", "label": 0.0, "idx": 803}
+{"sentence1": "A black hole (in short), is nothing more than a dead star whose weight was more than 3 sun weights.", "sentence2": "I think you mean to ask, \"What is the local star time of Greenwhich?\".", "label": 0.0, "idx": 658}
+{"sentence1": "Look for Travel WODs has whole lots of answers which you can use.", "sentence2": "As Adam says, this is for a doctor to look properly.", "label": 0.0, "idx": 726}
+{"sentence1": "A man with a grey beard rides bike on the beach of the water.", "sentence2": "A spotted dog stands on back legs to catch a ball on the beach.", "label": 0.0, "idx": 483}
+{"sentence1": "A woman is riding a horse on the beach.", "sentence2": "A woman is washing a bowl.", "label": 0.0, "idx": 221}
+{"sentence1": "Edit again: The question seems to have changed again.", "sentence2": "Benjamin can think of three reasons why a teacher might tell how a student did on a test.", "label": 0.0, "idx": 637}
+{"sentence1": "The lamb is looking at the camera.", "sentence2": "A small bird standing on a log at the water's edge.", "label": 0.0, "idx": 251}
+{"sentence1": "As said in the other notes, mixing types of factors is bad for ANOVA.", "sentence2": "I like to think of doing many things as fast switching.", "label": 0.0, "idx": 667}
+{"sentence1": "Oh friend, I have been on this bad road just like you.", "sentence2": "Yes, it is normal to wash new rope (or Single Rope Technique rope as it is known by cave people).", "label": 0.0, "idx": 799}
+{"sentence1": "A nice Emma I know has the bag by store (link).", "sentence2": "If you want purple Nunatak and Feather Friends have good bags in those colors.", "label": 0.0, "idx": 792}
+{"sentence1": "DPRK leader calls for better ties with S.KO", "sentence2": "North KO urges foreigners to leave South KO", "label": 0.0, "idx": 1448}
+{"sentence1": "Different parts of CA have different animals, so you should pick one area.", "sentence2": "You can get a rough idea from using a website that guesses calories.", "label": 0.0, "idx": 797}
+{"sentence1": "SP no job rate goes up past 25 percent.", "sentence2": "US no job rate seen up, giving Oliver no help.", "label": 0.0, "idx": 1288}
+{"sentence1": "A girl is putting her baby in a trash can.", "sentence2": "The girl is poking holes in the potato.", "label": 0.0, "idx": 97}
+{"sentence1": "A man is jumping into water.", "sentence2": "A man is cutting paper.", "label": 0.0, "idx": 57}
+{"sentence1": "The stuff place .IXIC inched down 1 thing, or 0.11 percent, to 1,650.", "sentence2": "The wide Thing & Person's 500 Thing .SPX inched up 3 things, or 0.32 percent, to 970.", "label": 0.0, "idx": 1000}
+{"sentence1": "A man in red swim clothes playing ball game.", "sentence2": "A boy and girl sitting on a bike.", "label": 0.0, "idx": 422}
+{"sentence1": "IR country threatens to trigger oil price war", "sentence2": "Adam admits threatening to hurt Henry", "label": 0.0, "idx": 1452}
+{"sentence1": "Matthew had 65 percent of the vote to 35 percent for City Boss Don.", "sentence2": "Matthew beat city Boss Don, 46, in the Tuesday runoff.", "label": 0.0, "idx": 1201}
+{"sentence1": "A man is putting a knife in a clamp.", "sentence2": "A man is getting into a car in a garage place.", "label": 0.0, "idx": 195}
+{"sentence1": "I agree, \"Network Science\" is a big topic.", "sentence2": "You are thinking about it the wrong way.", "label": 0.0, "idx": 638}
+{"sentence1": "Someone is mixing a liquid.", "sentence2": "A man is playing a guitar.", "label": 0.0, "idx": 228}
+{"sentence1": "A man in a fancy outfit is riding a bike on the road.", "sentence2": "A man is using a big stick to remove words from a sign.", "label": 0.0, "idx": 380}
+{"sentence1": "A lady is dancing.", "sentence2": "A man breaks a stick.", "label": 0.0, "idx": 111}
+{"sentence1": "A lady is putting colors on her face.", "sentence2": "A man is playing a music thing.", "label": 0.0, "idx": 173}
+{"sentence1": "Kids playing ball in the park.", "sentence2": "Two dogs playing by the water.", "label": 0.0, "idx": 379}
+{"sentence1": "I don't have experience with this.", "sentence2": "Since you got good answer, I'll say not proven stuff.", "label": 0.0, "idx": 740}
+{"sentence1": "A cow is eating grass.", "sentence2": "A doggy is pulling a girl down a hill.", "label": 0.0, "idx": 121}
+{"sentence1": "A Matthew sitting on a bench looking at a doggy on a leash sitting on sidewalk.", "sentence2": "A Emma holds a small baby while sitting on a couch.", "label": 0.0, "idx": 366}
+{"sentence1": "Some books say open big rooms lower work good with 2-10% due to stops, stress and noise.", "sentence2": "There's a phone toy called Groups which might be fun.", "label": 0.0, "idx": 921}
+{"sentence1": "It was random that she faced Grace in the first round - not because she's ranked #127.", "sentence2": "This was too long for a comment, so Isaac is posting it as an answer.", "label": 0.0, "idx": 964}
+{"sentence1": "A man is buttering a piece of bread.", "sentence2": "A slow loris hanging on a cord.", "label": 0.0, "idx": 127}
+{"sentence1": "Adam does not think there will be any rules about this thing.", "sentence2": "You will find all kinds of answers for this one (which means there are probably no \"rules\").", "label": 0.0, "idx": 630}
+{"sentence1": "A skier is jumping in the air over a snowfield near big mountains.", "sentence2": "A woman is sitting near a flower bed overlooking a tunnel.", "label": 0.0, "idx": 487}
+{"sentence1": "We are moving to the Leo cat in the sky at some 371 long steps every second.", "sentence2": "There is no 'still' that is not near some other thing.", "label": 0.0, "idx": 650}
+{"sentence1": "Adam and Benjamin talk about problem in Ukraine.", "sentence2": "Victoria comes to AR country for visit.", "label": 0.0, "idx": 1449}
+{"sentence1": "Your brain is getting ready to stop as you see the end coming.", "sentence2": "Here are some tips that can help you stay motivated.", "label": 0.0, "idx": 909}
+{"sentence1": "A young man is playing the piano.", "sentence2": "A woman is peeling food.", "label": 0.0, "idx": 59}
+{"sentence1": "Oliver is right: AF deserves better leaders.", "sentence2": "Oliver waiting for midterm to name top lawyer.", "label": 0.0, "idx": 1498}
+{"sentence1": "The white ducks are standing on the ground.", "sentence2": "A woman in a black hat is standing by the subway.", "label": 0.0, "idx": 319}
+{"sentence1": "A Jack is talking on a phone.", "sentence2": "A William is singing to a Zoe.", "label": 0.0, "idx": 54}
+{"sentence1": "The fruits must have lemon juice to stop tummy problems.", "sentence2": "Three pups growled at each other.", "label": 0.0, "idx": 582}
+{"sentence1": "As you can see from this map on the Web site, there are many.", "sentence2": "This is an example I always find is good for first year.", "label": 0.0, "idx": 779}
+{"sentence1": "Poll: Cameron takes early lead for NJ area", "sentence2": "Nora 'took candy every day for a decade'", "label": 0.0, "idx": 1450}
+{"sentence1": "Four gone, many hurt in fights in EG country.", "sentence2": "EG fight: Kid gone in fight at EG city.", "label": 0.0, "idx": 1402}
+{"sentence1": "A man is staring at a leaf.", "sentence2": "A man is slicing a veggie.", "label": 0.0, "idx": 176}
+{"sentence1": "A girl is riding on a horse.", "sentence2": "A boy is shooting guns.", "label": 0.0, "idx": 93}
+{"sentence1": "A lady is hitting a man.", "sentence2": "A lady is taking a bath.", "label": 0.0, "idx": 154}
+{"sentence1": "Adam was invited to give story ideas to Ryan at ST:TNG show.", "sentence2": "It is possible for it to leave the field without harm - it happened.", "label": 0.0, "idx": 927}
+{"sentence1": "The kid in the orange shirt is throwing the ball.", "sentence2": "The black and white furry pup is jumping above the green.", "label": 0.0, "idx": 432}
+{"sentence1": "CH shares closed lower on Wed", "sentence2": "CH kids attacked in FR country", "label": 0.0, "idx": 1351}
+{"sentence1": "A girl does not have her arms up because she cannot move from the neck down.", "sentence2": "A girl is sitting on the steps because she tripped and hurt her foot.", "label": 0.0, "idx": 565}
+{"sentence1": "The boy is playing the keys.", "sentence2": "The lady is pouring oil into the pan.", "label": 0.0, "idx": 199}
+{"sentence1": "\"Frank Quentin is innocent,\" Keker said.", "sentence2": "Quentin lawyer Jack W. Keker said his friend is innocent.", "label": 3.75, "idx": 1026}
+{"sentence1": "Bush said thank you to the group for their work. He said, \"Our space journey will keep going.\"", "sentence2": "Mr. Bush did not talk about this when he said thank you to the group for work. He said, \"Our space journey will keep going.\"", "label": 3.5999999046325684, "idx": 1235}
+{"sentence1": "Every Tuesday, a grains group meets in the helpers' farming place to decide the end of a weekly sending out tender.", "sentence2": "A grains group normally meets each Tuesday in the helpers' farming place -- another goal of Wednesday's raids -- to decide the end of a weekly sending out tender.", "label": 3.5999999046325684, "idx": 1220}
+{"sentence1": "A man is eating a pizza.", "sentence2": "A man is eating a food.", "label": 3.5999999046325684, "idx": 151}
+{"sentence1": "As part of a change, Patrick sold its Remedy help desk thing last year to BMC Software Inc.", "sentence2": "Patrick sold its Remedy business thing to BMC Software in November for $355 million.", "label": 3.0, "idx": 1148}
+{"sentence1": "A parrot talks.", "sentence2": "A parrot talks into a talker.", "label": 3.0, "idx": 187}
+{"sentence1": "A young girl with out-hands stands in front of a \"Going Places\" bus.", "sentence2": "The girl is standing in front of the open door of the bus.", "label": 3.0, "idx": 362}
+{"sentence1": "Kaichen showed up Wednesday in court on two bank taking charges.", "sentence2": "She showed up in court Wednesday, but did not enter a plea.", "label": 3.0, "idx": 1233}
+{"sentence1": "The blue-chip DOW Jones industrial number .DJI climbed 164 points, or 1.91 percent, to 8,765.38, reaching its highest levels since mid-January.", "sentence2": "The blue-chip DOW Jones industrial number .DJI added on 97 points, or 1.14 percent, to 8,699.", "label": 3.0, "idx": 1185}
+{"sentence1": "The time was about 4 morning on March 18, just hours before first sharp rain fell on capital.", "sentence2": "The take was at 4 morning on March 18, just hours before first US hit from sky.", "label": 3.0, "idx": 1097}
+{"sentence1": "Crohn's sickness makes the intestine hurt and makes tummy aches, weight loss and tiredness.", "sentence2": "Symptoms include chronic potty problems, tummy aches, weight loss and extreme sleepiness.", "label": 3.0, "idx": 1248}
+{"sentence1": "A smiling lady holding a tiny baby.", "sentence2": "Two smiling ladies holding a baby.", "label": 3.0, "idx": 272}
+{"sentence1": "Lord Falconer hailed the changes as \"a new start as far as the courts, Crown Talk Service and police are concerned\".", "sentence2": "\"It's a new start as far as the courts, Crown Talk Service and police are concerned, making the bad guy justice system work better.\"", "label": 3.0, "idx": 1015}
+{"sentence1": "Sirius has Radio shows, but not very good shows like \"All Things\" and \"Morning Show\".", "sentence2": "Sirius just got Radio shows, but XM says it is bad because it does not have very good shows like All Things and Morning Show.", "label": 3.4000000953674316, "idx": 1070}
+{"sentence1": "BD bad leader punished.", "sentence2": "BD killed bad leader.", "label": 3.4000000953674316, "idx": 1377}
+{"sentence1": "A girl is moving her body.", "sentence2": "A girl is lifting heavy things.", "label": 3.4000000953674316, "idx": 189}
+{"sentence1": "All we know is this: Far things are moving away from us at a rate that is tied to how far they are from us.", "sentence2": "The growing of space means that things far away are moving away from each other.", "label": 3.4000000953674316, "idx": 646}
+{"sentence1": "Strange thing found in TE city not boom box.", "sentence2": "Police look at strange thing at TE bus place.", "label": 3.4000000953674316, "idx": 1278}
+{"sentence1": "ICC lawyer held in LB country for safety concerns.", "sentence2": "ICC lawyer held in LB country faces 45-day jail.", "label": 3.4000000953674316, "idx": 1306}
+{"sentence1": "A person sitting in an office takes a picture.", "sentence2": "A lady is sitting in an office.", "label": 3.200000047683716, "idx": 522}
+{"sentence1": "David was arrested Monday in his native MD country and charged with murder.", "sentence2": "David, 21, was subsequently charged with Dennehy's murder.", "label": 3.200000047683716, "idx": 1060}
+{"sentence1": "Four kids looking at farm animals.", "sentence2": "Kids looking at a sheep.", "label": 3.200000047683716, "idx": 312}
+{"sentence1": "About 25 big groups have signed in the last four months, about half of those in the last three weeks.", "sentence2": "According to the list, about 25 places have signed deals in the past four months, about half in the past three weeks.", "label": 3.200000047683716, "idx": 1108}
+{"sentence1": "The kid wants to swim.", "sentence2": "The kids want to swim.", "label": 3.799999952316284, "idx": 559}
+{"sentence1": "Roy Moore, the stopped head judge of the AL Supreme Court, stood accused but not sorry Wednesday in the same room he recently led over.", "sentence2": "Moore, the stopped head judge of the AL Supreme Court, stands trial before the AL Court of the Judges.", "label": 3.799999952316284, "idx": 1184}
+{"sentence1": "It will cost about $20,000 per eight-week course of treatment, same as other injected cancer helps, a helper said.", "sentence2": "It will cost about $20,000 per average course of treatment - 16 to 17 weeks.", "label": 3.5, "idx": 1113}
+{"sentence1": "Mahmud let only family see Saddam, army people said.", "sentence2": "Mahmud let Saddam be seen and was near him lots.", "label": 3.5, "idx": 1071}
+{"sentence1": "Yeager said the suspect in the Target attack showed leans of being a before law-breaker.", "sentence2": "Yeager said the incident looked alone, but the suspect showed leans of being a before law-breaker.", "label": 3.7139999866485596, "idx": 1079}
+{"sentence1": "Henry is expected to be named and elected to a second one-year job today and will give the big talk.", "sentence2": "Later Tuesday, Henry was expected to be re-elected for a second one-year job.", "label": 3.3329999446868896, "idx": 1192}
+{"sentence1": "The 30-year bond US30YT=RR went down 14/32 for a number of 4.26 percent from 4.23 percent.", "sentence2": "The 30-year bond US30YT=RR lost 16/32, taking its number to 4.20 percent from 4.18 percent.", "label": 3.3329999446868896, "idx": 1080}
+{"sentence1": "The old MY helper met Emma Wednesday at the lake home in YA city where she is stuck inside.", "sentence2": "Frank met for 90 minutes with Emma, a 1991 winner of the nice prize, at her lake home, where she is stuck inside.", "label": 3.691999912261963, "idx": 1104}
+{"sentence1": "Bulger's brother is now on the group's \"10 Most Sought\" list, sought for 21 hurts.", "sentence2": "Bulger's brother, a past helper, is now on the law group's \"10 Most Sought\" list.", "label": 3.25, "idx": 1174}
+{"sentence1": "The make-believe boom, the first thing in the practice, happened in a car in south SE city.", "sentence2": "The make-believe boom of a radioactive \"dirty bomb\", the first thing in the week-long practice, happened on some acres in the south SE place.", "label": 3.25, "idx": 1242}
+{"sentence1": "\"It seems to me... we're just talking about who wins here,\" said the judge who heard the case alone.", "sentence2": "\"Not counting money for helpers, we're talking about who wins,\" said the judge.", "label": 3.6670000553131104, "idx": 1230}
